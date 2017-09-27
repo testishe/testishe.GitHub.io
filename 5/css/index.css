@@ -1,5 +1,4 @@
-@charset "UTF-8";
-html, body, div, span, applet, object, iframe,
+@charset "UTF-8";html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -11,70 +10,19 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline; }
-
-/* HTML5 display-role reset for older browsers */
+time, mark, audio, video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block; }
-
-body {
-  line-height: 1; }
-
-ol, ul {
-  list-style: none; }
-
-blockquote, q {
-  quotes: none; }
-
+footer, header, hgroup, menu, nav, section{display:block;}
+body{line-height:1;}
+ol, ul{list-style:none;}
+blockquote, q{quotes:none;}
 blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none; }
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0; }
-
-* {
-  box-sizing: border-box;
-  outline: none; }
-
-*::before, *::after {
-  box-sizing: border-box; }
-
-/*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
-/**
- * 1. Change the default font family in all browsers (opinionated).
- * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
- */
-html {
-  font-family: sans-serif;
-  /* 1 */
-  -ms-text-size-adjust: 100%;
-  /* 2 */
-  -webkit-text-size-adjust: 100%;
-  /* 2 */ }
-
-/**
- * Remove the margin in all browsers (opinionated).
- */
-body {
-  margin: 0; }
-
-/* HTML5 display definitions
-   ========================================================================== */
-/**
- * Add the correct display in IE 9-.
- * 1. Add the correct display in Edge, IE, and Firefox.
- * 2. Add the correct display in IE.
- */
+q:before, q:after{content:'';content:none;}
+table{border-collapse:collapse;border-spacing:0;}
+*{box-sizing:border-box;outline:none;}
+*::before, *::after{box-sizing:border-box;}
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;}
+body{margin:0;}
 article,
 aside,
 details,
@@ -86,1024 +34,260 @@ main,
 menu,
 nav,
 section,
-summary {
-  /* 1 */
-  display: block; }
-
-/**
- * Add the correct display in IE 9-.
- */
+summary{display:block;}
 audio,
 canvas,
 progress,
-video {
-  display: inline-block; }
-
-/**
- * Add the correct display in iOS 4-7.
- */
-audio:not([controls]) {
-  display: none;
-  height: 0; }
-
-/**
- * Add the correct vertical alignment in Chrome, Firefox, and Opera.
- */
-progress {
-  vertical-align: baseline; }
-
-/**
- * Add the correct display in IE 10-.
- * 1. Add the correct display in IE.
- */
+video{display:inline-block;}
+audio:not([controls]){display:none;height:0;}
+progress{vertical-align:baseline;}
 template,
-[hidden] {
-  display: none; }
-
-/* Links
-   ========================================================================== */
-/**
- * 1. Remove the gray background on active links in IE 10.
- * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
- */
-a {
-  background-color: transparent;
-  /* 1 */
-  -webkit-text-decoration-skip: objects;
-  /* 2 */ }
-
-/**
- * Remove the outline on focused links when they are also active or hovered
- * in all browsers (opinionated).
- */
+[hidden]{display:none;}
+a{background-color:transparent;-webkit-text-decoration-skip:objects;}
 a:active,
-a:hover {
-  outline-width: 0; }
-
-/* Text-level semantics
-   ========================================================================== */
-/**
- * 1. Remove the bottom border in Firefox 39-.
- * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
- */
-abbr[title] {
-  border-bottom: none;
-  /* 1 */
-  text-decoration: underline;
-  /* 2 */
-  text-decoration: underline dotted;
-  /* 2 */ }
-
-/**
- * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
- */
+a:hover{outline-width:0;}
+abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted;}
 b,
-strong {
-  font-weight: inherit; }
-
-/**
- * Add the correct font weight in Chrome, Edge, and Safari.
- */
+strong{font-weight:inherit;}
 b,
-strong {
-  font-weight: bolder; }
-
-/**
- * Add the correct font style in Android 4.3-.
- */
-dfn {
-  font-style: italic; }
-
-/**
- * Correct the font size and margin on `h1` elements within `section` and
- * `article` contexts in Chrome, Firefox, and Safari.
- */
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0; }
-
-/**
- * Add the correct background and color in IE 9-.
- */
-mark {
-  background-color: #ff0;
-  color: #000; }
-
-/**
- * Add the correct font size in all browsers.
- */
-small {
-  font-size: 80%; }
-
-/**
- * Prevent `sub` and `sup` elements from affecting the line height in
- * all browsers.
- */
+strong{font-weight:bolder;}
+dfn{font-style:italic;}
+h1{font-size:2em;margin:0.67em 0;}
+mark{background-color:#ff0;color:#000;}
+small{font-size:80%;}
 sub,
-sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline; }
-
-sub {
-  bottom: -0.25em; }
-
-sup {
-  top: -0.5em; }
-
-/* Embedded content
-   ========================================================================== */
-/**
- * Remove the border on images inside links in IE 10-.
- */
-img {
-  border-style: none; }
-
-/**
- * Hide the overflow in IE.
- */
-svg:not(:root) {
-  overflow: hidden; }
-
-/* Grouping content
-   ========================================================================== */
-/**
- * 1. Correct the inheritance and scaling of font size in all browsers.
- * 2. Correct the odd `em` font sizing in all browsers.
- */
+sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}
+sub{bottom:-0.25em;}
+sup{top:-0.5em;}
+img{border-style:none;}
+svg:not(:root){overflow:hidden;}
 code,
 kbd,
 pre,
-samp {
-  font-family: monospace, monospace;
-  /* 1 */
-  font-size: 1em;
-  /* 2 */ }
-
-/**
- * Add the correct margin in IE 8.
- */
-figure {
-  margin: 1em 40px; }
-
-/**
- * 1. Add the correct box sizing in Firefox.
- * 2. Show the overflow in Edge and IE.
- */
-hr {
-  box-sizing: content-box;
-  /* 1 */
-  height: 0;
-  /* 1 */
-  overflow: visible;
-  /* 2 */ }
-
-/* Forms
-   ========================================================================== */
-/**
- * 1. Change font properties to `inherit` in all browsers (opinionated).
- * 2. Remove the margin in Firefox and Safari.
- */
+samp{font-family:monospace, monospace;font-size:1em;}
+figure{margin:1em 40px;}
+hr{box-sizing:content-box;height:0;overflow:visible;}
 button,
 input,
 select,
-textarea {
-  font: inherit;
-  /* 1 */
-  margin: 0;
-  /* 2 */ }
-
-/**
- * Restore the font weight unset by the previous rule.
- */
-optgroup {
-  font-weight: bold; }
-
-/**
- * Show the overflow in IE.
- * 1. Show the overflow in Edge.
- */
+textarea{font:inherit;margin:0;}
+optgroup{font-weight:bold;}
 button,
-input {
-  /* 1 */
-  overflow: visible; }
-
-/**
- * Remove the inheritance of text transform in Edge, Firefox, and IE.
- * 1. Remove the inheritance of text transform in Firefox.
- */
+input{overflow:visible;}
 button,
-select {
-  /* 1 */
-  text-transform: none; }
-
-/**
- * 1. Prevent a WebKit bug where (2) destroys native `audio` and `video`
- *    controls in Android 4.
- * 2. Correct the inability to style clickable types in iOS and Safari.
- */
+select{text-transform:none;}
 button,
 html [type="button"],
 [type="reset"],
-[type="submit"] {
-  -webkit-appearance: button;
-  /* 2 */ }
-
-/**
- * Remove the inner border and padding in Firefox.
- */
+[type="submit"]{-webkit-appearance:button;}
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
-[type="submit"]::-moz-focus-inner {
-  border-style: none;
-  padding: 0; }
-
-/**
- * Restore the focus styles unset by the previous rule.
- */
+[type="submit"]::-moz-focus-inner{border-style:none;padding:0;}
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
-[type="submit"]:-moz-focusring {
-  outline: 1px dotted ButtonText; }
-
-/**
- * Change the border, margin, and padding in all browsers (opinionated).
- */
-fieldset {
-  border: 1px solid #c0c0c0;
-  margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em; }
-
-/**
- * 1. Correct the text wrapping in Edge and IE.
- * 2. Correct the color inheritance from `fieldset` elements in IE.
- * 3. Remove the padding so developers are not caught out when they zero out
- *    `fieldset` elements in all browsers.
- */
-legend {
-  box-sizing: border-box;
-  /* 1 */
-  color: inherit;
-  /* 2 */
-  display: table;
-  /* 1 */
-  max-width: 100%;
-  /* 1 */
-  padding: 0;
-  /* 3 */
-  white-space: normal;
-  /* 1 */ }
-
-/**
- * Remove the default vertical scrollbar in IE.
- */
-textarea {
-  overflow: auto; }
-
-/**
- * 1. Add the correct box sizing in IE 10-.
- * 2. Remove the padding in IE 10-.
- */
+[type="submit"]:-moz-focusring{outline:1px dotted ButtonText;}
+fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em;}
+legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal;}
+textarea{overflow:auto;}
 [type="checkbox"],
-[type="radio"] {
-  box-sizing: border-box;
-  /* 1 */
-  padding: 0;
-  /* 2 */ }
-
-/**
- * Correct the cursor style of increment and decrement buttons in Chrome.
- */
+[type="radio"]{box-sizing:border-box;padding:0;}
 [type="number"]::-webkit-inner-spin-button,
-[type="number"]::-webkit-outer-spin-button {
-  height: auto; }
-
-/**
- * 1. Correct the odd appearance in Chrome and Safari.
- * 2. Correct the outline style in Safari.
- */
-[type="search"] {
-  -webkit-appearance: textfield;
-  /* 1 */
-  outline-offset: -2px;
-  /* 2 */ }
-
-/**
- * Remove the inner padding and cancel buttons in Chrome and Safari on OS X.
- */
+[type="number"]::-webkit-outer-spin-button{height:auto;}
+[type="search"]{-webkit-appearance:textfield;outline-offset:-2px;}
 [type="search"]::-webkit-search-cancel-button,
-[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none; }
-
-/**
- * Correct the text style of placeholders in Chrome, Edge, and Safari.
- */
-::-webkit-input-placeholder {
-  color: inherit;
-  opacity: 0.54; }
-
-/**
- * 1. Correct the inability to style clickable types in iOS and Safari.
- * 2. Change font properties to `inherit` in Safari.
- */
-::-webkit-file-upload-button {
-  -webkit-appearance: button;
-  /* 1 */
-  font: inherit;
-  /* 2 */ }
-
-@font-face {
-  font-family: Regular;
-  src: url("../fonts/GothaProReg.otf"); }
-
-@font-face {
-  font-family: Black;
-  src: url("../fonts/GothaProBla.otf"); }
-
-@font-face {
-  font-family: Bold;
-  src: url("../fonts/GothaProBol.otf"); }
-
-@font-face {
-  font-family: Medium;
-  src: url("../fonts/GothaProMed.otf"); }
-
-@font-face {
-  font-family: Din;
-  src: url("../fonts/DIN Condensed Bold.ttf"); }
-
-.wrapper header .inner:after, .wrapper .screen-3 .inner:after, .wrapper .screen-6 .inner:after, .wrapper .screen-11 .inner:after, .wrapper footer .inner:after, .wrapper header .inner form .form-bottom .timer-block:after, .wrapper .screen-3 .inner form .form-bottom .timer-block:after, .wrapper .screen-6 .inner form .form-bottom .timer-block:after, .wrapper .screen-11 .inner form .form-bottom .timer-block:after, .wrapper footer .inner form .form-bottom .timer-block:after, .wrapper .screen-2 .inner .content:after, .wrapper .screen-4 .inner:after, .wrapper .screen-8 .inner .content:after, .wrapper .screen-9 .inner .content:after, .wrapper .screen-12 .inner .content:after, .wrapper .screen-13 .inner .reviews:after {
-  content: "";
-  display: block;
-  clear: both; }
-
-.inner {
-  display: block;
-  width: 1280px;
-  margin: 0 auto; }
-
-h1, h2, h3, h4, h5, h6 {
-  margin: 0; }
-
-.bold {
-  font-family: "Bold"; }
-
-.black {
-  font-family: "Black"; }
-
-.medium {
-  font-family: "Medium"; }
-
-.wrapper {
-  font-family: "Regular";
-  overflow: hidden;
-  width: 100%; }
-  .wrapper header, .wrapper .screen-3, .wrapper .screen-6, .wrapper .screen-11, .wrapper footer {
-    background-image: url(../images/bg-header.jpg);
-    background-size: cover;
-    background-position: center; }
-    .wrapper header .inner img.logo, .wrapper .screen-3 .inner img.logo, .wrapper .screen-6 .inner img.logo, .wrapper .screen-11 .inner img.logo, .wrapper footer .inner img.logo {
-      float: left;
-      margin: 35px 0 0 60px; }
-    .wrapper header .inner form, .wrapper .screen-3 .inner form, .wrapper .screen-6 .inner form, .wrapper .screen-11 .inner form, .wrapper footer .inner form {
-      float: right;
-      width: 473px;
-      background-color: #fff; }
-      .wrapper header .inner form .form-top, .wrapper .screen-3 .inner form .form-top, .wrapper .screen-6 .inner form .form-top, .wrapper .screen-11 .inner form .form-top, .wrapper footer .inner form .form-top {
-        padding: 30px 20px;
-        background-image: url(../images/bg-prod.jpg);
-        background-repeat: no-repeat;
-        background-position: bottom right;
-        background-color: #000; }
-        .wrapper header .inner form .form-top .h1, .wrapper .screen-3 .inner form .form-top .h1, .wrapper .screen-6 .inner form .form-top .h1, .wrapper .screen-11 .inner form .form-top .h1, .wrapper footer .inner form .form-top .h1 {
-          font-family: "Black";
-          font-size: 24px;
-          color: #fff;
-          text-transform: uppercase;
-          padding-bottom: 30px; }
-        .wrapper header .inner form .form-top .price_new, .wrapper .screen-3 .inner form .form-top .price_new, .wrapper .screen-6 .inner form .form-top .price_new, .wrapper .screen-11 .inner form .form-top .price_new, .wrapper footer .inner form .form-top .price_new {
-          display: inline-block;
-          color: #FFD334;
-          font-size: 36px;
-          font-family: "Black"; }
-        .wrapper header .inner form .form-top .discount, .wrapper .screen-3 .inner form .form-top .discount, .wrapper .screen-6 .inner form .form-top .discount, .wrapper .screen-11 .inner form .form-top .discount, .wrapper footer .inner form .form-top .discount {
-          display: inline-block;
-          color: #FFD334;
-          font-family: "Medium";
-          font-size: 32px;
-          margin-left: 30px;
-          position: relative; }
-          .wrapper header .inner form .form-top .discount:before, .wrapper .screen-3 .inner form .form-top .discount:before, .wrapper .screen-6 .inner form .form-top .discount:before, .wrapper .screen-11 .inner form .form-top .discount:before, .wrapper footer .inner form .form-top .discount:before {
-            content: "Скидка";
-            position: absolute;
-            font-family: "Medium";
-            color: #FFD334;
-            font-size: 12px;
-            left: 0;
-            top: -15px; }
-      .wrapper header .inner form .form-title, .wrapper .screen-3 .inner form .form-title, .wrapper .screen-6 .inner form .form-title, .wrapper .screen-11 .inner form .form-title, .wrapper footer .inner form .form-title {
-        display: block;
-        padding: 30px 20px 20px;
-        font-family: "Black";
-        font-size: 24px; }
-      .wrapper header .inner form .form-bottom, .wrapper .screen-3 .inner form .form-bottom, .wrapper .screen-6 .inner form .form-bottom, .wrapper .screen-11 .inner form .form-bottom, .wrapper footer .inner form .form-bottom {
-        padding: 0 20px; }
-        .wrapper header .inner form .form-bottom input, .wrapper .screen-3 .inner form .form-bottom input, .wrapper .screen-6 .inner form .form-bottom input, .wrapper .screen-11 .inner form .form-bottom input, .wrapper footer .inner form .form-bottom input {
-          display: block;
-          width: 100%;
-          height: 64px;
-          background-color: #EEF2F7;
-          border-radius: 4px;
-          margin-bottom: 16px;
-          border: none;
-          padding: 0 18px; }
-          .wrapper header .inner form .form-bottom input:nth-child(2), .wrapper .screen-3 .inner form .form-bottom input:nth-child(2), .wrapper .screen-6 .inner form .form-bottom input:nth-child(2), .wrapper .screen-11 .inner form .form-bottom input:nth-child(2), .wrapper footer .inner form .form-bottom input:nth-child(2) {
-            margin-bottom: 30px; }
-        .wrapper header .inner form .form-bottom button, .wrapper .screen-3 .inner form .form-bottom button, .wrapper .screen-6 .inner form .form-bottom button, .wrapper .screen-11 .inner form .form-bottom button, .wrapper footer .inner form .form-bottom button {
-          display: block;
-          width: 100%;
-          height: 64px;
-          border: none;
-          border-radius: 4px;
-          font-family: "Black";
-          font-size: 24px;
-          color: #fff;
-          background-color: #2ECC71;
-          margin-bottom: 30px;
-          transition: all .5s;
-          cursor: pointer; }
-          .wrapper header .inner form .form-bottom button:hover, .wrapper .screen-3 .inner form .form-bottom button:hover, .wrapper .screen-6 .inner form .form-bottom button:hover, .wrapper .screen-11 .inner form .form-bottom button:hover, .wrapper footer .inner form .form-bottom button:hover {
-            background-color: #1b7943; }
-        .wrapper header .inner form .form-bottom .attention, .wrapper .screen-3 .inner form .form-bottom .attention, .wrapper .screen-6 .inner form .form-bottom .attention, .wrapper .screen-11 .inner form .form-bottom .attention, .wrapper footer .inner form .form-bottom .attention {
-          display: block;
-          font-size: 14px;
-          line-height: 24px;
-          padding-bottom: 30px; }
-        .wrapper header .inner form .form-bottom .timer-block, .wrapper .screen-3 .inner form .form-bottom .timer-block, .wrapper .screen-6 .inner form .form-bottom .timer-block, .wrapper .screen-11 .inner form .form-bottom .timer-block, .wrapper footer .inner form .form-bottom .timer-block {
-          padding-bottom: 33px; }
-          .wrapper header .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer-title, .wrapper footer .inner form .form-bottom .timer-block .timer-title {
-            float: left;
-            width: 163px;
-            font-family: "Bold";
-            font-size: 16px;
-            line-height: 22px; }
-          .wrapper header .inner form .form-bottom .timer-block .timer, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer, .wrapper footer .inner form .form-bottom .timer-block .timer {
-            float: left;
-            width: 60%;
-            display: inline-block;
-            font-family: "Din";
-            font-size: 62px;
-            color: #000;
-            margin-top: -10px; }
-            .wrapper header .inner form .form-bottom .timer-block .timer ul, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul, .wrapper footer .inner form .form-bottom .timer-block .timer ul {
-              padding: 0;
-              margin: 0; }
-              .wrapper header .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li, .wrapper footer .inner form .form-bottom .timer-block .timer ul li {
-                list-style: none;
-                float: left;
-                margin-right: 10px; }
-                .wrapper header .inner form .form-bottom .timer-block .timer ul li span.hours,
-                .wrapper header .inner form .form-bottom .timer-block .timer ul li span.mins,
-                .wrapper header .inner form .form-bottom .timer-block .timer ul li span.secs, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span.hours,
-                .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span.mins,
-                .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span.secs, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span.hours,
-                .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span.mins,
-                .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span.secs, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span.hours,
-                .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span.mins,
-                .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span.secs, .wrapper footer .inner form .form-bottom .timer-block .timer ul li span.hours,
-                .wrapper footer .inner form .form-bottom .timer-block .timer ul li span.mins,
-                .wrapper footer .inner form .form-bottom .timer-block .timer ul li span.secs {
-                  display: block; }
-                .wrapper header .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper footer .inner form .form-bottom .timer-block .timer ul li span + span {
-                  font-family: "Bold";
-                  font-size: 10px;
-                  display: block;
-                  text-align: center; }
-  .wrapper .screen-2 {
-    padding: 65px 0 69px; }
-    .wrapper .screen-2 .inner .title {
-      display: block;
-      font-family: "Black";
-      font-size: 70px;
-      padding-bottom: 45px; }
-      .wrapper .screen-2 .inner .title:last-child {
-        padding-bottom: 0;
-        padding-top: 120px; }
-    .wrapper .screen-2 .inner .content .content-item {
-      float: left;
-      width: 33.33%;
-      padding-bottom: 140px; }
-      .wrapper .screen-2 .inner .content .content-item img, .wrapper .screen-2 .inner .content .content-item .desc {
-        float: left; }
-      .wrapper .screen-2 .inner .content .content-item img {
-        display: block;
-        width: 95px; }
-      .wrapper .screen-2 .inner .content .content-item .desc {
-        width: 300px;
-        padding-left: 35px;
-        font-family: "Medium";
-        font-size: 24px;
-        line-height: 26px;
-        padding-top: 15px; }
-      .wrapper .screen-2 .inner .content .content-item:nth-child(3) .desc {
-        padding-top: 5px; }
-    .wrapper .screen-2 .inner .content .pars {
-      float: left;
-      width: 60%; }
-    .wrapper .screen-2 .inner .content .scr2-img {
-      float: left;
-      width: 40%; }
-    .wrapper .screen-2 .inner .content .pars {
-      padding-top: 90px;
-      padding-left: 90px;
-      font-family: "Medium";
-      font-size: 24px; }
-      .wrapper .screen-2 .inner .content .pars p {
-        padding-bottom: 15px; }
-    .wrapper .screen-2 .inner .content .scr2-img img {
-      display: block;
-      width: 100%; }
-  .wrapper .screen-3 {
-    background-image: url(../images/bg-3.jpg); }
-    .wrapper .screen-3 .inner h3.title {
-      float: left;
-      width: 60%;
-      font-family: "Black";
-      font-size: 48px;
-      text-transform: uppercase;
-      padding-top: 36px; }
-  .wrapper .screen-4 {
-    padding: 90px 0 100px; }
-    .wrapper .screen-4 .inner .left-side, .wrapper .screen-4 .inner .right-side {
-      float: left;
-      width: 50%; }
-      .wrapper .screen-4 .inner .left-side h3.title, .wrapper .screen-4 .inner .right-side h3.title {
-        display: block;
-        font-family: "Black";
-        font-size: 48px;
-        text-transform: uppercase;
-        padding-bottom: 65px; }
-      .wrapper .screen-4 .inner .left-side .pars, .wrapper .screen-4 .inner .right-side .pars {
-        font-family: "Medium";
-        font-size: 20px;
-        padding-bottom: 55px; }
-        .wrapper .screen-4 .inner .left-side .pars p, .wrapper .screen-4 .inner .right-side .pars p {
-          padding-bottom: 15px; }
-      .wrapper .screen-4 .inner .left-side img, .wrapper .screen-4 .inner .right-side img {
-        display: block;
-        margin: 0 auto; }
-  .wrapper .screen-5 img {
-    display: block;
-    width: 100%; }
-  .wrapper .screen-7 {
-    padding: 125px 0 105px;
-    background-image: url(../images/bg-7.jpg);
-    background-size: cover;
-    background-position: center;
-    color: #fff; }
-    .wrapper .screen-7 .title {
-      display: block;
-      font-family: "Black";
-      font-size: 70px;
-      text-transform: uppercase;
-      text-align: center;
-      padding-bottom: 20px; }
-      .wrapper .screen-7 .title span {
-        color: #FFD632; }
-    .wrapper .screen-7 .subtitle {
-      display: block;
-      text-align: center;
-      font-family: "Medium";
-      font-size: 18px;
-      line-height: 20px; }
-  .wrapper .screen-8 {
-    padding: 64px 0; }
-    .wrapper .screen-8 .inner .title {
-      display: block;
-      font-family: "Black";
-      font-size: 70px;
-      text-transform: uppercase;
-      padding-bottom: 20px; }
-    .wrapper .screen-8 .inner .content {
-      padding-bottom: 20px; }
-      .wrapper .screen-8 .inner .content .content-item {
-        float: left;
-        width: 25%; }
-        .wrapper .screen-8 .inner .content .content-item img {
-          display: block;
-          margin: 0 auto 35px;
-          width: 90px;
-          height: 85px; }
-        .wrapper .screen-8 .inner .content .content-item .desc {
-          display: block;
-          text-align: center;
-          font-family: "Medium";
-          font-size: 18px;
-          line-height: 20px; }
-    .wrapper .screen-8 .inner .subtitle {
-      display: block;
-      text-align: center;
-      font-family: "Black";
-      font-size: 48px;
-      text-transform: uppercase; }
-  .wrapper .screen-9 {
-    padding: 64px 0 50px; }
-    .wrapper .screen-9 .inner .title {
-      display: block;
-      font-family: "Black";
-      font-size: 70px;
-      text-transform: uppercase;
-      padding-bottom: 95px; }
-    .wrapper .screen-9 .inner .content .left-side, .wrapper .screen-9 .inner .content .right-side {
-      float: left;
-      width: 50%; }
-      .wrapper .screen-9 .inner .content .left-side p, .wrapper .screen-9 .inner .content .right-side p {
-        font-family: "Medium";
-        font-size: 20px;
-        padding-bottom: 20px; }
-      .wrapper .screen-9 .inner .content .left-side img, .wrapper .screen-9 .inner .content .right-side img {
-        display: block;
-        width: 90%;
-        margin: 0 auto; }
-    .wrapper .screen-9 .inner .content .right-side p {
-      padding-bottom: 90px; }
-  .wrapper .screen-10 {
-    padding: 30px 0 0; }
-    .wrapper .screen-10 .inner .title {
-      display: block;
-      font-family: "Black";
-      font-size: 70px;
-      text-transform: uppercase;
-      padding-bottom: 95px; }
-    .wrapper .screen-10 .inner img {
-      display: block;
-      width: 100%; }
-  .wrapper .screen-12 {
-    padding: 80px 0 50px; }
-    .wrapper .screen-12 .inner .title {
-      display: block;
-      font-family: "Black";
-      font-size: 70px;
-      text-transform: uppercase;
-      padding-bottom: 60px; }
-    .wrapper .screen-12 .inner .content img {
-      float: left;
-      width: 226px; }
-    .wrapper .screen-12 .inner .content p {
-      display: block;
-      padding-left: 256px;
-      font-family: "Medium";
-      font-size: 20px;
-      line-height: 30px; }
-      .wrapper .screen-12 .inner .content p:last-child {
-        padding-top: 30px;
-        color: #999; }
-  .wrapper .screen-13 {
-    padding: 30px 0 80px; }
-    .wrapper .screen-13 .inner .title {
-      display: block;
-      font-family: "Black";
-      font-size: 70px;
-      text-transform: uppercase;
-      padding-bottom: 60px; }
-    .wrapper .screen-13 .inner .reviews .reviews-item {
-      float: left;
-      width: 33.33%;
-      padding: 0 10px; }
-      .wrapper .screen-13 .inner .reviews .reviews-item img {
-        display: block;
-        width: 165px;
-        margin: 0 auto 60px; }
-      .wrapper .screen-13 .inner .reviews .reviews-item .desc, .wrapper .screen-13 .inner .reviews .reviews-item .name {
-        display: block;
-        font-family: "Regular";
-        font-size: 16px;
-        line-height: 20px; }
-      .wrapper .screen-13 .inner .reviews .reviews-item .name {
-        color: #999;
-        padding-top: 30px; }
-  .wrapper .copyright {
-    padding: 140px 0 70px;
-    text-align: center;
-    font-size: 14px;
-    line-height: 18px; }
-    .wrapper .copyright p {
-      padding-bottom: 20px; }
-
-input::-webkit-input-placeholder {
-  color: #828282;
-  font-size: 18px;
-  font-family: "Regular";
-  transition: opacity 0.3s ease; }
-
-input::-moz-placeholder {
-  color: #828282;
-  font-size: 18px;
-  font-family: "Regular";
-  transition: opacity 0.3s ease; }
-
-input:-moz-placeholder {
-  color: #828282;
-  font-size: 18px;
-  font-family: "Regular";
-  transition: opacity 0.3s ease; }
-
-input:-ms-input-placeholder {
-  color: #828282;
-  font-size: 18px;
-  font-family: "Regular";
-  transition: opacity 0.3s ease; }
-
-input:focus::-webkit-input-placeholder {
-  opacity: 0;
-  transition: opacity 0.3s ease; }
-
-input:focus::-moz-placeholder {
-  opacity: 0;
-  transition: opacity 0.3s ease; }
-
-input:focus:-moz-placeholder {
-  opacity: 0;
-  transition: opacity 0.3s ease; }
-
-input:focus:-ms-input-placeholder {
-  opacity: 0;
-  transition: opacity 0.3s ease; }
-
-
-
-@media(max-width: 1300px) {
-  .inner {
-    width: 960px;
-  }
-  .wrapper .screen-2 .inner .title,
-  .wrapper .screen-8 .inner .title,
-  .wrapper .screen-9 .inner .title,
-  .wrapper .screen-10 .inner .title,
-  .wrapper .screen-12 .inner .title,
-  .wrapper .screen-13 .inner .title {
-    font-size: 60px;
-  }
-  .wrapper .screen-2 .inner .content .content-item {
-    padding-bottom: 65px;
-  }
-  .wrapper .screen-2 .inner .content .content-item .desc {
-    width: 210px;
-    font-size: 18px;
-    padding-left: 12px;
-  }
-  .wrapper .screen-2 .inner .title:last-child {
-    padding-top: 60px;
-  }
-  .wrapper .screen-3 .inner h3.title {
-    width: 45%;
-    font-size: 38px;
-  }
-  .wrapper .screen-4 .inner .left-side, .wrapper .screen-4 .inner .right-side {
-    padding: 0 15px;
-  }
-  .wrapper .screen-4 .inner .left-side h3.title, .wrapper .screen-4 .inner .right-side h3.title {
-    font-size: 38px;
-  }
-  .wrapper .screen-4 .inner .left-side img, .wrapper .screen-4 .inner .right-side img {
-    width: 100%;
-  }
-  .wrapper .screen-7 .title {
-    font-size: 50px;
-  }
-  .wrapper .screen-8 .inner .content .content-item {
-    padding: 0 10px;
-  }
-  .wrapper .screen-8 .inner .content .content-item .desc {
-    font-size: 16px;
-  }
-  .wrapper .screen-8 .inner .subtitle {
-    font-size: 42px;
-  }
+[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}
+::-webkit-input-placeholder{color:inherit;opacity:0.54;}
+::-webkit-file-upload-button{-webkit-appearance:button;font:inherit;}
+@font-face{font-family:Regular;src:url("../fonts/GothaProReg.otf");}
+@font-face{font-family:Black;src:url("../fonts/GothaProBla.otf");}
+@font-face{font-family:Bold;src:url("../fonts/GothaProBol.otf");}
+@font-face{font-family:Medium;src:url("../fonts/GothaProMed.otf");}
+@font-face{font-family:Din;src:url("../fonts/DIN Condensed Bold.ttf");}
+.wrapper header .inner:after, .wrapper .screen-3 .inner:after, .wrapper .screen-6 .inner:after, .wrapper .screen-11 .inner:after, .wrapper footer .inner:after, .wrapper header .inner form .form-bottom .timer-block:after, .wrapper .screen-3 .inner form .form-bottom .timer-block:after, .wrapper .screen-6 .inner form .form-bottom .timer-block:after, .wrapper .screen-11 .inner form .form-bottom .timer-block:after, .wrapper footer .inner form .form-bottom .timer-block:after, .wrapper .screen-2 .inner .content:after, .wrapper .screen-4 .inner:after, .wrapper .screen-8 .inner .content:after, .wrapper .screen-9 .inner .content:after, .wrapper .screen-12 .inner .content:after, .wrapper .screen-13 .inner .reviews:after{content:"";display:block;clear:both;}
+.inner{display:block;width:1280px;margin:0 auto;}
+h1, h2, h3, h4, h5, h6{margin:0;}
+.bold{font-family:"Bold";}
+.black{font-family:"Black";}
+.medium{font-family:"Medium";}
+.wrapper{font-family:"Regular";overflow:hidden;width:100%;}
+.wrapper header, .wrapper .screen-3, .wrapper .screen-6, .wrapper .screen-11, .wrapper footer{background-image:url(../images/bg-header.jpg);background-size:cover;background-position:center;}
+.wrapper header .inner img.logo, .wrapper .screen-3 .inner img.logo, .wrapper .screen-6 .inner img.logo, .wrapper .screen-11 .inner img.logo, .wrapper footer .inner img.logo{float:left;margin:35px 0 0 60px;}
+.wrapper header .inner form, .wrapper .screen-3 .inner form, .wrapper .screen-6 .inner form, .wrapper .screen-11 .inner form, .wrapper footer .inner form{float:right;width:473px;background-color:#fff;}
+.wrapper header .inner form .form-top, .wrapper .screen-3 .inner form .form-top, .wrapper .screen-6 .inner form .form-top, .wrapper .screen-11 .inner form .form-top, .wrapper footer .inner form .form-top{padding:30px 20px;background-image:url(../images/bg-prod.jpg);background-repeat:no-repeat;background-position:bottom right;background-color:#000;}
+.wrapper header .inner form .form-top .h1, .wrapper .screen-3 .inner form .form-top .h1, .wrapper .screen-6 .inner form .form-top .h1, .wrapper .screen-11 .inner form .form-top .h1, .wrapper footer .inner form .form-top .h1{font-family:"Black";font-size:24px;color:#fff;text-transform:uppercase;padding-bottom:30px;}
+.wrapper header .inner form .form-top .price_new, .wrapper .screen-3 .inner form .form-top .price_new, .wrapper .screen-6 .inner form .form-top .price_new, .wrapper .screen-11 .inner form .form-top .price_new, .wrapper footer .inner form .form-top .price_new{display:inline-block;color:#FFD334;font-size:36px;font-family:"Black";}
+.wrapper header .inner form .form-top .discount, .wrapper .screen-3 .inner form .form-top .discount, .wrapper .screen-6 .inner form .form-top .discount, .wrapper .screen-11 .inner form .form-top .discount, .wrapper footer .inner form .form-top .discount{display:inline-block;color:#FFD334;font-family:"Medium";font-size:32px;margin-left:30px;position:relative;}
+.wrapper header .inner form .form-top .discount:before, .wrapper .screen-3 .inner form .form-top .discount:before, .wrapper .screen-6 .inner form .form-top .discount:before, .wrapper .screen-11 .inner form .form-top .discount:before, .wrapper footer .inner form .form-top .discount:before{content:"Скидка";position:absolute;font-family:"Medium";color:#FFD334;font-size:12px;left:0;top:-15px;}
+.wrapper header .inner form .form-title, .wrapper .screen-3 .inner form .form-title, .wrapper .screen-6 .inner form .form-title, .wrapper .screen-11 .inner form .form-title, .wrapper footer .inner form .form-title{display:block;padding:30px 20px 20px;font-family:"Black";font-size:24px;}
+.wrapper header .inner form .form-bottom, .wrapper .screen-3 .inner form .form-bottom, .wrapper .screen-6 .inner form .form-bottom, .wrapper .screen-11 .inner form .form-bottom, .wrapper footer .inner form .form-bottom{padding:0 20px;}
+.wrapper header .inner form .form-bottom input, .wrapper .screen-3 .inner form .form-bottom input, .wrapper .screen-6 .inner form .form-bottom input, .wrapper .screen-11 .inner form .form-bottom input, .wrapper footer .inner form .form-bottom input{display:block;width:100%;height:64px;background-color:#EEF2F7;border-radius:4px;margin-bottom:16px;border:none;padding:0 18px;}
+.wrapper header .inner form .form-bottom input:nth-child(2), .wrapper .screen-3 .inner form .form-bottom input:nth-child(2), .wrapper .screen-6 .inner form .form-bottom input:nth-child(2), .wrapper .screen-11 .inner form .form-bottom input:nth-child(2), .wrapper footer .inner form .form-bottom input:nth-child(2){margin-bottom:30px;}
+.wrapper header .inner form .form-bottom button, .wrapper .screen-3 .inner form .form-bottom button, .wrapper .screen-6 .inner form .form-bottom button, .wrapper .screen-11 .inner form .form-bottom button, .wrapper footer .inner form .form-bottom button{display:block;width:100%;height:64px;border:none;border-radius:4px;font-family:"Black";font-size:24px;color:#fff;background-color:#2ECC71;margin-bottom:30px;transition:all .5s;cursor:pointer;}
+.wrapper header .inner form .form-bottom button:hover, .wrapper .screen-3 .inner form .form-bottom button:hover, .wrapper .screen-6 .inner form .form-bottom button:hover, .wrapper .screen-11 .inner form .form-bottom button:hover, .wrapper footer .inner form .form-bottom button:hover{background-color:#1b7943;}
+.wrapper header .inner form .form-bottom .attention, .wrapper .screen-3 .inner form .form-bottom .attention, .wrapper .screen-6 .inner form .form-bottom .attention, .wrapper .screen-11 .inner form .form-bottom .attention, .wrapper footer .inner form .form-bottom .attention{display:block;font-size:14px;line-height:24px;padding-bottom:30px;}
+.wrapper header .inner form .form-bottom .timer-block, .wrapper .screen-3 .inner form .form-bottom .timer-block, .wrapper .screen-6 .inner form .form-bottom .timer-block, .wrapper .screen-11 .inner form .form-bottom .timer-block, .wrapper footer .inner form .form-bottom .timer-block{padding-bottom:33px;}
+.wrapper header .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer-title, .wrapper footer .inner form .form-bottom .timer-block .timer-title{float:left;width:163px;font-family:"Bold";font-size:16px;line-height:22px;}
+.wrapper header .inner form .form-bottom .timer-block .timer, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer, .wrapper footer .inner form .form-bottom .timer-block .timer{float:left;width:60%;display:inline-block;font-family:"Din";font-size:62px;color:#000;margin-top:-10px;}
+.wrapper header .inner form .form-bottom .timer-block .timer ul, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul, .wrapper footer .inner form .form-bottom .timer-block .timer ul{padding:0;margin:0;}
+.wrapper header .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li, .wrapper footer .inner form .form-bottom .timer-block .timer ul li{list-style:none;float:left;margin-right:10px;}
+.wrapper header .inner form .form-bottom .timer-block .timer ul li span.hours,
+.wrapper header .inner form .form-bottom .timer-block .timer ul li span.mins,
+.wrapper header .inner form .form-bottom .timer-block .timer ul li span.secs, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span.hours,
+.wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span.mins,
+.wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span.secs, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span.hours,
+.wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span.mins,
+.wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span.secs, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span.hours,
+.wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span.mins,
+.wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span.secs, .wrapper footer .inner form .form-bottom .timer-block .timer ul li span.hours,
+.wrapper footer .inner form .form-bottom .timer-block .timer ul li span.mins,
+.wrapper footer .inner form .form-bottom .timer-block .timer ul li span.secs{display:block;}
+.wrapper header .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper footer .inner form .form-bottom .timer-block .timer ul li span + span{font-family:"Bold";font-size:10px;display:block;text-align:center;}
+.wrapper .screen-2{padding:65px 0 69px;}
+.wrapper .screen-2 .inner .title{display:block;font-family:"Black";font-size:70px;padding-bottom:45px;}
+.wrapper .screen-2 .inner .title:last-child{padding-bottom:0;padding-top:120px;}
+.wrapper .screen-2 .inner .content .content-item{float:left;width:33.33%;padding-bottom:140px;}
+.wrapper .screen-2 .inner .content .content-item img, .wrapper .screen-2 .inner .content .content-item .desc{float:left;}
+.wrapper .screen-2 .inner .content .content-item img{display:block;width:95px;}
+.wrapper .screen-2 .inner .content .content-item .desc{width:300px;padding-left:35px;font-family:"Medium";font-size:24px;line-height:26px;padding-top:15px;}
+.wrapper .screen-2 .inner .content .content-item:nth-child(3) .desc{padding-top:5px;}
+.wrapper .screen-2 .inner .content .pars{float:left;width:60%;}
+.wrapper .screen-2 .inner .content .scr2-img{float:left;width:40%;}
+.wrapper .screen-2 .inner .content .pars{padding-top:90px;padding-left:90px;font-family:"Medium";font-size:24px;}
+.wrapper .screen-2 .inner .content .pars p{padding-bottom:15px;}
+.wrapper .screen-2 .inner .content .scr2-img img{display:block;width:100%;}
+.wrapper .screen-3{background-image:url(../images/bg-3.jpg);}
+.wrapper .screen-3 .inner h3.title{float:left;width:60%;font-family:"Black";font-size:48px;text-transform:uppercase;padding-top:36px;}
+.wrapper .screen-4{padding:90px 0 100px;}
+.wrapper .screen-4 .inner .left-side, .wrapper .screen-4 .inner .right-side{float:left;width:50%;}
+.wrapper .screen-4 .inner .left-side h3.title, .wrapper .screen-4 .inner .right-side h3.title{display:block;font-family:"Black";font-size:48px;text-transform:uppercase;padding-bottom:65px;}
+.wrapper .screen-4 .inner .left-side .pars, .wrapper .screen-4 .inner .right-side .pars{font-family:"Medium";font-size:20px;padding-bottom:55px;}
+.wrapper .screen-4 .inner .left-side .pars p, .wrapper .screen-4 .inner .right-side .pars p{padding-bottom:15px;}
+.wrapper .screen-4 .inner .left-side img, .wrapper .screen-4 .inner .right-side img{display:block;margin:0 auto;}
+.wrapper .screen-5 img{display:block;width:100%;}
+.wrapper .screen-7{padding:125px 0 105px;background-image:url(../images/bg-7.jpg);background-size:cover;background-position:center;color:#fff;}
+.wrapper .screen-7 .title{display:block;font-family:"Black";font-size:70px;text-transform:uppercase;text-align:center;padding-bottom:20px;}
+.wrapper .screen-7 .title span{color:#FFD632;}
+.wrapper .screen-7 .subtitle{display:block;text-align:center;font-family:"Medium";font-size:18px;line-height:20px;}
+.wrapper .screen-8{padding:64px 0;}
+.wrapper .screen-8 .inner .title{display:block;font-family:"Black";font-size:70px;text-transform:uppercase;padding-bottom:20px;}
+.wrapper .screen-8 .inner .content{padding-bottom:20px;}
+.wrapper .screen-8 .inner .content .content-item{float:left;width:25%;}
+.wrapper .screen-8 .inner .content .content-item img{display:block;margin:0 auto 35px;width:90px;height:85px;}
+.wrapper .screen-8 .inner .content .content-item .desc{display:block;text-align:center;font-family:"Medium";font-size:18px;line-height:20px;}
+.wrapper .screen-8 .inner .subtitle{display:block;text-align:center;font-family:"Black";font-size:48px;text-transform:uppercase;}
+.wrapper .screen-9{padding:64px 0 50px;}
+.wrapper .screen-9 .inner .title{display:block;font-family:"Black";font-size:70px;text-transform:uppercase;padding-bottom:95px;}
+.wrapper .screen-9 .inner .content .left-side, .wrapper .screen-9 .inner .content .right-side{float:left;width:50%;}
+.wrapper .screen-9 .inner .content .left-side p, .wrapper .screen-9 .inner .content .right-side p{font-family:"Medium";font-size:20px;padding-bottom:20px;}
+.wrapper .screen-9 .inner .content .left-side img, .wrapper .screen-9 .inner .content .right-side img{display:block;width:90%;margin:0 auto;}
+.wrapper .screen-9 .inner .content .right-side p{padding-bottom:90px;}
+.wrapper .screen-10{padding:30px 0 0;}
+.wrapper .screen-10 .inner .title{display:block;font-family:"Black";font-size:70px;text-transform:uppercase;padding-bottom:95px;}
+.wrapper .screen-10 .inner img{display:block;width:100%;}
+.wrapper .screen-12{padding:80px 0 50px;}
+.wrapper .screen-12 .inner .title{display:block;font-family:"Black";font-size:70px;text-transform:uppercase;padding-bottom:60px;}
+.wrapper .screen-12 .inner .content img{float:left;width:226px;}
+.wrapper .screen-12 .inner .content p{display:block;padding-left:256px;font-family:"Medium";font-size:20px;line-height:30px;}
+.wrapper .screen-12 .inner .content p:last-child{padding-top:30px;color:#999;}
+.wrapper .screen-13{padding:30px 0 80px;}
+.wrapper .screen-13 .inner .title{display:block;font-family:"Black";font-size:70px;text-transform:uppercase;padding-bottom:60px;}
+.wrapper .screen-13 .inner .reviews .reviews-item{float:left;width:33.33%;padding:0 10px;}
+.wrapper .screen-13 .inner .reviews .reviews-item img{display:block;width:165px;margin:0 auto 60px;}
+.wrapper .screen-13 .inner .reviews .reviews-item .desc, .wrapper .screen-13 .inner .reviews .reviews-item .name{display:block;font-family:"Regular";font-size:16px;line-height:20px;}
+.wrapper .screen-13 .inner .reviews .reviews-item .name{color:#999;padding-top:30px;}
+.wrapper .copyright{padding:140px 0 70px;text-align:center;font-size:14px;line-height:18px;}
+.wrapper .copyright p{padding-bottom:20px;}
+input::-webkit-input-placeholder{color:#828282;font-size:18px;font-family:"Regular";transition:opacity 0.3s ease;}
+input::-moz-placeholder{color:#828282;font-size:18px;font-family:"Regular";transition:opacity 0.3s ease;}
+input:-moz-placeholder{color:#828282;font-size:18px;font-family:"Regular";transition:opacity 0.3s ease;}
+input:-ms-input-placeholder{color:#828282;font-size:18px;font-family:"Regular";transition:opacity 0.3s ease;}
+input:focus::-webkit-input-placeholder{opacity:0;transition:opacity 0.3s ease;}
+input:focus::-moz-placeholder{opacity:0;transition:opacity 0.3s ease;}
+input:focus:-moz-placeholder{opacity:0;transition:opacity 0.3s ease;}
+input:focus:-ms-input-placeholder{opacity:0;transition:opacity 0.3s ease;}
+@media(max-width:1300px){.inner{width:960px;}
+.wrapper .screen-2 .inner .title,
+.wrapper .screen-8 .inner .title,
+.wrapper .screen-9 .inner .title,
+.wrapper .screen-10 .inner .title,
+.wrapper .screen-12 .inner .title,
+.wrapper .screen-13 .inner .title{font-size:60px;}
+.wrapper .screen-2 .inner .content .content-item{padding-bottom:65px;}
+.wrapper .screen-2 .inner .content .content-item .desc{width:210px;font-size:18px;padding-left:12px;}
+.wrapper .screen-2 .inner .title:last-child{padding-top:60px;}
+.wrapper .screen-3 .inner h3.title{width:45%;font-size:38px;}
+.wrapper .screen-4 .inner .left-side, .wrapper .screen-4 .inner .right-side{padding:0 15px;}
+.wrapper .screen-4 .inner .left-side h3.title, .wrapper .screen-4 .inner .right-side h3.title{font-size:38px;}
+.wrapper .screen-4 .inner .left-side img, .wrapper .screen-4 .inner .right-side img{width:100%;}
+.wrapper .screen-7 .title{font-size:50px;}
+.wrapper .screen-8 .inner .content .content-item{padding:0 10px;}
+.wrapper .screen-8 .inner .content .content-item .desc{font-size:16px;}
+.wrapper .screen-8 .inner .subtitle{font-size:42px;}
 }
-@media(max-width: 970px) {
-  .inner {
-    width: 760px;
-  }
-  .wrapper .screen-2 .inner .title,
-  .wrapper .screen-8 .inner .title,
-  .wrapper .screen-9 .inner .title,
-  .wrapper .screen-10 .inner .title,
-  .wrapper .screen-12 .inner .title,
-  .wrapper .screen-13 .inner .title {
-    font-size: 45px;
-  }
-  .wrapper .screen-2 .inner .content .content-item img {
-    float: none;
-    margin: 0 auto;
-  }
-  .wrapper .screen-2 .inner .content .content-item .desc {
-    padding: 0;
-    float: none;
-    text-align: center;
-    margin: 10px 0 0;
-    width: auto;
-    display: block;
-  }
-  .wrapper .screen-2 .inner .content .pars {
-    padding-top: 0px;
-    padding-left: 15px;
-    font-size: 21px;
-  }
-  .wrapper .screen-3 .inner h3.title {
-    width: 40%;
-    font-size: 27px;
-  }
-  .wrapper header .inner form, .wrapper .screen-3 .inner form, .wrapper .screen-6 .inner form, .wrapper .screen-11 .inner form, .wrapper footer .inner form {
-    width: 420px;
-  }
-  .wrapper header .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer-title, .wrapper footer .inner form .form-bottom .timer-block .timer-title {
-    width: 145px;
-  }
-  .wrapper header .inner form .form-bottom .timer-block .timer, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer, .wrapper footer .inner form .form-bottom .timer-block .timer {
-    width: 60%;
-  }
-  .wrapper .screen-7 .title {
-    font-size: 40px;
-  }
+@media(max-width:970px){.inner{width:760px;}
+.wrapper .screen-2 .inner .title,
+.wrapper .screen-8 .inner .title,
+.wrapper .screen-9 .inner .title,
+.wrapper .screen-10 .inner .title,
+.wrapper .screen-12 .inner .title,
+.wrapper .screen-13 .inner .title{font-size:45px;}
+.wrapper .screen-2 .inner .content .content-item img{float:none;margin:0 auto;}
+.wrapper .screen-2 .inner .content .content-item .desc{padding:0;float:none;text-align:center;margin:10px 0 0;width:auto;display:block;}
+.wrapper .screen-2 .inner .content .pars{padding-top:0px;padding-left:15px;font-size:21px;}
+.wrapper .screen-3 .inner h3.title{width:40%;font-size:27px;}
+.wrapper header .inner form, .wrapper .screen-3 .inner form, .wrapper .screen-6 .inner form, .wrapper .screen-11 .inner form, .wrapper footer .inner form{width:420px;}
+.wrapper header .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer-title, .wrapper footer .inner form .form-bottom .timer-block .timer-title{width:145px;}
+.wrapper header .inner form .form-bottom .timer-block .timer, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer, .wrapper footer .inner form .form-bottom .timer-block .timer{width:60%;}
+.wrapper .screen-7 .title{font-size:40px;}
 }
-
-@media(max-width: 780px) {
-  .inner {
-    width: 320px;
-    padding: 0 10px;
-  }
-  .wrapper header {
-    padding-top: 30px;
-  }
-  .wrapper header .inner img.logo, .wrapper .screen-3 .inner img.logo, .wrapper .screen-6 .inner img.logo, .wrapper .screen-11 .inner img.logo, .wrapper footer .inner img.logo {
-    float: none;
-    display: block;
-    margin: 0 auto 30px;
-  }
-  .wrapper header .inner form, .wrapper .screen-3 .inner form, .wrapper .screen-6 .inner form, .wrapper .screen-11 .inner form, .wrapper footer .inner form {
-    float: none;
-    width: 100%;
-  }
-  .wrapper header .inner form .form-top .h1, .wrapper .screen-3 .inner form .form-top .h1, .wrapper .screen-6 .inner form .form-top .h1, .wrapper .screen-11 .inner form .form-top .h1, .wrapper footer .inner form .form-top .h1 {
-    font-size: 16px;
-  }
-  .wrapper header .inner form .form-top .price_new, .wrapper .screen-3 .inner form .form-top .price_new, .wrapper .screen-6 .inner form .form-top .price_new, .wrapper .screen-11 .inner form .form-top .price_new, .wrapper footer .inner form .form-top .price_new {
-    font-size: 24px;
-  }
-  .wrapper header .inner form .form-top .discount, .wrapper .screen-3 .inner form .form-top .discount, .wrapper .screen-6 .inner form .form-top .discount, .wrapper .screen-11 .inner form .form-top .discount, .wrapper footer .inner form .form-top .discount {
-    font-size: 22px;
-    margin-left: 15px;
-  }
-  .wrapper header .inner form .form-bottom input, .wrapper .screen-3 .inner form .form-bottom input, .wrapper .screen-6 .inner form .form-bottom input, .wrapper .screen-11 .inner form .form-bottom input, .wrapper footer .inner form .form-bottom input {
-    height: 50px;
-  }
-  .wrapper header .inner form .form-bottom button, .wrapper .screen-3 .inner form .form-bottom button, .wrapper .screen-6 .inner form .form-bottom button, .wrapper .screen-11 .inner form .form-bottom button, .wrapper footer .inner form .form-bottom button {
-    height: 54px;
-  }
-  .wrapper header .inner form .form-bottom .attention, .wrapper .screen-3 .inner form .form-bottom .attention, .wrapper .screen-6 .inner form .form-bottom .attention, .wrapper .screen-11 .inner form .form-bottom .attention, .wrapper footer .inner form .form-bottom .attention {
-    font-size: 12px;
-    line-height: 18px;
-  }
-  .wrapper header .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer-title, .wrapper footer .inner form .form-bottom .timer-block .timer-title {
-    width: 120px;
-    font-size: 12px;
-    line-height: 16px;
-  }
-  .wrapper header .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li, .wrapper footer .inner form .form-bottom .timer-block .timer ul li {
-    text-align: center;
-    margin-right: 5px;
-  }
-  .wrapper header .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper footer .inner form .form-bottom .timer-block .timer ul li span + span {
-    font-size: 8px;
-  }
-  .wrapper header .inner form .form-bottom .timer-block .timer, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer, .wrapper footer .inner form .form-bottom .timer-block .timer {
-    width: 50%;
-    font-size: 36px;
-  }
-  .wrapper .screen-2 {
-    padding-top: 45px;
-  }
-  .wrapper .screen-2 .inner .title, .wrapper .screen-8 .inner .title, .wrapper .screen-9 .inner .title, .wrapper .screen-10 .inner .title, .wrapper .screen-12 .inner .title, .wrapper .screen-13 .inner .title {
-    font-size: 28px;
-  }
-  .wrapper .screen-2 .inner .content .content-item {
-    width: 100%;
-    padding: 0 30px 30px;
-  }
-  .wrapper .screen-2 .inner .content .pars {
-    width: 100%;
-    padding-top: 20px;
-  }
-  .wrapper .screen-2 .inner .content .scr2-img {
-    width: 100%;
-  }
-  .wrapper .screen-3 .inner h3.title {
-    width: 100%;
-    color: #fff;
-    padding: 36px 10px 30px;
-    font-size: 24px;
-  }
-  .wrapper .screen-4 {
-    padding: 50px 0 70px;
-  }
-  .wrapper .screen-4 .inner .left-side, .wrapper .screen-4 .inner .right-side {
-    width: 100%;
-  }
-  .wrapper .screen-4 .inner .left-side h3.title, .wrapper .screen-4 .inner .right-side h3.title {
-    font-size: 30px;
-    padding-bottom: 45px;
-  }
-  .wrapper .screen-4 .inner .left-side .pars, .wrapper .screen-4 .inner .right-side .pars {
-    font-size: 16px;
-    padding-bottom: 40px;
-  }
-  .wrapper .screen-4 .inner .left-side img, .wrapper .screen-4 .inner .right-side img {
-    margin-bottom: 30px;
-  }
-  .wrapper .screen-7 {
-    padding: 60px 0 50px;
-  }
-  .wrapper .screen-7 .title {
-    font-size: 22px;
-    width: 300px;
-    margin: 0 auto;
-  }
-  .wrapper .screen-7 .subtitle {
-    font-size: 11px;
-    line-height: 16px;
-    width: 300px;
-    margin: 0 auto;
-  }
-  .wrapper .screen-8 {
-    padding: 40px 0;
-  }
-  .wrapper .screen-8 .inner .content .content-item {
-    width: 100%;
-  }
-  .wrapper .screen-8 .inner .title,
-  .wrapper .screen-8 .inner .subtitle {
-    font-size: 23px;
-  }
-  .wrapper .screen-8 .inner .subtitle {
-    padding-top: 20px;
-  }
-  .wrapper .screen-9 {
-    padding-top: 30px;
-  }
-  .wrapper .screen-9 .inner .title {
-    font-size: 26px;
-    padding-bottom: 60px;
-  }
-  .wrapper .screen-9 .inner .content .left-side, .wrapper .screen-9 .inner .content .right-side {
-    width: 100%;
-  }
-  .wrapper .screen-9 .inner .content .left-side p, .wrapper .screen-9 .inner .content .right-side p {
-    font-size: 14px;
-  }
-  .wrapper .screen-10 {
-    padding-bottom: 30px;
-  }
-  .wrapper .screen-10 .inner .title {
-    font-size: 25px;
-    padding-bottom: 30px;
-  }
-  .wrapper .screen-12 {
-    padding: 50px 0 20px;
-  }
-  .wrapper .screen-12 .inner .content img {
-    float: none;
-    display: block;
-    margin: 0 auto 20px;
-  }
-  .wrapper .screen-12 .inner .content p {
-    padding-left: 0;
-    font-size: 15px;
-    line-height: 22px;
-  }
-  .wrapper .screen-13 {
-    padding-bottom: 15px;
-  }
-  .wrapper .screen-13 .inner .title {
-    padding-bottom: 35px;
-    text-align: center;
-  }
-  .wrapper .screen-13 .inner .reviews .reviews-item {
-    width: 100%;
-    padding-bottom: 30px;
-  }
-  .wrapper .screen-13 .inner .reviews .reviews-item img {
-    margin-bottom: 35px;
-  }
-  .wrapper .copyright p {
-    padding-bottom: 20px;
-    width: 300px;
-    margin: 0 auto;
-  }
-  .wrapper .copyright {
-    padding: 50px 0 20px;
-  }
+@media(max-width:780px){.inner{width:320px;padding:0 10px;}
+.wrapper header{padding-top:30px;}
+.wrapper header .inner img.logo, .wrapper .screen-3 .inner img.logo, .wrapper .screen-6 .inner img.logo, .wrapper .screen-11 .inner img.logo, .wrapper footer .inner img.logo{float:none;display:block;margin:0 auto 30px;}
+.wrapper header .inner form, .wrapper .screen-3 .inner form, .wrapper .screen-6 .inner form, .wrapper .screen-11 .inner form, .wrapper footer .inner form{float:none;width:100%;}
+.wrapper header .inner form .form-top .h1, .wrapper .screen-3 .inner form .form-top .h1, .wrapper .screen-6 .inner form .form-top .h1, .wrapper .screen-11 .inner form .form-top .h1, .wrapper footer .inner form .form-top .h1{font-size:16px;}
+.wrapper header .inner form .form-top .price_new, .wrapper .screen-3 .inner form .form-top .price_new, .wrapper .screen-6 .inner form .form-top .price_new, .wrapper .screen-11 .inner form .form-top .price_new, .wrapper footer .inner form .form-top .price_new{font-size:24px;}
+.wrapper header .inner form .form-top .discount, .wrapper .screen-3 .inner form .form-top .discount, .wrapper .screen-6 .inner form .form-top .discount, .wrapper .screen-11 .inner form .form-top .discount, .wrapper footer .inner form .form-top .discount{font-size:22px;margin-left:15px;}
+.wrapper header .inner form .form-bottom input, .wrapper .screen-3 .inner form .form-bottom input, .wrapper .screen-6 .inner form .form-bottom input, .wrapper .screen-11 .inner form .form-bottom input, .wrapper footer .inner form .form-bottom input{height:50px;}
+.wrapper header .inner form .form-bottom button, .wrapper .screen-3 .inner form .form-bottom button, .wrapper .screen-6 .inner form .form-bottom button, .wrapper .screen-11 .inner form .form-bottom button, .wrapper footer .inner form .form-bottom button{height:54px;}
+.wrapper header .inner form .form-bottom .attention, .wrapper .screen-3 .inner form .form-bottom .attention, .wrapper .screen-6 .inner form .form-bottom .attention, .wrapper .screen-11 .inner form .form-bottom .attention, .wrapper footer .inner form .form-bottom .attention{font-size:12px;line-height:18px;}
+.wrapper header .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer-title, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer-title, .wrapper footer .inner form .form-bottom .timer-block .timer-title{width:120px;font-size:12px;line-height:16px;}
+.wrapper header .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li, .wrapper footer .inner form .form-bottom .timer-block .timer ul li{text-align:center;margin-right:5px;}
+.wrapper header .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer ul li span + span, .wrapper footer .inner form .form-bottom .timer-block .timer ul li span + span{font-size:8px;}
+.wrapper header .inner form .form-bottom .timer-block .timer, .wrapper .screen-3 .inner form .form-bottom .timer-block .timer, .wrapper .screen-6 .inner form .form-bottom .timer-block .timer, .wrapper .screen-11 .inner form .form-bottom .timer-block .timer, .wrapper footer .inner form .form-bottom .timer-block .timer{width:50%;font-size:36px;}
+.wrapper .screen-2{padding-top:45px;}
+.wrapper .screen-2 .inner .title, .wrapper .screen-8 .inner .title, .wrapper .screen-9 .inner .title, .wrapper .screen-10 .inner .title, .wrapper .screen-12 .inner .title, .wrapper .screen-13 .inner .title{font-size:28px;}
+.wrapper .screen-2 .inner .content .content-item{width:100%;padding:0 30px 30px;}
+.wrapper .screen-2 .inner .content .pars{width:100%;padding-top:20px;}
+.wrapper .screen-2 .inner .content .scr2-img{width:100%;}
+.wrapper .screen-3 .inner h3.title{width:100%;color:#fff;padding:36px 10px 30px;font-size:24px;}
+.wrapper .screen-4{padding:50px 0 70px;}
+.wrapper .screen-4 .inner .left-side, .wrapper .screen-4 .inner .right-side{width:100%;}
+.wrapper .screen-4 .inner .left-side h3.title, .wrapper .screen-4 .inner .right-side h3.title{font-size:30px;padding-bottom:45px;}
+.wrapper .screen-4 .inner .left-side .pars, .wrapper .screen-4 .inner .right-side .pars{font-size:16px;padding-bottom:40px;}
+.wrapper .screen-4 .inner .left-side img, .wrapper .screen-4 .inner .right-side img{margin-bottom:30px;}
+.wrapper .screen-7{padding:60px 0 50px;}
+.wrapper .screen-7 .title{font-size:22px;width:300px;margin:0 auto;}
+.wrapper .screen-7 .subtitle{font-size:11px;line-height:16px;width:300px;margin:0 auto;}
+.wrapper .screen-8{padding:40px 0;}
+.wrapper .screen-8 .inner .content .content-item{width:100%;}
+.wrapper .screen-8 .inner .title,
+.wrapper .screen-8 .inner .subtitle{font-size:23px;}
+.wrapper .screen-8 .inner .subtitle{padding-top:20px;}
+.wrapper .screen-9{padding-top:30px;}
+.wrapper .screen-9 .inner .title{font-size:26px;padding-bottom:60px;}
+.wrapper .screen-9 .inner .content .left-side, .wrapper .screen-9 .inner .content .right-side{width:100%;}
+.wrapper .screen-9 .inner .content .left-side p, .wrapper .screen-9 .inner .content .right-side p{font-size:14px;}
+.wrapper .screen-10{padding-bottom:30px;}
+.wrapper .screen-10 .inner .title{font-size:25px;padding-bottom:30px;}
+.wrapper .screen-12{padding:50px 0 20px;}
+.wrapper .screen-12 .inner .content img{float:none;display:block;margin:0 auto 20px;}
+.wrapper .screen-12 .inner .content p{padding-left:0;font-size:15px;line-height:22px;}
+.wrapper .screen-13{padding-bottom:15px;}
+.wrapper .screen-13 .inner .title{padding-bottom:35px;text-align:center;}
+.wrapper .screen-13 .inner .reviews .reviews-item{width:100%;padding-bottom:30px;}
+.wrapper .screen-13 .inner .reviews .reviews-item img{margin-bottom:35px;}
+.wrapper .copyright p{padding-bottom:20px;width:300px;margin:0 auto;}
+.wrapper .copyright{padding:50px 0 20px;}
 }
