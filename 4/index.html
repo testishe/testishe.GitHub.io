@@ -1,127 +1,169 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 
-  <head>
-    <meta charset="UTF-8">
-    <title>Триботехнический состав Champion</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="stylesheet" href="css/slick.css">
-    <link rel="stylesheet" href="css/slick-theme.css">
+<head>
 
-    <script src="//scripts.autotovarka.ru/autvrk.js" type="text/javascript"></script>
-    </head>
+	<meta charset="utf-8">
 
-  <body>
-    <div class="wrapper">
-      <header class="header">
-        <div class="header-top">
-          <div class="inner"> <img src="images/header-top.png" alt="alt"> </div>
-        </div>
-        <div class="header-bottom">
-          <div class="inner">
-            <h1 class="h1">
-						Триботехнический
-						состав Champion
-						<span>новый уровень защиты
-						силовых агрегатов</span>
-					</h1> <img src="images/header-bottom.png" alt="">
-            <form action="" method="post"> <img src="images/prod-1.png" alt=""> <span class="form-title">
-							Заказать со скидкой <span class="discount">50%</span> только до <span id="hours"></span>:<span id="minutes"></span> </span>
-              <div class="price">
-                <div class="price-item"> <span class="priceOld">2780</span> руб </div>
-                <div class="price-item"> <span class="priceNew">1390</span> руб </div>
-              </div>
-              <div class="input-item"> <span class="input-title">Ваше имя</span> <input type="text" name="name" placeholder="Александр"> </div>
-              <div class="input-item"> <span class="input-title">Заказать онлайн</span> <input type="tel" name="phone" placeholder="+7 (999) 888-77-66"> </div> <button type="submit">Заказать онлайн</button> </form> <span class="form-bottom">
-						Мы предлагаем триботехнический
-						состав двух видов: для бензиновых
-						и для дизельных двигателей
-					</span> </div>
-        </div>
-      </header>
-      <div class="screen-2">
-        <div class="inner"> <img src="images/img-2.png" alt=""> </div>
-      </div>
-      <div class="screen-3">
-        <div class="inner"> <img src="images/img-3.png" alt=""> </div>
-      </div>
-      <div class="screen-4">
-        <div class="inner"> <img src="images/img-4.png" alt=""> </div>
-      </div>
-      <div class="screen-5">
-        <div class="inner"> <img src="images/img-5.png" alt=""> <a href="#form" class="link-to-form">Заказать онлайн</a> </div>
-      </div>
-      <div class="screen-6">
-        <div class="inner"> <img src="images/img-6.png" alt=""> </div>
-      </div>
-      <div class="screen-7">
-        <div class="inner"> <img src="images/img-7.png" alt=""> </div>
-      </div>
-      <div class="screen-8">
-        <div class="inner"> <img src="images/img-8.png" alt=""> </div>
-      </div>
-      <div class="screen-9">
-        <div class="inner"> <span class="title">
-					Отзывы владельцев
-				</span>
-          <div class="reviews">
-            <div class="reviews-item"> <img src="images/rev-1.png" alt=""> </div>
-            <div class="reviews-item"> <img src="images/rev-2.png" alt=""> </div>
-            <div class="reviews-item"> <img src="images/rev-3.png" alt=""> </div>
-          </div>
-        </div>
-      </div>
-      <header class="footer">
-        <div class="footer-bottom">
-          <div class="inner">
-            <h1 class="h1">
-						Триботехнический
-						состав Champion
-						<span>новый уровень защиты
-						силовых агрегатов</span>
-					</h1>
-            <form action="" method="post" id="form"> <img src="images/prod-1.png" alt=""> <span class="form-title">
-							Заказать со скидкой <span class="discount">50%</span> только до <span id="hours2"></span>:<span id="minutes2"></span> </span>
-              <div class="price">
-                <div class="price-item"> <span class="priceOld">2780</span> руб </div>
-                <div class="price-item"> <span class="priceNew">1390</span> руб </div>
-              </div>
-              <div class="input-item"> <span class="input-title">Ваше имя</span> <input type="text" name="name" placeholder="Александр"> </div>
-              <div class="input-item"> <span class="input-title">Заказать онлайн</span> <input type="tel" name="phone" placeholder="+7 (999) 888-77-66"> </div> <button type="submit">Заказать онлайн</button> </form>
-          </div>
-        </div>
-        </footer>
-        <div class="copyright">
-          <div class="inner"> <span class="copyright-par">
-					"Autotoolza" ОРГН 1157847209442<br> Г. САНКТ-ПЕТЕРБУРГ, УЛ 21Я ЛИНИЯ В.О., ДОМ 14 ЛИТЕРА А<br><br>
-					© 2017
-				</span> </div>
-        </div>
-    </div>
-    <script src="js/jquery-3.1.0.min.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/app.js"></script>
+	<title>BeautyLab</title>
+	<meta name="description" content="">
 
-    <script>
-      var date = new Date(),
-          hours = date.getHours() + 2,
-          minutes = date.getMinutes();
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-      if(minutes < 10) {
-        minutes = "0" + minutes;
-      }
-      if(hours < 10) {
-        hours = "0" + hours;
-      }
+<!-- 	<meta property="og:image" content="path/to/image.jpg">
+	<link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-touch-icon-114x114.png"> -->
 
-      document.getElementById("hours").innerHTML = hours;
-      document.getElementById("minutes").innerHTML = minutes;
-      document.getElementById("hours2").innerHTML = hours;
-      document.getElementById("minutes2").innerHTML = minutes;
-    </script>
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta name="theme-color" content="#000">
+	<!-- Windows Phone -->
+	<meta name="msapplication-navbutton-color" content="#000">
+	<!-- iOS Safari -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="#000">
+
+	<style>body { opacity: 0; overflow-x: hidden; } html { background-color: #fff; }</style>
+
+</head>
+
+<body>
+<div class="wrapper">
+	<header class="header">
+		<img src="img/1.png" alt="" class="header__logo">
+		<div class="header__menu menu">
+			<a href="#" class="menu__item">лифтинг</a>
+			<a href="#" class="menu__item">"ФОТОШОП"-ЭФФЕК</a>
+			<a href="#" class="menu__item">Экспресс-очищение</a>
+			<a href="#" class="menu__item">Свежий взгляд</a>
+			<a href="#" class="menu__item">Антистресс</a>
+			<a href="#" class="menu__item">Пуш-ап для губ</a>
+		</div>
+	</header>
+
+	<div class="slider">
+		<div class="slider__slide-item slide-item">
+			<div class="slide-item__left">
+				<img src="img/2.png" alt="" class="slide-item__img">
+			</div>
+			<div class="slide-item__center">
+				<img src="img/4.png" alt="" class="slide-item__logo2">
+				<p class="slide-item__caption">ИННОВАЦИИ ДЛЯ МОМЕНТАЛЬНОГО<br>ПРЕОБРАЖЕНИЯ</p>
+				<p class="slide-item__caption2">«15 минут – и ты готова!</p>
+				<p class="slide-item__text">Нужно выглядеть великолепно, но есть всего 15 минут?<br>Теперь это не проблема! </p>
+			</div>
+			<div class="slide-item__product product">
+				<div class="slid">
+					<img src="img/5.png" alt="" class="product__img">
+					<div class="product__text">"ФОТОШОП"-ЭФФЕКТ<br>НА 1 МИНУТУ</div>
+					<div class="product__text2">КРЕМ<br>ДЛЯ ЛИЦА BLUR</div>
+				</div>
+
+				<div class="slid">
+					<img src="img/5.png" alt="" class="product__img">
+					<div class="product__text">"ФОТОШОП"-ЭФФЕКТ<br>НА 1 МИНУТУ</div>
+					<div class="product__text2">КРЕМ<br>ДЛЯ ЛИЦА BLUR</div>
+				</div>
+
+				<div class="slid">
+					<img src="img/5.png" alt="" class="product__img">
+					<div class="product__text">"ФОТОШОП"-ЭФФЕКТ<br>НА 1 МИНУТУ</div>
+					<div class="product__text2">КРЕМ<br>ДЛЯ ЛИЦА BLUR</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="section-logo section-logo-top">
+		<img src="img/6.png" alt="" class="section-logo__logo">
+		<p class="section-logo__text">ИННОВАЦИИ ДЛЯ МОМЕНТАЛЬНОГО ПРЕОБРАЖЕНИЯ</p>
+	</div>
+
+	<div class="products">
+		<div class="products__product-item product-item">
+			<div class="product-item__content">
+				<div class="product-item__text">"ФОТОШОП"-ЭФФЕКТ зА 1 МИНУТУ</div>
+				<div class="product-item__text2">Минимум усилий для идеального селфи!</div>
+				<img src="img/products/1.png" alt="" class="product-item__img">
+				<div class="product-item__text3">КРЕМ  ДЛЯ ЛИЦА BLUR</div>
+			</div>
+			<a href="" class="product-item__button">купить</a>
+		</div>
+
+		<div class="products__product-item product-item">
+			<div class="product-item__content product-item__content-big">
+				<div class="product-item__text">Моментальный интенсивный лифтинг!</div>
+				<div class="product-item__text2">Лицо выглядит уставшим, заметны морщинки, но нет времени на косметолога?</div>
+				<img src="img/products/2.png" alt="" class="product-item__img">
+				<div class="product-item__text3">Сыворотка для лица  интенсивного действия </div>
+			</div>
+			<a href="" class="product-item__button">купить</a>
+		</div>
+
+		<div class="products__product-item product-item">
+			<div class="product-item__content product-item__content-big">
+				<div class="product-item__text">Антистресс и лифтинг-эффект за 15 минут!</div>
+				<div class="product-item__text2">Кожа тусклая и уставшая, а так хочется выглядеть на все 100?</div>
+				<img src="img/products/3.png" alt="" class="product-item__img">
+				<div class="product-item__text3">Гелевая экспресс-маска  для лица «Лифтинг и сияние» </div>
+			</div>
+			<a href="" class="product-item__button">купить</a>
+		</div>
+
+		<div class="products__product-item product-item">
+			<div class="product-item__content">
+				<div class="product-item__text">Пуш-ап для губ</div>
+				<div class="product-item__text2">Помада ложится неидеально, морщинки на губах?</div>
+				<img src="img/products/4.png" alt="" class="product-item__img">
+				<div class="product-item__text3">сыворотка для лица  интенсивного действия</div>
+			</div>
+			<a href="" class="product-item__button">купить</a>
+		</div>
+	</div>
+
+	<div class="section-logo section-logo-bottom">
+		<img src="img/6.png" alt="" class="section-logo__logo">
+		<p class="section-logo__text">ИННОВАЦИИ ДЛЯ МОМЕНТАЛЬНОГО ПРЕОБРАЖЕНИЯ</p>
+	</div>
+
+	<div class="section-img">
+		<div class="section-img__top">
+			<div class="section-img__img section-img__img1"><img src="img/imgAn/1.png" alt="" class=""></div>
+			<div class="section-img__img section-img__img2"><img src="img/imgAn/2.png" alt="" class=""></div>
+			<div class="section-img__img section-img__img3"><img src="img/imgAn/3.png" alt="" class=""></div>
+		</div>
+		<div class="section-img__bottom">
+			<div class="section-img__img section-img__img4"><img src="img/imgAn/4.png" alt="" class=""></div>
+			<div class="section-img__img section-img__img5"><img src="img/imgAn/5.png" alt="" class=""></div>
+			<div class="section-img__img section-img__img6"><img src="img/imgAn/6.png" alt="" class=""></div>
+		</div>
+		<div class="logo-an">
+			<img src="img/imgAn/logo.png" alt="" class="logo-an__logo-img">
+			<div class="logo-an__text">15 минут – и ты готова!</div>
+		</div>
+	</div>
+
+	<footer class="footer">
+		<div class="social">
+			<a href="" class="social__item social__item-fb"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+			<a href="" class="social__item social__item-tw"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+			<a href="" class="social__item social__item-inst"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+			<a href="" class="social__item social__item-vk"><i class="fa fa-vk" aria-hidden="true"></i></a>
+			<a href="" class="social__item social__item-p"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+		</div>
+		<div class="footer__copyright">copyright &copy; 2017</div>
+	</footer>
 
 
-  </body>
+</div>
+	
+	<link rel="stylesheet" href="css/main.min.css">
+	<link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
+	<script src="libs/jquery/jquery.min.js"></script>
+	<script src="libs/slick/slick.min.js"></script>
+	<script src="js/scripts.min.js"></script>
 
+</body>
 </html>

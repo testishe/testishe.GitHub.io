@@ -1,0 +1,299 @@
+
+
+.us_info_strana{
+    font-weight: 600;
+}
+.us_info_text01 span{
+    font-weight: bold;
+}
+
+		.zd_usersinfo,
+.zd_usersinfo *{
+    margin:0;padding:0;
+}
+.zd_usersinfo {
+    z-index: 1000;
+    font-family: 'PFDRegular', sans-serif;
+    color: #000;
+    text-align: center;
+    width: 864px;
+    margin: auto;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    margin-left: -432px;
+}
+.zd_usersinfo a {
+    text-decoration: none;
+    color: #fff;
+}
+.zd_usersinfo_top {
+    background-image: url(pop_bot_bg1.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    font-size: 20px;
+    padding: 10px 0 7px;
+    padding-left: 70px;
+    position: relative;
+    z-index: 0;
+    top: 40px;
+    transition: linear .8s;
+}
+.zd_usersinfo_top.active {
+    top: 0;
+}
+
+
+.fastDeliveryWidget {
+    background-image: url(pop_bot_bg2.png);
+    background-repeat: no-repeat!important;
+    position: relative;
+    -ms-background-position: bottom center;
+    background-position: bottom center;
+    font-size: 20px;
+    margin-top: -1px;
+    padding: 10px 39px 7px 50px;
+    display: table;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+.fastDeliveryWidget > * {
+    display: table-cell;
+    vertical-align: middle;
+    margin-right: -4px;
+}
+.fastDeliveryWidget .icoEl_flag,
+.fastDeliveryWidget .icoEl_user2 {
+    margin-left: 30px;
+}
+.icoEl_cart  {
+    /* Style for "ÃÅ¸Ã‘â‚¬Ã‘ÂÃÂ¼ÃÂ¾Ã‘Æ’ÃÂ³ÃÂ¾ÃÂ»Ã‘Å’" */
+    box-sizing: border-box;
+    border-radius: 5px;
+    background: red;
+    padding: 3px 25px 3px 95px;
+    position: relative;
+    text-transform: uppercase;
+    font-family: 'PFDMedium',sans-serif;
+    font-size: 10px;
+    text-align: left;
+    box-shadow: -1px 1px 3px rgba(0,0,0,0.5);
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+    line-height: 1.2;
+    transition: background 0.15s ease-in-out;
+}
+
+.icoEl_cart:after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: url(/_shared/img/fastdelivery/btn_top.png) no-repeat center center/cover;
+}
+
+.icoEl_cart i {
+    /*   positioning */
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 0;
+
+    /*   gradient   */
+    background: linear-gradient(to right,  rgba(255,255,255,0) 0%,rgba(255,255,255,0.03) 1%,rgba(255,255,255,0.6) 30%,rgba(255,255,255,0.85) 50%,rgba(255,255,255,0.85) 70%,rgba(255,255,255,0.85) 71%,rgba(255,255,255,0) 100%); /* W3C */
+
+    width: 25%;
+    height: 100%;
+    transform: skew(-20deg,0deg);
+
+    /*  animating it  */
+    animation: move 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 3s;
+}
+
+
+/*  */
+@keyframes move {
+    0% {
+        left: 0;
+        opacity: 0;
+    }
+    6%{
+        opacity: 0.4;
+    }
+    12% {
+        opacity: 0.5;
+    }
+    19% {
+        opacity: 0.6;
+    }
+    25% {
+        left: 73%;
+        opacity: 0;
+    }
+    50% {
+        left: 74%;
+    }
+    100% {
+        left: 75%;
+    }
+}
+
+.icoEl_cart:hover {
+    background-color: #e60000;
+}
+.zd_usersinfo b {
+    font-family: 'PFDBold',sans-serif;
+}
+.icoEl_cart span{
+    display: block;
+    font-family: 'PFDBold',sans-serif;
+    font-size: 12px;
+}
+.icoEl_cart span span{
+    display: block;
+    font-family: 'PFDBold',sans-serif;
+    font-size: 18px;
+}
+.zd_usersinfo > :first-child b {
+    display: inline-block;
+    position: relative;
+}
+.icoEl_cart, .icoEl_user2, .icoEl_flag {
+    display: table-cell;
+    position: relative;
+}
+.icoEl_user2 {
+    font-size: 18px;
+    padding-left: 45px;
+    padding-right: 16px;
+}
+.icoEl_user2 b {
+    font-size: 21px;
+}
+.icoEl_flag {
+    font-family: 'PFDLight',sans-serif;
+    font-size: 17px;
+    padding-left: 56px;
+    line-height: 1.2;
+    font-weight: 100;
+    letter-spacing: 0.0em;
+}
+.icoEl_flag span {
+    display: block;
+    text-transform: uppercase;
+    font-family: 'PFDMedium',sans-serif;
+}
+.zd_usersinfo [class^="icoEl_"]:before {
+    content: '';
+    position: absolute;
+    background-repeat: no-repeat;
+}
+.icoEl_user {
+    position: absolute;
+    width: 25px;
+    height: 22px;
+    left:-70px;
+    top:0;
+    background-image: url(face-black2.png);
+}
+.icoEl_user span {
+    position: absolute;
+    display: block;
+    font-size: 11px;
+    right: -18px;
+    bottom: -7px;
+    width: 20px;
+    height: 20px;
+    padding-top: 2px;
+    box-sizing: border-box;
+    background-color: #ffc300;
+    text-align: center;
+    border-radius: 50px;
+
+}
+.icoEl_cart:before {
+    width: 35px;
+    height: 35px;
+    left:23px;
+    top:2px;
+    padding-right: 13px;
+    border-right: 3px solid white;
+    background-image: url(box.png);
+
+}
+.icoEl_user2:before {
+    width: 29px;
+    height: 24px;
+    left: 25px;
+    top: 8px;
+    background-image: url(face-black.png);
+}
+.icoEl_flag:before {
+    width: 47px;
+    height: 33px;
+    left: 0px;
+    top:4px;
+    background-position: center -7px;
+    background-size: cover;
+	background-image: url(RU.png);
+	
+}
+
+@media screen and (max-width: 790px){
+    .b1, .b2, .b3{
+        display: none;
+    }
+    .icoEl_cart,
+    .icoEl_flag{
+        display: inline-block;
+    }
+    .zd_usersinfo{
+        width: 100%;
+        margin-left: 0;
+        left: 0;
+    }
+    .zd_usersinfo_top {
+        display: block;
+        position: absolute;
+        background: none;
+        width: 100%;
+        text-align: center;
+        top: 8px;
+        font-size: 12px;
+        padding-left: 0;
+    }
+    .zd_usersinfo .icoEl_cart,
+    .zd_usersinfo .icoEl_user2{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .fastDeliveryWidget{
+        height: 50px;
+        padding: 4px 0 0;
+        background: #ffc400;
+        width: 100%;
+        box-sizing: border-box;
+        display: block;
+    }
+    .zd_usersinfo .icoEl_user2{
+        display: none;
+    }
+    .icoEl_user{
+        position: relative;
+        float: left;
+        left: 0;
+        margin-right: 20px;
+        top: -5px;
+    }
+    .zd_usersinfo .icoEl_flag{
+        margin-left: -4px;
+        padding-left: 58px;
+    }
+    .icoEl_flag:before{
+        left: 0;
+    }
+}
