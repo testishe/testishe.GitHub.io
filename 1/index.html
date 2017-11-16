@@ -49,7 +49,7 @@
 			<a href="" class="menu-item"><p>Доставка</p></a>
 			<a href="" class="menu-item"><p>Как оплатить</p></a>
 			<a href="" class="menu-item"><p>Задать вопрос</p></a>
-			<a href="" class="menu-item active"><p>Отслеживание заказа</p></a>
+			<a href="" class="menu-item "><p>Отслеживание заказа</p></a>
 		</div>
 	</div>
 
@@ -130,7 +130,6 @@
 		<div class="slide-item">
 			<div class="caption">Мир откровений и интриг</div>
 			<div class="container">
-				<div class="arrow"></div>
 				<img src="img/5.png" alt="">
 				<div class="button-buy">Купить дневник</div>
 			</div>
@@ -216,6 +215,63 @@
 		</div>
 
 	</div>
+
+		<div id="bg" class="form-bg">
+			<div id="form" class="popup">
+				<div id="close" class="close">X</div>
+				<h2 class="caption">Быстрый заказ</h2>
+				<div class="action">
+					<div class="wrapper-img"><img src="img/form/book.png" alt=""></div>
+					<div class="wrapper-text">
+						<p class="text">Женское достоинство.</p>
+						<p class="text">Сила притяжения мужчин</p>
+						<p class="formula text">
+							<span class="book_price_book_one">890</span>
+							руб. Х
+							<span class="book_price_quantity">1</span>
+							шт. =
+							<span class="book_price_subtotal">1</span>
+						</p>
+					</div>
+				</div>
+
+				<form  action="">
+					<input type="hidden" name="step" value="1">
+					<input type="hidden" name="quantity" value="1">
+					<input type="hidden" name="item" value="1192">
+
+					<div class="wrapper-sections">
+						<p class="label">Контактный телефон: <span>*</span></p>
+						<input class="phone input" type="tel" name="phone" placeholder="Введите телефон" required>
+
+						<p class="text-warning">Пример: +7 (925) 530-87-68</p>
+						<p class="text-warning">ВАЖНО! Проверьте правильность введения. На этот номер вам будут приходить смс от пунктов самовывоза или звонить курьер/доставка</p>
+
+						<p class="label">E-mail: <span>*</span></p>
+						<input class="email input" type="tel" name="phone" placeholder="Введите E-mail" required>
+						
+					</div>
+
+					<div class="deliv">
+				        <span class="method">Доставка:</span><br>
+				        <div class="delivCountries">
+				          <label class="radiobox"><input type="radio" checked="" name="city" value="0" class=""><span></span>По России</label>
+				        
+				          <label class="radiobox"><input type="radio" name="city" value="1" class=""><span></span>Другие страны</label>
+				        </div>
+				        
+				        <div class="polit">
+				            Продолжая, вы подтверждаете своё согласие с <a href="https://u0.milalevchuk.ru/uploads/prj/pages/course/conf.pdf" target="_blank" style="text-decoration:underline;">политикой конфиденциальности</a>
+				        </div>
+				    </div>
+
+					<button type="submit" class="but-purple">Продолжить</button>
+					<!-- <input class="name" type="text" name="name" placeholder="Введите имя" required>
+					<input class="phone" type="tel" name="phone" placeholder="Введите телефон" required>
+					<button id="submit" type="submit">Заказать сейчас</button> -->
+				</form>
+			</div>
+		</div>
 </div>
 
 	<link rel="stylesheet" href="css/main.min.css">
