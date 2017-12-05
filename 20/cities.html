@@ -108,7 +108,7 @@
 	<section class="slider5">
 		<div class="container">
 			<div class="slider5__wrap">
-				<div class="slider5__content">
+				<div class="slider5__content js-slider5">
 					<div class="slider5__slid">
 						<div class="slider5__square">
 							<div class="slider5__date">12 сентября 2017</div>
@@ -176,7 +176,7 @@
 					</div>
 				</div>
 				<div class="slider5__nav">
-					<div class="slider5__counter">
+					<div class="slider5__counter js-slider5__counter">
 						01<sup> / 06</sup>
 					</div>
 				</div>
@@ -189,8 +189,8 @@
 			<div class="tr6__wrap">
 				<div class="tr6__content tr6__content-v2">
 					<div class="tr6__buttons">
-						<a href="" class="tr6__btn tr6__btn-v2">список городов</a>
-						<a href="" class="tr6__btn tr6__btn-v2">города на карте</a>
+						<div id="nav-tb1" class="tr6__btn active tr6__btn-v2">список городов</div>
+						<div id="nav-tb2" class="tr6__btn tr6__btn-v2">города на карте</div>
 					</div>
 					<div class="tr6__caption1 tr6__caption1-v2">список городов</div>
 					<div class="tr6__caption2">Нужного города нет в списке? Просто отправьте заявку, наш специалист организует индивидуальный трансфер</div>
@@ -199,174 +199,180 @@
 		</div>
 	</section>
 
-	<section class="cities">
-		<div class="container">
-			<div class="cities__container">
-				<div class="cities__caption1">города россии</div>
-				<div class="cities__content">
-					<div class="cities__caption2">А</div>
-					<a href="" class="cities__item">Абакан</a>
-					<a href="" class="cities__item">Адлер</a>
-					<a href="" class="cities__item">Анапа</a>
-					<a href="" class="cities__item">Ангарск</a>
-					<a href="" class="cities__item">Апатиты</a>
-					<a href="" class="cities__item">Архангельск</a>
-					<a href="" class="cities__item">Астрахань</a>
-					<div class="cities__caption2">Б</div>
-					<a href="" class="cities__item">Баранаул</a>
-					<a href="" class="cities__item">Белгород</a>
-					<a href="" class="cities__item">Белогорск</a>
-					<a href="" class="cities__item">Бийск</a>
-					<a href="" class="cities__item">Биробиджан</a>
-					<a href="" class="cities__item">Благовещенск</a>
-					<a href="" class="cities__item">Братск</a>
-					<a href="" class="cities__item">Брянск</a>
-					<div class="cities__caption2">В</div>
-					<a href="" class="cities__item">Великий Новгород</a>
-					<a href="" class="cities__item">Владивосток</a>
-					<a href="" class="cities__item">Владикавказ</a>
-					<a href="" class="cities__item">Владимир</a>
-					<a href="" class="cities__item">Волгоград</a>
-					<a href="" class="cities__item">Волгодонск</a>
-					<a href="" class="cities__item">Вологда</a>
-					<a href="" class="cities__item">Воркута</a>
-					<a href="" class="cities__item">Воронеж</a>
-					<a href="" class="cities__item">Вятские-Поляны</a>
-					<div class="cities__caption2">Г</div>
-					<a href="" class="cities__item">Геленджик</a>
-					<a href="" class="cities__item">Горно-Алтайск</a>
-					<a href="" class="cities__item">Грозный</a>
-					<div class="cities__caption2">Д</div>
-					<a href="" class="cities__item">Дзержинск</a>
-					<div class="cities__caption2">Е</div>
-					<a href="" class="cities__item">Евпатория</a>
-					<a href="" class="cities__item">Екатеринбург</a>
-					<a href="" class="cities__item">Ессентуки</a>
-					<div class="cities__caption2">Ж</div>
-					<a href="" class="cities__item">Железноводск</a>
-					<div class="cities__caption2">И</div>
-					<a href="" class="cities__item">Иваново</a>
-					<a href="" class="cities__item">Ижевск</a>
-					<a href="" class="cities__item">Инта</a>
-					<a href="" class="cities__item">Иркутск</a>
-					<a href="" class="cities__item">Йошкар-Ола</a>
-					<div class="cities__caption2">К</div>
-					<a href="" class="cities__item">Казань</a>
-					<a href="" class="cities__item">Калининград</a>
-					<a href="" class="cities__item">Калуга</a>
-					<a href="" class="cities__item">Кемерво</a>
-					<a href="" class="cities__item">Киров</a>
-					<a href="" class="cities__item">Кирово-Чепецк</a>
+	<section id="tb1" class="all-cities active js-sities-tab">
+		<div class="cities">
+			<div class="container">
+				<div class="cities__container">
+					<div class="cities__caption1">города россии</div>
+					<div class="cities__content">
+						<div class="cities__caption2">А</div>
+						<a href="" class="cities__item">Абакан</a>
+						<a href="" class="cities__item">Адлер</a>
+						<a href="" class="cities__item">Анапа</a>
+						<a href="" class="cities__item">Ангарск</a>
+						<a href="" class="cities__item">Апатиты</a>
+						<a href="" class="cities__item">Архангельск</a>
+						<a href="" class="cities__item">Астрахань</a>
+						<div class="cities__caption2">Б</div>
+						<a href="" class="cities__item">Баранаул</a>
+						<a href="" class="cities__item">Белгород</a>
+						<a href="" class="cities__item">Белогорск</a>
+						<a href="" class="cities__item">Бийск</a>
+						<a href="" class="cities__item">Биробиджан</a>
+						<a href="" class="cities__item">Благовещенск</a>
+						<a href="" class="cities__item">Братск</a>
+						<a href="" class="cities__item">Брянск</a>
+						<div class="cities__caption2">В</div>
+						<a href="" class="cities__item">Великий Новгород</a>
+						<a href="" class="cities__item">Владивосток</a>
+						<a href="" class="cities__item">Владикавказ</a>
+						<a href="" class="cities__item">Владимир</a>
+						<a href="" class="cities__item">Волгоград</a>
+						<a href="" class="cities__item">Волгодонск</a>
+						<a href="" class="cities__item">Вологда</a>
+						<a href="" class="cities__item">Воркута</a>
+						<a href="" class="cities__item">Воронеж</a>
+						<a href="" class="cities__item">Вятские-Поляны</a>
+						<div class="cities__caption2">Г</div>
+						<a href="" class="cities__item">Геленджик</a>
+						<a href="" class="cities__item">Горно-Алтайск</a>
+						<a href="" class="cities__item">Грозный</a>
+						<div class="cities__caption2">Д</div>
+						<a href="" class="cities__item">Дзержинск</a>
+						<div class="cities__caption2">Е</div>
+						<a href="" class="cities__item">Евпатория</a>
+						<a href="" class="cities__item">Екатеринбург</a>
+						<a href="" class="cities__item">Ессентуки</a>
+						<div class="cities__caption2">Ж</div>
+						<a href="" class="cities__item">Железноводск</a>
+						<div class="cities__caption2">И</div>
+						<a href="" class="cities__item">Иваново</a>
+						<a href="" class="cities__item">Ижевск</a>
+						<a href="" class="cities__item">Инта</a>
+						<a href="" class="cities__item">Иркутск</a>
+						<a href="" class="cities__item">Йошкар-Ола</a>
+						<div class="cities__caption2">К</div>
+						<a href="" class="cities__item">Казань</a>
+						<a href="" class="cities__item">Калининград</a>
+						<a href="" class="cities__item">Калуга</a>
+						<a href="" class="cities__item">Кемерво</a>
+						<a href="" class="cities__item">Киров</a>
+						<a href="" class="cities__item">Кирово-Чепецк</a>
 
-					<div class="cities__caption2">А</div>
-					<a href="" class="cities__item">Абакан</a>
-					<a href="" class="cities__item">Адлер</a>
-					<a href="" class="cities__item">Анапа</a>
-					<a href="" class="cities__item">Ангарск</a>
-					<a href="" class="cities__item">Апатиты</a>
-					<a href="" class="cities__item">Архангельск</a>
-					<a href="" class="cities__item">Астрахань</a>
-					<div class="cities__caption2">Б</div>
-					<a href="" class="cities__item">Баранаул</a>
-					<a href="" class="cities__item">Белгород</a>
-					<a href="" class="cities__item">Белогорск</a>
-					<a href="" class="cities__item">Бийск</a>
-					<a href="" class="cities__item">Биробиджан</a>
-					<a href="" class="cities__item">Благовещенск</a>
-					<a href="" class="cities__item">Братск</a>
-					<a href="" class="cities__item">Брянск</a>
-					<div class="cities__caption2">В</div>
-					<a href="" class="cities__item">Великий Новгород</a>
-					<a href="" class="cities__item">Владивосток</a>
-					<a href="" class="cities__item">Владикавказ</a>
-					<a href="" class="cities__item">Владимир</a>
-					<a href="" class="cities__item">Волгоград</a>
-					<a href="" class="cities__item">Волгодонск</a>
-					<a href="" class="cities__item">Вологда</a>
-					<a href="" class="cities__item">Воркута</a>
-					<a href="" class="cities__item">Воронеж</a>
-					<a href="" class="cities__item">Вятские-Поляны</a>
-					<div class="cities__caption2">Г</div>
-					<a href="" class="cities__item">Геленджик</a>
-					<a href="" class="cities__item">Горно-Алтайск</a>
-					<a href="" class="cities__item">Грозный</a>
-					<div class="cities__caption2">Д</div>
-					<a href="" class="cities__item">Дзержинск</a>
-					<div class="cities__caption2">Е</div>
-					<a href="" class="cities__item">Евпатория</a>
-					<a href="" class="cities__item">Екатеринбург</a>
-					<a href="" class="cities__item">Ессентуки</a>
-					<div class="cities__caption2">Ж</div>
-					<a href="" class="cities__item">Железноводск</a>
-					<div class="cities__caption2">И</div>
-					<a href="" class="cities__item">Иваново</a>
-					<a href="" class="cities__item">Ижевск</a>
-					<a href="" class="cities__item">Инта</a>
-					<a href="" class="cities__item">Иркутск</a>
-					<a href="" class="cities__item">Йошкар-Ола</a>
-					<div class="cities__caption2">К</div>
-					<a href="" class="cities__item">Казань</a>
-					<a href="" class="cities__item">Калининград</a>
-					<a href="" class="cities__item">Калуга</a>
-					<a href="" class="cities__item">Кемерво</a>
-					<a href="" class="cities__item">Киров</a>
-					<a href="" class="cities__item">Кирово-Чепецк</a>
+						<div class="cities__caption2">А</div>
+						<a href="" class="cities__item">Абакан</a>
+						<a href="" class="cities__item">Адлер</a>
+						<a href="" class="cities__item">Анапа</a>
+						<a href="" class="cities__item">Ангарск</a>
+						<a href="" class="cities__item">Апатиты</a>
+						<a href="" class="cities__item">Архангельск</a>
+						<a href="" class="cities__item">Астрахань</a>
+						<div class="cities__caption2">Б</div>
+						<a href="" class="cities__item">Баранаул</a>
+						<a href="" class="cities__item">Белгород</a>
+						<a href="" class="cities__item">Белогорск</a>
+						<a href="" class="cities__item">Бийск</a>
+						<a href="" class="cities__item">Биробиджан</a>
+						<a href="" class="cities__item">Благовещенск</a>
+						<a href="" class="cities__item">Братск</a>
+						<a href="" class="cities__item">Брянск</a>
+						<div class="cities__caption2">В</div>
+						<a href="" class="cities__item">Великий Новгород</a>
+						<a href="" class="cities__item">Владивосток</a>
+						<a href="" class="cities__item">Владикавказ</a>
+						<a href="" class="cities__item">Владимир</a>
+						<a href="" class="cities__item">Волгоград</a>
+						<a href="" class="cities__item">Волгодонск</a>
+						<a href="" class="cities__item">Вологда</a>
+						<a href="" class="cities__item">Воркута</a>
+						<a href="" class="cities__item">Воронеж</a>
+						<a href="" class="cities__item">Вятские-Поляны</a>
+						<div class="cities__caption2">Г</div>
+						<a href="" class="cities__item">Геленджик</a>
+						<a href="" class="cities__item">Горно-Алтайск</a>
+						<a href="" class="cities__item">Грозный</a>
+						<div class="cities__caption2">Д</div>
+						<a href="" class="cities__item">Дзержинск</a>
+						<div class="cities__caption2">Е</div>
+						<a href="" class="cities__item">Евпатория</a>
+						<a href="" class="cities__item">Екатеринбург</a>
+						<a href="" class="cities__item">Ессентуки</a>
+						<div class="cities__caption2">Ж</div>
+						<a href="" class="cities__item">Железноводск</a>
+						<div class="cities__caption2">И</div>
+						<a href="" class="cities__item">Иваново</a>
+						<a href="" class="cities__item">Ижевск</a>
+						<a href="" class="cities__item">Инта</a>
+						<a href="" class="cities__item">Иркутск</a>
+						<a href="" class="cities__item">Йошкар-Ола</a>
+						<div class="cities__caption2">К</div>
+						<a href="" class="cities__item">Казань</a>
+						<a href="" class="cities__item">Калининград</a>
+						<a href="" class="cities__item">Калуга</a>
+						<a href="" class="cities__item">Кемерво</a>
+						<a href="" class="cities__item">Киров</a>
+						<a href="" class="cities__item">Кирово-Чепецк</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="cities">
+			<div class="container">
+				<div class="cities__container">
+					<div class="cities__caption1">города мира</div>
+					<div class="cities__content">
+						<div class="cities__caption2">А</div>
+						<a href="" class="cities__item">Абакан</a>
+						<a href="" class="cities__item">Адлер</a>
+						<a href="" class="cities__item">Анапа</a>
+						<a href="" class="cities__item">Ангарск</a>
+						<a href="" class="cities__item">Апатиты</a>
+						<a href="" class="cities__item">Архангельск</a>
+						<a href="" class="cities__item">Астрахань</a>
+						<div class="cities__caption2">Б</div>
+						<a href="" class="cities__item">Баранаул</a>
+						<a href="" class="cities__item">Белгород</a>
+						<div class="cities__caption2">Г</div>
+						<a href="" class="cities__item">Геленджик</a>
+						<a href="" class="cities__item">Горно-Алтайск</a>
+						<a href="" class="cities__item">Грозный</a>
+						<div class="cities__caption2">Д</div>
+						<a href="" class="cities__item">Дзержинск</a>
+						<div class="cities__caption2">Е</div>
+						<a href="" class="cities__item">Евпатория</a>
+						<a href="" class="cities__item">Екатеринбург</a>
+						<a href="" class="cities__item">Ессентуки</a>
+
+						<div class="cities__caption2">А</div>
+						<a href="" class="cities__item">Абакан</a>
+						<a href="" class="cities__item">Адлер</a>
+						<a href="" class="cities__item">Анапа</a>
+						<a href="" class="cities__item">Ангарск</a>
+						<a href="" class="cities__item">Апатиты</a>
+						<a href="" class="cities__item">Архангельск</a>
+						<a href="" class="cities__item">Астрахань</a>
+						<div class="cities__caption2">Б</div>
+						<a href="" class="cities__item">Баранаул</a>
+						<a href="" class="cities__item">Белгород</a>
+						<div class="cities__caption2">Г</div>
+						<a href="" class="cities__item">Геленджик</a>
+						<a href="" class="cities__item">Горно-Алтайск</a>
+						<a href="" class="cities__item">Грозный</a>
+						<div class="cities__caption2">Д</div>
+						<a href="" class="cities__item">Дзержинск</a>
+						<div class="cities__caption2">Е</div>
+						<a href="" class="cities__item">Евпатория</a>
+						<a href="" class="cities__item">Екатеринбург</a>
+						<a href="" class="cities__item">Ессентуки</a>
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="cities">
-		<div class="container">
-			<div class="cities__container">
-				<div class="cities__caption1">города мира</div>
-				<div class="cities__content">
-					<div class="cities__caption2">А</div>
-					<a href="" class="cities__item">Абакан</a>
-					<a href="" class="cities__item">Адлер</a>
-					<a href="" class="cities__item">Анапа</a>
-					<a href="" class="cities__item">Ангарск</a>
-					<a href="" class="cities__item">Апатиты</a>
-					<a href="" class="cities__item">Архангельск</a>
-					<a href="" class="cities__item">Астрахань</a>
-					<div class="cities__caption2">Б</div>
-					<a href="" class="cities__item">Баранаул</a>
-					<a href="" class="cities__item">Белгород</a>
-					<div class="cities__caption2">Г</div>
-					<a href="" class="cities__item">Геленджик</a>
-					<a href="" class="cities__item">Горно-Алтайск</a>
-					<a href="" class="cities__item">Грозный</a>
-					<div class="cities__caption2">Д</div>
-					<a href="" class="cities__item">Дзержинск</a>
-					<div class="cities__caption2">Е</div>
-					<a href="" class="cities__item">Евпатория</a>
-					<a href="" class="cities__item">Екатеринбург</a>
-					<a href="" class="cities__item">Ессентуки</a>
-
-					<div class="cities__caption2">А</div>
-					<a href="" class="cities__item">Абакан</a>
-					<a href="" class="cities__item">Адлер</a>
-					<a href="" class="cities__item">Анапа</a>
-					<a href="" class="cities__item">Ангарск</a>
-					<a href="" class="cities__item">Апатиты</a>
-					<a href="" class="cities__item">Архангельск</a>
-					<a href="" class="cities__item">Астрахань</a>
-					<div class="cities__caption2">Б</div>
-					<a href="" class="cities__item">Баранаул</a>
-					<a href="" class="cities__item">Белгород</a>
-					<div class="cities__caption2">Г</div>
-					<a href="" class="cities__item">Геленджик</a>
-					<a href="" class="cities__item">Горно-Алтайск</a>
-					<a href="" class="cities__item">Грозный</a>
-					<div class="cities__caption2">Д</div>
-					<a href="" class="cities__item">Дзержинск</a>
-					<div class="cities__caption2">Е</div>
-					<a href="" class="cities__item">Евпатория</a>
-					<a href="" class="cities__item">Екатеринбург</a>
-					<a href="" class="cities__item">Ессентуки</a>
-				</div>
-			</div>
-		</div>
+	<section id="tb2" class="map-cities js-sities-tab">
+			<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ac52aa0c8aafbf2305264075e6fddcfed2496b694e1e00eb2393c7fcf92be860d&amp;width=100%25&amp;height=450&amp;lang=ru_RU&amp;scroll=falce"></script>
 	</section>
 
 	<section class="bot-form">
