@@ -1,0 +1,136 @@
+@import "vars"
+
+/*==========  Desktop First  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px)
+	/**/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1150px)
+	.header
+		&__content
+			margin: 0 50px 0 120px
+			justify-content: center
+
+	.nav
+		&-wrap
+			display: block
+			position: absolute
+			top: 90px
+			right: -20px
+			transform: translateX(200px)
+			width: 170px
+			padding: 10px 15px 15px
+			background: #09071a
+			transition: .3s
+			z-index: 10
+			&.open
+				transform: translateX(0)
+		&__item
+			display: block
+			margin-top: 15px
+			&:first-child
+				margin-top: 0
+
+	.burger
+		display: block
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px)
+	.sc-form-2
+		background: url(../img/form2-bg.jpg) no-repeat center / cover
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px)
+	.call
+		&__btn
+			display: none
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px)
+	.section1
+		text-align: center
+
+	.sc-form
+		text-align: center
+	.form
+		justify-content: center
+
+	.slider1
+		text-align: center
+
+	.boiler-items
+		text-align: center
+	.boiler-item__caption:after
+		left: 50%
+		transform: translateX(-50%)
+
+	.options
+		text-align: center
+	.options__caption:after
+		left: 50%
+		transform: translateX(-50%)
+
+	.number-caption__caption1
+		font-size: 34px
+
+	.advantages-item
+		&:nth-child(1n)
+			padding: 30px 20px 20px
+			background: rgba(255, 255, 255, .1)
+
+	.advantages
+		text-align: center
+
+	.bullets
+		text-align: center
+		&__caption:after
+			left: 50%
+			transform: translateX(-50%)
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 375px)
+	.header
+		&__logo
+			padding: 15px
+			width: 70px
+			height: 70px
+		&__content
+			margin-left: 70px
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px)
+	/**/
+
+
+/*==========  Mobile First  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px)
+	/**/
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px)
+	/**/
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px)
+	/**/
+
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px)
+	/**/
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px)
+	/**/
+
