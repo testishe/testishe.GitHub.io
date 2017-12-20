@@ -5,7 +5,7 @@
 
 	<meta charset="utf-8">
 
-	<title>Title</title>
+	<title>Продажа печей длительного горения</title>
 	<meta name="description" content="">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -74,7 +74,7 @@
 					</div>
 
 					<div class="call">
-						<a href="#nav1" class="call__btn btn">Перезвоните мне</a>
+						<a href="#form-popup" class="call__btn btn js-link-popup">Перезвоните мне</a>
 						<div class="call__text">
 							<div class="call__number">8 (800) 550 07 54</div>
 							<div class="call__email">pechkinb@inbox.ru</div>
@@ -91,10 +91,10 @@
 		<section class="section1">
 			<div class="container">
 				<div class="section1__container">
-					<div class="section1__boiler"><img src="img/s1-boiler.png" alt=""></div>
+					<div class="section1__boiler"><img src="img/boiler-new.png" alt=""></div>
 					<div class="section1__content">
 						<div class="section1__caption">котлы длительного горения<br>с доставкой по РФ и снг<p class="text-color">от производителя</p></div>
-						<a href="https://www.youtube.com/watch?v=w-9CMteVsPE" class="video" target="_blank">
+						<a href="#video1" class="video js-link-popup">
 							<div class="video__btn"></div>
 							<div class="video__text">
 								<div class="video__caption">посмотрите короткое видео</div>
@@ -132,20 +132,20 @@
 								<label for="" class="form__label">Тип помещения</label>
 								<select class="form__input" name="type_house">
 									<option class="form__input" value="Жилое">Жилое</option>
-									<option class="form__input" value="Техническое">Техническое</option>
+									<option class="form__input" value="Коммерческое">Коммерческое</option>
 								</select>
 							</div>
 							<div class="form__item">
 								<label for="" class="form__label">Площадь, м2</label>
-								<input type="text" class="form__input" name="space" placeholder="Например, 22 м2" required="">
+								<input type="number" class="form__input" name="space" placeholder="Например, 22 м2" required="">
 							</div>
 							<div class="form__item">
 								<label for="" class="form__label">Высота  потолка, м</label>
-								<input type="text" class="form__input" name="height" placeholder="Например, 2,5 м" required="">
+								<input type="number" class="form__input" name="height" placeholder="Например, 2,5 м" required="">
 							</div>
 							<div class="form__item">
 								<label for="" class="form__label">Ваш телефон</label>
-								<input type="text" class="form__input" name="user_phone" placeholder="Для связи с Вами" required="">
+								<input type="tel" class="form__input" name="user_phone" placeholder="Для связи с Вами" required="" pattern="(\+?\d[- .]*){7,13}" title="Международный, государственный или местный телефонный номер">
 							</div>
 							<div class="form__item">
 								<button type="submit" class="btn" >подобрать котел</button>
@@ -178,7 +178,7 @@
 						<div class="slider1__img"><img src="img/sl1-1.png" alt=""></div>
 					</div>
 
-					<div class="slider1__slid">
+					<!-- <div class="slider1__slid">
 						<div class="slider1__texts">
 							<div class="slider1__text1">при покупке котла до 31 декабря </div>
 							<div class="slider1__text2">* Автоматически регулирует интенсивность горения в котле, все что нужно – просто выбрать требуемую температуру</div>
@@ -192,7 +192,7 @@
 							<div class="slider1__text2">* Автоматически регулирует интенсивность горения в котле, все что нужно – просто выбрать требуемую температуру</div>
 						</div>
 						<div class="slider1__img"><img src="img/sl1-1.png" alt=""></div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
@@ -206,7 +206,7 @@
 					<div class="boiler-item__content">
 						<div class="boiler-item__caption">Котёл WIRT Taiga</div>
 						<div class="boiler-item__description">WIRT Taiga это линейка из девяти стальных водогрейных твердотопливных котлов мощностью от 10 до 100 кВт, предназначенных для отопления бытовых и производственных помещений площадью 2 от 30 до 1000 м</div>
-						<a href="https://www.youtube.com/watch?v=lKe6OF0hZgc" class="video video-color-black" target="_blank">
+						<a href="#video2" class="video video-color-black js-link-popup">
 							<div class="video__btn"></div>
 							<div class="video__text">
 								<div class="video__caption">посмотрите короткое видео</div>
@@ -215,7 +215,7 @@
 						</a>
 						<div class="boiler-item__cost">от 13 860 руб.</div>
 						<div class="buttons">
-							<a href="#boi1" class="btn btn-big btn-black js-link-popup">подробнее</a>
+							<a href="#boi1" class="btn btn-big btn-black js-link-popup1">подробнее</a>
 							<a href="#nav1" class="btn btn-big">заказать в 1 клик</a>
 						</div>
 					</div>
@@ -226,7 +226,7 @@
 					<div class="boiler-item__content">
 						<div class="boiler-item__caption">Котёл WIRT Classic</div>
 						<div class="boiler-item__description">WIRT Classic – это линейка из трех стальных водогрейных твердотопливных котлов длительного горения мощностью от 10 до 30 кВт, предназначенных для отопления бытовых помещений площадью от 30 до 300 м2.</div>
-						<a href="https://www.youtube.com/watch?v=6QvSiVi4R5M" class="video video-color-black" target="_blank">
+						<a href="#video3" class="video video-color-black js-link-popup">
 							<div class="video__btn"></div>
 							<div class="video__text">
 								<div class="video__caption">посмотрите короткое видео</div>
@@ -235,7 +235,7 @@
 						</a>
 						<div class="boiler-item__cost">от 22 550 руб.</div>
 						<div class="buttons">
-							<a href="#boi2" class="btn btn-big btn-black js-link-popup">подробнее</a>
+							<a href="#boi2" class="btn btn-big btn-black js-link-popup2">подробнее</a>
 							<a href="#nav1" class="btn btn-big">заказать в 1 клик</a>
 						</div>
 					</div>
@@ -247,7 +247,7 @@
 					<div class="boiler-item__content">
 						<div class="boiler-item__caption">Котёл WIRT Basis (Elektro)</div>
 						<div class="boiler-item__description">WIRT Taiga это линейка из девяти стальных водогрейных твердотопливных котлов мощностью от 10 до 100 кВт, предназначенных для отопления бытовых и производственных помещений площадью 2 от 30 до 1000 м</div>
-						<a href="https://www.youtube.com/watch?time_continue=1&v=y6x-RrRQih4" class="video video-color-black" target="_blank">
+						<a href="#video4" class="video video-color-black js-link-popup">
 							<div class="video__btn"></div>
 							<div class="video__text">
 								<div class="video__caption">посмотрите короткое видео</div>
@@ -256,7 +256,7 @@
 						</a>
 						<div class="boiler-item__cost">от 41 690 руб.</div>
 						<div class="buttons">
-							<a href="#boi3" class="btn btn-big btn-black js-link-popup">подробнее</a>
+							<a href="#boi3" class="btn btn-big btn-black js-link-popup3">подробнее</a>
 							<a href="#nav1" class="btn btn-big">заказать в 1 клик</a>
 						</div>
 					</div>
@@ -266,7 +266,7 @@
 					<div class="boiler-item__content">
 						<div class="boiler-item__caption">Котёл WIRT Smart</div>
 						<div class="boiler-item__description">WIRT Smart – это линейка из десяти стальных универсальных водогрейных котлов длительного горения мощностью от 15 до 100 кВт, предназначенных для отопления бытовых и производственных помещений площадью от 30 до 1000 м2</div>
-						<a href="https://www.youtube.com/watch?v=5Jws6RM96pQ" class="video video-color-black" target="_blank">
+						<a href="#video5" class="video video-color-black js-link-popup">
 							<div class="video__btn"></div>
 							<div class="video__text">
 								<div class="video__caption">посмотрите короткое видео</div>
@@ -275,7 +275,7 @@
 						</a>
 						<div class="boiler-item__cost">от 56 650 руб.</div>
 						<div class="buttons">
-							<a href="#boi4" class="btn btn-big btn-black js-link-popup">подробнее</a>
+							<a href="#boi4" class="btn btn-big btn-black js-link-popup4">подробнее</a>
 							<a href="#nav1" class="btn btn-big">заказать в 1 клик</a>
 						</div>
 					</div>
@@ -287,7 +287,7 @@
 					<div class="boiler-item__content">
 						<div class="boiler-item__caption">Котёл WIRT SMART EKO</div>
 						<div class="boiler-item__description">WIRT Basis (Elektro) – Котёл отопительный стальной предназначен для отопления индивидуальных жилых домов и зданий коммунально-бытового назначения общей площадью до 1000м² при высоте потолка около 2,7м</div>
-						<a href="https://www.youtube.com/watch?v=5Jws6RM96pQ" class="video video-color-black" target="_blank">
+						<a href="#video6" class="video video-color-black js-link-popup">
 							<div class="video__btn"></div>
 							<div class="video__text">
 								<div class="video__caption">посмотрите короткое видео</div>
@@ -296,7 +296,7 @@
 						</a>
 						<div class="boiler-item__cost">от 95 700 руб.</div>
 						<div class="buttons">
-							<a href="#boi5" class="btn btn-big btn-black js-link-popup">подробнее</a>
+							<a href="#boi5" class="btn btn-big btn-black js-link-popup5">подробнее</a>
 							<a href="#nav1" class="btn btn-big">заказать в 1 клик</a>
 						</div>
 					</div>
@@ -345,7 +345,7 @@
 					<form class="form" action="mail.php" method="POST" onsubmit="yaCounter47067273.reachGoal('form_otp2'); return true;">
 						<div class="form__item">
 							<label for="" class="form__label">Ваш телефон</label>
-							<input type="text" class="form__input" name="user_phone" placeholder="Для связи с Вами" required="">
+							<input type="tel" class="form__input" name="user_phone" placeholder="Для связи с Вами" required="" pattern="(\+?\d[- .]*){7,13}" title="Международный, государственный или местный телефонный номер">
 						</div>
 						<div class="form__item">
 							<button type="submit" class="btn">подобрать котел</button>
@@ -448,7 +448,7 @@
 						<div class="slider2__imgWrap"><img src="img/sl2-3.jpg" alt="" class="slider2__img"></div>
 					</div>
 
-					<div class="slider2__slid">
+					<!-- <div class="slider2__slid">
 						<div class="slider2__imgWrap"><img src="img/sl2-1.jpg" alt="" class="slider2__img"></div>
 						<div class="slider2__imgWrap"><img src="img/sl2-2.jpg" alt="" class="slider2__img"></div>
 						<div class="slider2__imgWrap"><img src="img/sl2-3.jpg" alt="" class="slider2__img"></div>
@@ -458,7 +458,7 @@
 						<div class="slider2__imgWrap"><img src="img/sl2-1.jpg" alt="" class="slider2__img"></div>
 						<div class="slider2__imgWrap"><img src="img/sl2-2.jpg" alt="" class="slider2__img"></div>
 						<div class="slider2__imgWrap"><img src="img/sl2-3.jpg" alt="" class="slider2__img"></div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</section>
@@ -468,13 +468,13 @@
 				<div class="sc-form__container">
 					<img src="img/form1.png" alt="" class="sc-form__img">
 					<div class="sc-form__content">
-						<div class="sc-form__caption1">Нужен котел?</div>
-						<div class="sc-form__caption2">давайте подберем подходящий вариант онлайн</div>
+						<div class="sc-form__caption1">Заполните форму</div>
+						<div class="sc-form__caption2">Получите бесплатную консультацию специалиста</div>
 						<form class="form" action="mail.php" method="POST" onsubmit="yaCounter47067273.reachGoal('form_otp3'); return true;">
 							
 							<div class="form__item">
 								<label for="" class="form__label">Ваш телефон</label>
-								<input type="text" class="form__input" name="user_phone" placeholder="Для связи с Вами" required="">
+								<input type="tel" class="form__input" name="user_phone" placeholder="Для связи с Вами" required="" pattern="(\+?\d[- .]*){7,13}" title="Международный, государственный или местный телефонный номер">
 							</div>
 							<div class="form__item  form__item-long">
 								<label for="" class="form__label">Ваш вопрос</label>
@@ -518,7 +518,7 @@
 	<section class="sc-form sc-form3">
 		<div class="container">
 			<div class="sc-form__container sc-form3__container">
-				<div class="sc-form__content">
+				<div class="sc-form__content sc-form3__content">
 					<div class="sc-form__caption1">Нужен котел?</div>
 					<div class="sc-form__caption2">давайте подберем подходящий вариант онлайн</div>
 					<form class="form" action="mail.php" method="POST" onsubmit="yaCounter47067273.reachGoal('form_otp4'); return true;">
@@ -529,11 +529,11 @@
 						
 						<div class="form__item">
 							<label for="" class="form__label">Ваш телефон</label>
-							<input type="text" class="form__input" name="user_phone" placeholder="Для связи с Вами">
+							<input type="tel" class="form__input" name="user_phone" placeholder="Для связи с Вами" pattern="(\+?\d[- .]*){7,13}" title="Международный, государственный или местный телефонный номер">
 						</div>
 						<div class="form__item">
 							<label for="" class="form__label">Ваш e-mail</label>
-							<input type="text" class="form__input" name="user_email" placeholder="Для отправки КП">
+							<input type="email" class="form__input" name="user_email" placeholder="Для отправки КП">
 						</div>
 						<div class="agreement">Я согласен на обработку моих персональных данных</div>
 						<div class="form__item">
@@ -573,11 +573,11 @@
 							<a href="#nav4" class="nav__item">отзывы</a>
 							<a href="#nav5" class="nav__item">контакты</a>
 						</nav>
-						<a href="" class="polit">Политика конфиденциальности</a>
+						<a href="polit.html" class="polit" target="_blank">Политика конфиденциальности</a>
 					</div>
 
 					<div class="call">
-						<a href="#nav1" class="call__btn btn">Перезвоните мне</a>
+						<a href="#form-popup" class="call__btn btn js-link-popup">Перезвоните мне</a>
 						<div class="call__text">
 							<div class="call__number">8 (800) 550 07 54</div>
 							<div class="call__email">pechkinb@inbox.ru</div>
@@ -607,73 +607,156 @@
 		</div>
 
 		<div id="boi1" class="boiler-item boi-popap">
-			<div class="boiler-item__img"><img src="img/bi1.jpg" alt=""></div>
+			<div class="boiler-item__img sl-item1">
+				<img src="img/bi1.jpg" alt="">
+				<img src="img/taiga2.jpg" alt="">
+				<img src="img/taiga3.jpg" alt="">
+			</div>
 			<div class="boiler-item__content">
 				<div class="boiler-item__caption">Котёл WIRT Taiga</div>
 				<div class="boiler-item__description">WIRT Taiga это линейка из девяти стальных водогрейных твердотопливных котлов мощностью от 10 до 100 кВт, предназначенных для отопления бытовых и производственных помещений площадью 2 от 30 до 1000 м . В качестве основного топлива используется уголь, дрова и торфяные брикеты, в качестве дополнительного газ, дизельное топливо. Также для данных котлов в качестве дополнительного источника тепловой энергии возможно использование встроенных электрических нагревателей (блоков ТЭН).</div>
+				<div class="boiler-item__text">Сдержанный стиль, размеры котла гармонично вписываются в дизайн кухни или иных помещений, в которых предусмотрена возможность подключения к дымоходу. Цветовые решения наружных стенок котла белый, красный, синий, серый, коричневый.</div>
 				<div class="boiler-item__cost">от 13 860 руб.</div>
-				<div class="boiler-item__text">Номинальнаямощность, кВт<br>10; 20; 25; 30; 50; 60; 80; 100. </div>
-				<div class="boiler-item__text">Площадь обогреваРек/макс/, м²<br>50–100; 100–200; 120–250; 200–300: 300–500; 450–600; 600–800; 800–1000.</div>
-				<div class="boiler-item__text">-Вес, кг<br>79кг.</div>
+				<div class="boiler-item__text">Номинальная мощность, кВт<br>10; 20; 25; 30; 50; 60; 80; 100. </div>
+				<div class="boiler-item__text">Площадь обогрева Рек/макс/, м²<br>50–100; 100–200; 120–250; 200–300: 300–500; 450–600; 600–800; 800–1000.</div>
+				<div class="boiler-item__text">Вес, кг<br>79кг.</div>
 				<div class="boiler-item__text">Базовая комплектация котла<br>Колосник - в 10кВт<br>Зольный ящик – в 20-50кВт<br>Заглушка 1¼" и 2" по 1шт.Сгон 1¼" 2шт.,<br>совок, кочерга<br>(Плита чугунная – в 10-25кВт)<br>Заглушка 1¼" и 2" по 1шт.Сгон 1¼" – 2шт.</div>
 				<div class="boiler-item__text"></div>
 			</div>
 		</div>
 
 		<div id="boi2" class="boiler-item boi-popap">
-			<div class="boiler-item__img"><img src="img/bi1.jpg" alt=""></div>
+			<div class="boiler-item__img sl-item2">
+				<img src="img/bi1.jpg" alt="">
+				<img src="img/classik2.jpg" alt="">
+				<img src="img/classik3.jpg" alt="">
+				<img src="img/classik4.jpg" alt="">
+			</div>
 			<div class="boiler-item__content">
 				<div class="boiler-item__caption">Котёл WIRT Classic</div>
 				<div class="boiler-item__description">WIRT Classic – это линейка из трех стальных водогрейных твердотопливных котлов длительного горения мощностью от 10 до 30 кВт, предназначенных для отопления бытовых помещений площадью от 30 до 300 м2. В качестве основного топлива используется уголь, дрова и торфяные брикеты, в качестве дополнительного – газ, дизельное топливо (в базовой комплектации нижняя дверь котлов оборудована отверстием под установку газовой или жидкотопливной горелок). Также для данных котлов в качестве дополнительного источника тепловой энергии возможно использование встроенных электрических нагревателей (блоков ТЭН).</div>
+				<div class="boiler-item__text">Благодаря успешному сочетанию современных технологий изготовления с использованием качественных материалов, простотой монтажа и удобством в эксплуатации котлы зарекомендовали себя, как безопасные и надежные в работе.</div>
 				<div class="boiler-item__cost">от 22 550 руб.</div>
-				<div class="boiler-item__text">Номинальнаямощность, кВт<br>10; 20; 30. </div>
-				<div class="boiler-item__text">Площадь обогреваРек/макс/, м²<br>70-100; 120–200; 200–300.</div>
-				<div class="boiler-item__text">-Вес, кг<br>140кг.</div>
+				<div class="boiler-item__text">Номинальная мощность, кВт<br>10; 20; 30. </div>
+				<div class="boiler-item__text">Площадь обогрева Рек/макс/, м²<br>70-100; 120–200; 200–300.</div>
+				<div class="boiler-item__text">Вес, кг<br>140кг.</div>
 				<div class="boiler-item__text">Базовая комплектация котла<br>Зольный ящик<br>Заглушка 1¼" и 2" по 1шт.<br>Сгон 1¼" 2шт.,<br>Совок, кочерга<br>Термометр<br>(Плита чугунная – в 10-20кВт).</div>
 				<div class="boiler-item__text"></div>
 			</div>
 		</div>
 
 		<div id="boi3" class="boiler-item boi-popap">
-			<div class="boiler-item__img"><img src="img/bi1.jpg" alt=""></div>
+			<div class="boiler-item__img sl-item3">
+				<img src="img/bi2.jpg" alt="">
+				<img src="img/basis2.jpg" alt="">
+				<img src="img/basis3.jpg" alt="">
+				<img src="img/basis4.jpg" alt="">
+			</div>
 			<div class="boiler-item__content">
 				<div class="boiler-item__caption">Котёл WIRT Basis (Elektro)</div>
 				<div class="boiler-item__description">WIRT Basis (Elektro) – это линейка из десяти стальных водогрейных твердотопливных котлов длительного горения мощностью от 10 до 80 кВт, предназначенных для отопления бытовых и производственных помещений площадью от 30 до 800 м2. В качестве основного топлива используется уголь, дрова и торфяные брикеты, в качестве дополнительного – газ, дизельное топливо или пеллеты (в базовой комплектации нижняя дверь котлов оборудована отверстием под установку газовой, жидкотопливной или пеллетной горелок). Также для данных котлов в качестве дополнительного источника тепловой энергии возможно использование встроенных электрических нагревателей (блоков ТЭН).</div>
+				<div class="boiler-item__text">Котлы WIRT Basis (Elektro) работают как в открытых, так и в закрытых системах отопления в качестве основного источника тепловой энергии. Котлы также могут работать и в качестве альтернативного источника для осуществления горячего водоснабжения.</div>
+				<div class="boiler-item__text">Благодаря успешному сочетанию современных технологий изготовления с использованием качественных материалов, простотой монтажа и удобством в эксплуатации котлы зарекомендовали себя, как безопасные и надежные в работе.</div>
 				<div class="boiler-item__cost">от 41 690 руб.</div>
-				<div class="boiler-item__text">Номинальнаямощность, кВт<br>10; 15; 20; 25; 30; 35; 40; 50; 60; 80.</div>
-				<div class="boiler-item__text">Площадь обогреваРек/макс/, м²<br>80–100; 100–150; 150–200; 200–250; 250–300; 300–350; 350–400; 450–500; 500–600; 600-800. </div>
-				<div class="boiler-item__text">-Вес, кг<br>210кг.</div>
+				<div class="boiler-item__text">Номинальная мощность, кВт<br>10; 15; 20; 25; 30; 35; 40; 50; 60; 80.</div>
+				<div class="boiler-item__text">Площадь обогрева Рек/макс/, м²<br>80–100; 100–150; 150–200; 200–250; 250–300; 300–350; 350–400; 450–500; 500–600; 600-800. </div>
+				<div class="boiler-item__text">Вес, кг<br>210кг.</div>
 				<div class="boiler-item__text">Базовая комплектация котла<br>Зольный ящик<br>Заглушка 1/2" – 1шт.<br>Заглушка 2" - 2шт<br>Пыльники 4шт,<br>Совок, кочерга, скребок<br>Термометр<br>Комплект чистки колосников.</div>
 				<div class="boiler-item__text"></div>
 			</div>
 		</div>
 
 		<div id="boi4" class="boiler-item boi-popap">
-			<div class="boiler-item__img"><img src="img/bi1.jpg" alt=""></div>
+			<div class="boiler-item__img sl-item4">
+				<img src="img/bi3.jpg" alt="">
+				<img src="img/smart2.jpg" alt="">
+				<img src="img/smart3.jpg" alt="">
+				<img src="img/smart4.jpg" alt="">
+			</div>
 			<div class="boiler-item__content">
 				<div class="boiler-item__caption">Котёл WIRT Smart</div>
 				<div class="boiler-item__description">WIRT Smart – это линейка из десяти стальных универсальных водогрейных котлов длительного горения мощностью от 15 до 100 кВт, предназначенных для отопления бытовых и производственных помещений площадью от 30 до 1000 м2. В качестве основного топлива используется уголь, дрова и торфяные брикеты, в качестве дополнительного – газ, дизельное топливо или пеллеты (в базовой комплектации нижняя дверь котлов оборудована отверстием под установку газовой, жидкотопливной или пеллетной горелок). Также для данных котлов в качестве дополнительного источника тепловой энергии возможно использование встроенных электрических нагревателей (блоков ТЭН).</div>
+				<div class="boiler-item__text">Котлы имеют лабиринтную конструкцию (топочная камера + 3 горизонтальных хода), позволяющую максимально использовать теплоту продуктов сгорания.</div>
+				<div class="boiler-item__text">Котлы WIRT Smart работают как в открытых, так и в закрытых системах отопления в качестве основного источника тепловой энергии. Котлы также могут работать и в качестве альтернативного источника для осуществления горячего водоснабжения.</div>
+				<div class="boiler-item__text">Благодаря успешному сочетанию современных технологий изготовления с использованием качественных материалов, простотой монтажа и удобством в эксплуатации котлы зарекомендовали себя, как безопасные и надежные в работе.</div>
 				<div class="boiler-item__cost">от 56 650 руб.</div>
-				<div class="boiler-item__text">Номинальнаямощность, кВт<br>15; 20; 25; 30; 35; 40; 50; 70; 90; 100. </div>
-				<div class="boiler-item__text">Площадь обогреваРек/макс/, м²<br>100–150; 150–200; 200–250; 250–300; 300–350; 350–400; 450-500; 500-700; 700–900; 900–1100. </div>
-				<div class="boiler-item__text">-Вес, кг<br>210кг.</div>
+				<div class="boiler-item__text">Номинальная мощность, кВт<br>15; 20; 25; 30; 35; 40; 50; 70; 90; 100. </div>
+				<div class="boiler-item__text">Площадь обогрева Рек/макс/, м²<br>100–150; 150–200; 200–250; 250–300; 300–350; 350–400; 450-500; 500-700; 700–900; 900–1100. </div>
+				<div class="boiler-item__text">Вес, кг<br>210кг.</div>
 				<div class="boiler-item__text">Базовая комплектация котла<br>Зольный ящик.<br>Заглушка 1/2" – 1шт.<br>Заглушка 1" и 2" по 2шт.<br>Пыльник 1шт.<br>Совок, кочерга, скребок.<br>Термометр. </div>
 				<div class="boiler-item__text"></div>
 			</div>
 		</div>
 
 		<div id="boi5" class="boiler-item boi-popap">
-			<div class="boiler-item__img"><img src="img/bi1.jpg" alt=""></div>
+			<div class="boiler-item__img sl-item5">
+				<img src="img/bi5.jpg" alt="">
+				<img src="img/smarteko2.jpg" alt="">
+				<img src="img/smarteko3.jpg" alt="">
+				<img src="img/smarteko4.jpg" alt="">
+			</div>
 			<div class="boiler-item__content">
-				<div class="boiler-item__caption">КОТЁЛ WIRT SMART EKO</div>
+				<div class="boiler-item__caption">WIRT Smart EKO (до 5 суток на одной загрузке).</div>
 				<div class="boiler-item__description">WIRT Smart – это линейка из десяти стальных универсальных водогрейных котлов длительного горения мощностью от 15 до 100 кВт, предназначенных для отопления бытовых и производственных помещений площадью от 30 до 1000 м2. В качестве основного топлива используется уголь, дрова и торфяные брикеты, в качестве дополнительного – газ, дизельное топливо или пеллеты (в базовой комплектации нижняя дверь котлов оборудована отверстием под установку газовой, жидкотопливной или пеллетной горелок). Также для данных котлов в качестве дополнительного источника тепловой энергии возможно использование встроенных электрических нагревателей (блоков ТЭН).</div>
 				<div class="boiler-item__cost">от 95 700 руб.</div>
-				<div class="boiler-item__text">Номинальнаямощность, кВт<br>15; 20; 25; 30; 35; 40; 50; 70; 90; 100. </div>
-				<div class="boiler-item__text">Площадь обогреваРек/макс/, м²<br>100–150; 150–200; 200–250; 250–300; 300–350; 350–400; 450-500; 500-700; 700–900; 900–1100. </div>
-				<div class="boiler-item__text">-Вес, кг<br>210кг.</div>
+				<div class="boiler-item__text">Преимущества котлов WIRT Smart EKO : </div>
+				<div class="boiler-item__text">- увеличена камера сгорания топлива; </div>
+				<div class="boiler-item__text">- равномерное распределение воздуха в топке за счет встроенных форсунок в стенках котла и под колосниковой решеткой; </div>
+				<div class="boiler-item__text">- увеличена зольная часть котла и зольный ящик стал выше и более вместительный; </div>
+				<div class="boiler-item__text">- установленный на котле вентилятор наддува и контроллер позволяют экономить топливо как минимум на 20% и контролировать различные режимы котла. </div>
+				<div class="boiler-item__text">- установлен механизм для чистки колосниковой решетки.</div>
+				<div class="boiler-item__text">Описание и работа</div>
+				<div class="boiler-item__text">Котѐл отопительный стальной предназначен для отопления индивидуальных жилых домов и зданий коммунально-бытового назначения общей площадью до 1000м² при высоте потолка около 2,7м оборудованных системами водяного отопления с естественной или принудительной циркуляцией. Модель высокоэффективна, надежна, безопасна, имеет компактный размер, стильный дизайн, характеризуются легкой установкой. Котельное оборудование обеспечивает быстрый нагрев и значительный показатель КПД, что поддерживает хорошие характеристики отопления в разных условиях. Продукция сертифицирована, проста в настройке. Модель может функционировать на угле, древесине. В котле есть возможность установки блока ТЭН, газовой или жидкотопливной горелки. Топка котлов выполнена из более толстого листого проката, что увеличивает срок работы. Для регулировки температуры, тяги, контроля пламени может использоваться регулятор тяги, либо установленный автоматический контроллер с надувным вентилятором. Котел имеет дверцу специальной конструкции, облегчающую загрузку топлива и уменьшающую риск просыпать уголь.</div>
+				<div class="boiler-item__text">ВНИМАНИЕ: эксплуатация котла в системе отопления с принудительной циркуляцией при отсутствии электропитания категорически запрещается</div>
+				<div class="boiler-item__text">Номинальная мощность, кВт<br>15; 20; 25; 30; 35; 40; 50; 70; 90; 100. </div>
+				<div class="boiler-item__text">Площадь обогрева Рек/макс/, м²<br>100–150; 150–200; 200–250; 250–300; 300–350; 350–400; 450-500; 500-700; 700–900; 900–1100. </div>
+				<div class="boiler-item__text">Вес, кг<br>210кг.</div>
 				<div class="boiler-item__text">Базовая комплектация котла<br>Зольный ящик.<br>Заглушка 1/2" – 1шт.<br>Заглушка 1" и 2" по 2шт.<br>Пыльник 1шт.<br>Совок, кочерга, скребок.<br>Термометр. </div>
 				<div class="boiler-item__text"></div>
 			</div>
+		</div>
+
+		<div id="video1" class="video-popap">
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/w-9CMteVsPE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		</div>
+
+		<div id="video2" class="video-popap">
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/lKe6OF0hZgc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		</div>
+
+		<div id="video3" class="video-popap">
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/6QvSiVi4R5M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		</div>
+
+		<div id="video4" class="video-popap">
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/y6x-RrRQih4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		</div>
+
+		<div id="video5" class="video-popap">
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/5Jws6RM96pQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		</div>
+
+		<div id="video6" class="video-popap">
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/5Jws6RM96pQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		</div>
+
+		<div id="form-popup" class="sc-form__content form-popup">
+			<form class="form" action="mail.php" method="POST" onsubmit="yaCounter47067273.reachGoal('form_otp3'); return true;">
+
+				<div class="form__item  form__item-long">
+					<label for="" class="form__label">Ваше имя</label>
+					<input type="text" class="form__input" name="question" placeholder="Для обращения к вам" required="">
+				</div>
+				<div class="form__item">
+					<label for="" class="form__label">Ваш телефон</label>
+					<input type="tel" class="form__input" name="user_phone" placeholder="Для связи с Вами" required="" pattern="(\+?\d[- .]*){7,13}" title="Международный, государственный или местный телефонный номер">
+				</div>
+				
+				<div class="agreement">Я согласен на обработку моих персональных данных</div>
+				<div class="form__item">
+					<button type="submit" class="btn">подобрать котел</button>
+				</div>
+			</form>
 		</div>
 	</div>
 </div>
