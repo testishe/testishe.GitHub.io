@@ -80,31 +80,37 @@
 		<div id="top-form" class="top-form">
 			<div class="container">
 				<div class="bid">
-					<div class="top-form__caption1">заявка на подбор автобуса</div>
-					<div class="top-form__caption2">специалисты подберут для вас лучший вариант</div>
-					<form action="" class="top-form__form">
-						<div class="top-form__inputs">
-							<div class="top-form__item">
-								<label for="" class="top-form__name">Ваше имя</label>
-								<input type="text" class="top-form__nameIn" placeholder="Для обращения к вам" required="">
+					<div class="bid__content">
+						<div class="top-form__caption1">заявка на подбор автобуса</div>
+						<div class="top-form__caption2">специалисты подберут для вас лучший вариант</div>
+						<form action="" class="top-form__form">
+							<div class="top-form__inputs">
+								<div class="top-form__item">
+									<label for="" class="top-form__name">Ваше имя</label>
+									<input type="text" class="top-form__nameIn" placeholder="Для обращения к вам" required="">
+								</div>
+								<div class="top-form__item">
+									<label for="" class="top-form__phone">Ваш телефон</label>
+									<input type="text" class="top-form__phoneIn" placeholder="Для связи с вами" required="">
+								</div>
+								<div class="top-form__item">
+									<label for="" class="top-form__email">Ваш e-mail</label>
+									<input type="text" class="top-form__emailIn" placeholder="Для отправки предложения" required="">
+								</div>
+								<div class="bot-form__item bot-form__item-long">
+									<input type="text" class="bot-form__input" placeholder="Опишите задачу" required="">
+								</div>
+								<div class="top-form__item">
+									<button class="top-form__button main-btn">продолжить подбор</button>
+								</div>
 							</div>
-							<div class="top-form__item">
-								<label for="" class="top-form__phone">Ваш телефон</label>
-								<input type="text" class="top-form__phoneIn" placeholder="Для связи с вами" required="">
-							</div>
-							<div class="top-form__item">
-								<label for="" class="top-form__email">Ваш e-mail</label>
-								<input type="text" class="top-form__emailIn" placeholder="Для отправки предложения" required="">
-							</div>
-							<div class="top-form__item">
-								<button class="top-form__button main-btn">продолжить подбор</button>
-							</div>
-						</div>
-						<div class="top-form__check">
-							Я согласен на обработку персональных данных и с политикой конфиденциальности
+							<div class="top-form__check">
+								<input type="checkbox">
+								Я согласен на обработку персональных данных и с политикой конфиденциальности
 
-						</div>
-					</form>
+							</div>
+						</form>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -114,7 +120,7 @@
 		<div class="container">
 			<div class="tr1__content">
 				<div class="tr1__caption1">автобусы и микроавтобусы на все случаи жизни</div>
-				<div class="tr1__caption2">Выберите автотранпорт на любое из перечисленных</div>
+				<div class="tr1__caption2">Выберите автотранпорт на любое из перечисленных мероприятий</div>
 				<a href="#form-popup" class="tr1__button main-btn js-link-popup">заказать</a>
 			</div>
 		</div>
@@ -456,7 +462,7 @@
 			<div class="tr4__wrap">
 				<div class="tr4__content">
 					<div class="tr4__caption1">география обслуживания</div>
-					<div class="tr4__caption2">Более 1000 заказов в месяцах в десятках стран, сотнях городов и аэропортов обрабатывает наша компания</div>
+					<div class="tr4__caption2">Более 3000 заказов в месяц в десятках стран, сотнях городов и аэропортов обрабатывает наша компания</div>
 					<a href="#form-popup" class="tr4__button main-btn js-link-popup">перейти к географии</a>
 				</div>
 			</div>
@@ -604,7 +610,8 @@
 						<button class="bot-form__button main-btn">Подобрать</button>
 					</div>
 
-					<div class="bot-form__check">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
+					<div class="bot-form__check">
+						<input type="checkbox">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
 				</div>
 			</div>
 		</div>
@@ -617,7 +624,7 @@
 					<div class="tr6__caption1">публикации</div>
 					<div class="tr6__caption2">Советы путешественникам, лайфхаки, полезная информация и новости компании в нашем блоге</div>
 					<div class="tr6__buttons">
-						<div id="nav-tb1" class="tr6__btn">новости компании</div>
+						<div id="nav-tb1" class="tr6__btn active">новости компании</div>
 						<div id="nav-tb2" class="tr6__btn">обновления в блоге</div>
 					</div>
 				</div>
@@ -844,13 +851,16 @@
 					<a href="" class="footer-social__item"><i class="fa fa-youtube" aria-hidden="true"></i></a>
 				</div>
 				<div class="footer__caption">Контакты</div>
-				<div class="footer__number">8 (800) 250-17-17</div>
-				<a class="footer__question footer__link">Задать вопрос оператору</a>
-				<div class="footer__caption2">Для звонков из-за границы:</div>
-				<div class="footer__text">тел. +44 2 0386 81151</div>
-				<div class="footer__caption2">Офис в Москве:</div>
-				<div class="footer__text">тел:+7 (495) 204-1718</div>
-				<div class="footer__text">info-bus@albatroc.com</div>
+				<div class="footer__text">+7 (800) 200-3338 круглосуточно</div>
+				<div class="footer__text">+7 (495) 204-1718 Москва</div>
+				<div class="footer__text">+7 (812) 409-3051 Санкт-Петербург</div>
+				<div class="footer__text">+7 (383) 209-9261 Новосибирск</div>
+				<div class="footer__text">+7 (391) 989-8353 Красноярск</div>
+				<div class="footer__text">+7 (862) 225-7056 Сочи-Адлер</div>
+				<div class="footer__text">+7 (351) 711-1508 Челябинск</div>
+				<div class="footer__text">+44 2 0386 81151  Лондон</div>
+				<div class="footer__text footer__text-margin">info-bus@albatroc.com</div>
+				<div class="footer__text footer__text-margin footer__phonesicon">+7 (913) 125-7777 <i class="fa fa-telegram" aria-hidden="true"></i> <i class="fa fa-whatsapp" aria-hidden="true"></i><i class="fa fa-volume-control-phone" aria-hidden="true"></i></div>
 			</div>
 		</div>
 	</footer>

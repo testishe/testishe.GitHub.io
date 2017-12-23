@@ -111,322 +111,249 @@
 	</section>
 
 	<section class="all-forms">
-		<div id="tb-f1" class="bot-form bot-form-cooperation active">
+		<div id="tb-f1" class="bot-form bot-form-coop active">
 			<div class="container">
-				<div class="bot-form__container">
-					<div class="bot-form__content bot-form__content-cooperation">
-						<div class="bot-form__caption1">оставьте заявку</div>
-						<div class="bot-form__caption2">заполните форму для присоединения транспортной компании</div>
-						<div class="bot-form__form">
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваше имя</label>
-								<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш телефон</label>
-								<input type="text" class="bot-form__input" placeholder="Для связи с вами" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш e-mail</label>
-								<input type="text" class="bot-form__input" placeholder="Для отправки предложения" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Должность</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Сайт компании</label>
-								<!-- <select name="typ_bus" id="carType" class="bot-form__input">
-									<option value="МИНИВЕН 6-8 пасс">МИНИВЕН 6-8 пасс</option>
-									<option value="МИКРОАВТОБУС 8-10 пасс">МИКРОАВТОБУС 8-10 пасс</option>
-									<option value="МИКРОАВТОБУС 11-15 пасс">МИКРОАВТОБУС 11-15 пасс</option>
-									<option value="МИКРОАВТОБУС 16-18 пасс">МИКРОАВТОБУС 16-18 пасс</option>
-									<option value="МИКРОАВТОБУС 19-21 пасс">МИКРОАВТОБУС 19-21 пасс</option>
-									<option value="МИКРОАВТОБУС 32-35 пасс">МИКРОАВТОБУС 32-35 пасс</option>
-									<option value="АВТОБУС 45+">АВТОБУС 45+</option>
-								</select> -->
-								<input type="text" class="bot-form__input" placeholder="http://" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Типы автобусов</label>
-								<!-- <select name="pay" class="bot-form__input">
-									<option id="id1" value="Наличными">Наличными</option>
-									<option id="id2" value="Безналичными">Безналичными</option>
-									<option id="id3" value="Пластиковая карта">Пластиковая карта</option>
-								</select> -->
-								<input type="text" class="bot-form__input" placeholder="8-10 мест" required="">
-							</div>
-							<!-- <div class="bot-form__item bot-form__item-long">
-								<input type="text" class="bot-form__input" placeholder="Опишите задачу" required="">
-							</div> -->
-							<div class="bot-form__item">
-								<button class="bot-form__button main-btn">присоединиться</button>
-							</div>
-
-							<div class="bot-form__check">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
+				<div class="bot-form__content">
+					<div class="bot-form__caption1">Затрудняетесь с выбором автобуса?</div>
+					<div class="bot-form__caption2">просто оставьте заявку, специалист свяжется с вами в течение 10 минут</div>
+					<div class="bot-form__form">
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваше имя</label>
+							<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
 						</div>
-					</div>
-					<div class="form-text">
-						<p class="form-text__caption1">Быстро и легко организовать и контролировать поездки для сотрудников вашей компании</p>
-						<p class="form-text__caption2">Мы делаем всё возможное для вашего удобства:</p>
-						<p class="form-text__bullet">Фиксированная стоимость поездок</p>
-						<p class="form-text__bullet">Обслуживание по единым стандартам в более чем 670 аэропортах по всему миру</p>
-						<p class="form-text__bullet">Заказ в несколько кликов</p>
-						<p class="form-text__bullet">Бесплатное ожидание при задержке рейса или поезда</p>
-						<p class="form-text__bullet">Иномарки не старше 5 лет</p>
-						<p class="form-text__bullet">Круглосуточная поддержка по бесплатному телефону в России, а также отдельные линии в других странах</p>
-						<p class="form-text__bullet">Только безналичный расчёт</p>
-						<p class="form-text__bullet">Постоплата</p>
-						<p class="form-text__bullet">Агентское вознаграждение или скидка пропорционально объёму заказов</p>
-						
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш телефон</label>
+							<input type="text" class="bot-form__input" placeholder="Для связи с вами" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш e-mail</label>
+							<input type="text" class="bot-form__input" placeholder="Для отправки предложения" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Количество человек</label>
+							<input type="text" class="bot-form__input" placeholder="Для подбора лучшего варианта" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Тип автобуса</label>
+							<select name="typ_bus" id="carType" class="bot-form__input">
+								<option value="МИНИВЕН 6-8 пасс">МИНИВЕН 6-8 пасс</option>
+								<option value="МИКРОАВТОБУС 8-10 пасс">МИКРОАВТОБУС 8-10 пасс</option>
+								<option value="МИКРОАВТОБУС 11-15 пасс">МИКРОАВТОБУС 11-15 пасс</option>
+								<option value="МИКРОАВТОБУС 16-18 пасс">МИКРОАВТОБУС 16-18 пасс</option>
+								<option value="МИКРОАВТОБУС 19-21 пасс">МИКРОАВТОБУС 19-21 пасс</option>
+								<option value="МИКРОАВТОБУС 32-35 пасс">МИКРОАВТОБУС 32-35 пасс</option>
+								<option value="АВТОБУС 45+">АВТОБУС 45+</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="8-10 мест" required=""> -->
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Оплата</label>
+							<select name="pay" class="bot-form__input">
+								<option id="id1" value="Наличными">Наличными</option>
+								<option id="id2" value="Безналичными">Безналичными</option>
+								<option id="id3" value="Пластиковая карта">Пластиковая карта</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="Наличными" required=""> -->
+						</div>
+						<div class="bot-form__item bot-form__item-long">
+							<input type="text" class="bot-form__input" placeholder="Опишите задачу" required="">
+						</div>
+						<div class="bot-form__item">
+							<button class="bot-form__button main-btn">Подобрать</button>
+						</div>
+
+						<div class="bot-form__check">
+							<input type="checkbox">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div id="tb-f2" class="bot-form bot-form-cooperation">
+		<div id="tb-f2" class="bot-form bot-form-coop">
 			<div class="container">
-				<div class="bot-form__container">
-					<div class="bot-form__content bot-form__content-cooperation">
-						<div class="bot-form__caption1">оставьте заявку</div>
-						<div class="bot-form__caption2">заполните форму для присоединения транспортной компании</div>
-						<div class="bot-form__form">
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваше имя</label>
-								<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш телефон</label>
-								<input type="text" class="bot-form__input" placeholder="Для связи с вами" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш e-mail</label>
-								<input type="text" class="bot-form__input" placeholder="Для отправки предложения" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш город</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Количество автобусов</label>
-								<!-- <select name="typ_bus" id="carType" class="bot-form__input">
-									<option value="МИНИВЕН 6-8 пасс">МИНИВЕН 6-8 пасс</option>
-									<option value="МИКРОАВТОБУС 8-10 пасс">МИКРОАВТОБУС 8-10 пасс</option>
-									<option value="МИКРОАВТОБУС 11-15 пасс">МИКРОАВТОБУС 11-15 пасс</option>
-									<option value="МИКРОАВТОБУС 16-18 пасс">МИКРОАВТОБУС 16-18 пасс</option>
-									<option value="МИКРОАВТОБУС 19-21 пасс">МИКРОАВТОБУС 19-21 пасс</option>
-									<option value="МИКРОАВТОБУС 32-35 пасс">МИКРОАВТОБУС 32-35 пасс</option>
-									<option value="АВТОБУС 45+">АВТОБУС 45+</option>
-								</select> -->
-								<input type="text" class="bot-form__input" placeholder="1-10" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Типы автобусов</label>
-								<!-- <select name="pay" class="bot-form__input">
-									<option id="id1" value="Наличными">Наличными</option>
-									<option id="id2" value="Безналичными">Безналичными</option>
-									<option id="id3" value="Пластиковая карта">Пластиковая карта</option>
-								</select> -->
-								<input type="text" class="bot-form__input" placeholder="8-10 мест" required="">
-							</div>
-							<!-- <div class="bot-form__item bot-form__item-long">
-								<input type="text" class="bot-form__input" placeholder="Опишите задачу" required="">
-							</div> -->
-							<div class="bot-form__item">
-								<button class="bot-form__button main-btn">присоединиться</button>
-							</div>
-
-							<div class="bot-form__check">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
+				<div class="bot-form__content">
+					<div class="bot-form__caption1">Затрудняетесь с выбором автобуса?2</div>
+					<div class="bot-form__caption2">просто оставьте заявку, специалист свяжется с вами в течение 10 минут</div>
+					<div class="bot-form__form">
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваше имя</label>
+							<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
 						</div>
-					</div>
-					<div class="form-text">
-						<p class="form-text__caption1">Зарабатывайте с нами!</p>
-						<p class="form-text__text">Наши основные клиенты — это деловые люди, отправившиеся в командировку. Они предъявляют высокие требования к уровню обслуживания и мы делаем всё, чтобы оправдать их ожидания.</p>
-						<p class="form-text__caption2">Будем рады сотрудничеству с вами, если:</p>
-						<p class="form-text__bullet">Ваш автопарк включает иномарки, выпущенные не ранее</p>
-						<p class="form-text__bullet">У вас зарегистрировано юрлицо и есть расчётный счёт</p>
-						<p class="form-text__bullet">Вы готовы работать по постоплате</p>
-						<p class="form-text__bullet">Вы будете на связи круглые сутки в любой день для решения оперативных вопросов</p>
-						<p class="form-text__caption2">Будем рады сотрудничеству с вами, если:</p>
-						<p class="form-text__bullet">Водитель одет в соответствии с повседневным деловым стилем</p>
-						<p class="form-text__bullet">Водитель встречает клиента с табличкой и предлагает помощь с багажом</p>
-						<p class="form-text__bullet">К клиенту водитель обращается уважительно, соблюдает такт и не навязывает разговор</p>
-						<p class="form-text__bullet">Автомобиль без наклеек на борту и прочих признаков такси, чистый снаружи и внутри независимо от погодных условий</p>
-						<p class="form-text__bullet">В автомобиле запрещено курение</p>
-						<p class="form-text__bullet">Водитель неукоснительно соблюдает все требования по безопасности, включая обязательное использование ремней безопасности как для себя, так и для пассажира</p>
-						<p class="form-text__bullet">Водитель ведёт автомобиль спокойно и уверенно, соблюдая ПДД и скоростной режим</p>
-						<p class="form-text__bullet">Музыка в автомобиле только по желанию клиента</p>
-						<p class="form-text__bullet">Во время поездки водитель не разговаривает по телефону, если это не требуется для решения вопросов по текущей поездке.</p>
-						<p class="form-text__bullet">По завершению поездки водитель заполняет маршрутный лист и заверяет его подписью клиента</p>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш телефон</label>
+							<input type="text" class="bot-form__input" placeholder="Для связи с вами" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш e-mail</label>
+							<input type="text" class="bot-form__input" placeholder="Для отправки предложения" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Количество человек</label>
+							<input type="text" class="bot-form__input" placeholder="Для подбора лучшего варианта" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Тип автобуса</label>
+							<select name="typ_bus" id="carType" class="bot-form__input">
+								<option value="МИНИВЕН 6-8 пасс">МИНИВЕН 6-8 пасс</option>
+								<option value="МИКРОАВТОБУС 8-10 пасс">МИКРОАВТОБУС 8-10 пасс</option>
+								<option value="МИКРОАВТОБУС 11-15 пасс">МИКРОАВТОБУС 11-15 пасс</option>
+								<option value="МИКРОАВТОБУС 16-18 пасс">МИКРОАВТОБУС 16-18 пасс</option>
+								<option value="МИКРОАВТОБУС 19-21 пасс">МИКРОАВТОБУС 19-21 пасс</option>
+								<option value="МИКРОАВТОБУС 32-35 пасс">МИКРОАВТОБУС 32-35 пасс</option>
+								<option value="АВТОБУС 45+">АВТОБУС 45+</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="8-10 мест" required=""> -->
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Оплата</label>
+							<select name="pay" class="bot-form__input">
+								<option id="id1" value="Наличными">Наличными</option>
+								<option id="id2" value="Безналичными">Безналичными</option>
+								<option id="id3" value="Пластиковая карта">Пластиковая карта</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="Наличными" required=""> -->
+						</div>
+						<div class="bot-form__item bot-form__item-long">
+							<input type="text" class="bot-form__input" placeholder="Опишите задачу" required="">
+						</div>
+						<div class="bot-form__item">
+							<button class="bot-form__button main-btn">Подобрать</button>
+						</div>
+
+						<div class="bot-form__check">
+							<input type="checkbox">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div id="tb-f3" class="bot-form bot-form-cooperation">
+		<div id="tb-f3" class="bot-form bot-form-coop">
 			<div class="container">
-				<div class="bot-form__container">
-					<div class="bot-form__content bot-form__content-cooperation">
-						<div class="bot-form__caption1">оставьте заявку</div>
-						<div class="bot-form__caption2">заполните форму для присоединения транспортной компании</div>
-						<div class="bot-form__form">
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваше имя</label>
-								<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш телефон</label>
-								<input type="text" class="bot-form__input" placeholder="Для связи с вами" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш e-mail</label>
-								<input type="text" class="bot-form__input" placeholder="Для отправки предложения" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Должность</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Сайт компании</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Страна</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Город</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Количество автомобилей</label>
-								<select name="typ_bus" id="carType" class="bot-form__input">
-									<option value="МИКРОАВТОБУС 8-10 пасс">1-10</option>
-									<option value="МИКРОАВТОБУС 11-15 пасс">11-50</option>
-									<option value="МИКРОАВТОБУС 19-21 пасс">51-100</option>
-									<option value="МИКРОАВТОБУС 32-35 пасс">боее 100</option>
-								</select>
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Классы автомобилей</label><br>
-								
-
-									<input type="checkbox" id="check1">
-									<label class="bot-form__label" for="check1">стандарт</label><br>
-									<input type="checkbox" id="check2">
-									<label class="bot-form__label" for="check2">бизнес</label><br>
-									<input type="checkbox" id="check3">
-									<label class="bot-form__label" for="check3">представительский</label><br>
-									<input type="checkbox" id="check4">
-									<label class="bot-form__label" for="check4">минивэн</label><br>
-									<input type="checkbox" id="check4">
-									<label class="bot-form__label" for="check4">микроавтобус</label><br>
-									<input type="checkbox" id="check4">
-									<label class="bot-form__label" for="check4">автобус</label><br>
-
-		
-							</div>
-							<div class="bot-form__item">
-								<button class="bot-form__button main-btn">присоединиться</button>
-							</div>
-
-							<div class="bot-form__check">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
+				<div class="bot-form__content">
+					<div class="bot-form__caption1">Затрудняетесь с выбором автобуса?3</div>
+					<div class="bot-form__caption2">просто оставьте заявку, специалист свяжется с вами в течение 10 минут</div>
+					<div class="bot-form__form">
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваше имя</label>
+							<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
 						</div>
-					</div>
-					<div class="form-text">
-						<p class="form-text__caption1">Зарабатывайте с нами!</p>
-						<p class="form-text__text">Наши основные клиенты — это деловые люди, отправившиеся в командировку. Они предъявляют высокие требования к уровню обслуживания и мы делаем всё, чтобы оправдать их ожидания.</p>
-						<p class="form-text__caption2">Будем рады сотрудничеству с вами, если:</p>
-						<p class="form-text__bullet">Ваш автопарк включает иномарки, выпущенные не ранее</p>
-						<p class="form-text__bullet">У вас зарегистрировано юрлицо и есть расчётный счёт</p>
-						<p class="form-text__bullet">Вы готовы работать по постоплате</p>
-						<p class="form-text__bullet">Вы будете на связи круглые сутки в любой день для решения оперативных вопросов</p>
-						<p class="form-text__caption2">Будем рады сотрудничеству с вами, если:</p>
-						<p class="form-text__bullet">Водитель одет в соответствии с повседневным деловым стилем</p>
-						<p class="form-text__bullet">Водитель встречает клиента с табличкой и предлагает помощь с багажом</p>
-						<p class="form-text__bullet">К клиенту водитель обращается уважительно, соблюдает такт и не навязывает разговор</p>
-						<p class="form-text__bullet">Автомобиль без наклеек на борту и прочих признаков такси, чистый снаружи и внутри независимо от погодных условий</p>
-						<p class="form-text__bullet">В автомобиле запрещено курение</p>
-						<p class="form-text__bullet">Водитель неукоснительно соблюдает все требования по безопасности, включая обязательное использование ремней безопасности как для себя, так и для пассажира</p>
-						<p class="form-text__bullet">Водитель ведёт автомобиль спокойно и уверенно, соблюдая ПДД и скоростной режим</p>
-						<p class="form-text__bullet">Музыка в автомобиле только по желанию клиента</p>
-						<p class="form-text__bullet">Во время поездки водитель не разговаривает по телефону, если это не требуется для решения вопросов по текущей поездке.</p>
-						<p class="form-text__bullet">По завершению поездки водитель заполняет маршрутный лист и заверяет его подписью клиента</p>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш телефон</label>
+							<input type="text" class="bot-form__input" placeholder="Для связи с вами" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш e-mail</label>
+							<input type="text" class="bot-form__input" placeholder="Для отправки предложения" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Количество человек</label>
+							<input type="text" class="bot-form__input" placeholder="Для подбора лучшего варианта" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Тип автобуса</label>
+							<select name="typ_bus" id="carType" class="bot-form__input">
+								<option value="МИНИВЕН 6-8 пасс">МИНИВЕН 6-8 пасс</option>
+								<option value="МИКРОАВТОБУС 8-10 пасс">МИКРОАВТОБУС 8-10 пасс</option>
+								<option value="МИКРОАВТОБУС 11-15 пасс">МИКРОАВТОБУС 11-15 пасс</option>
+								<option value="МИКРОАВТОБУС 16-18 пасс">МИКРОАВТОБУС 16-18 пасс</option>
+								<option value="МИКРОАВТОБУС 19-21 пасс">МИКРОАВТОБУС 19-21 пасс</option>
+								<option value="МИКРОАВТОБУС 32-35 пасс">МИКРОАВТОБУС 32-35 пасс</option>
+								<option value="АВТОБУС 45+">АВТОБУС 45+</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="8-10 мест" required=""> -->
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Оплата</label>
+							<select name="pay" class="bot-form__input">
+								<option id="id1" value="Наличными">Наличными</option>
+								<option id="id2" value="Безналичными">Безналичными</option>
+								<option id="id3" value="Пластиковая карта">Пластиковая карта</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="Наличными" required=""> -->
+						</div>
+						<div class="bot-form__item bot-form__item-long">
+							<input type="text" class="bot-form__input" placeholder="Опишите задачу" required="">
+						</div>
+						<div class="bot-form__item">
+							<button class="bot-form__button main-btn">Подобрать</button>
+						</div>
+
+						<div class="bot-form__check">
+							<input type="checkbox">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div id="tb-f4" class="bot-form bot-form-cooperation">
+		<div id="tb-f4" class="bot-form bot-form-coop">
 			<div class="container">
-				<div class="bot-form__container">
-					<div class="bot-form__content bot-form__content-cooperation">
-						<div class="bot-form__caption1">оставьте заявку</div>
-						<div class="bot-form__caption2">заполните форму для присоединения транспортной компании</div>
-						<div class="bot-form__form">
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваше имя</label>
-								<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш телефон</label>
-								<input type="text" class="bot-form__input" placeholder="Для связи с вами" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш e-mail</label>
-								<input type="text" class="bot-form__input" placeholder="Для отправки предложения" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Страна</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Ваш город</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							<div class="bot-form__item">
-								<label for="" class="bot-form__label">Марка автомобиля</label>
-								<input type="text" class="bot-form__input" placeholder="Для определения условий" required="">
-							</div>
-							
-							<div class="bot-form__item">
-								<button class="bot-form__button main-btn">присоединиться</button>
-							</div>
-
-							<div class="bot-form__check">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
+				<div class="bot-form__content">
+					<div class="bot-form__caption1">Затрудняетесь с выбором автобуса?4</div>
+					<div class="bot-form__caption2">просто оставьте заявку, специалист свяжется с вами в течение 10 минут</div>
+					<div class="bot-form__form">
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваше имя</label>
+							<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
 						</div>
-					</div>
-					<div class="form-text">
-						<p class="form-text__caption1">Зарабатывайте с нами!</p>
-						<p class="form-text__text">Наши основные клиенты — это деловые люди, отправившиеся в командировку. Они предъявляют высокие требования к уровню обслуживания и мы делаем всё, чтобы оправдать их ожидания.</p>
-						<p class="form-text__text">Для такой работы мы ищем водителей, которые бы разделяли наше стремление к высокому качеству сервиса — тех, кто готов стать лицом нашей компании.</p>
-						<p class="form-text__caption2">Будем рады сотрудничеству с вами, если:</p>
-						<p class="form-text__bullet">Водитель одет в соответствии с повседневным деловым стилем</p>
-						<p class="form-text__bullet">Водитель встречает клиента с табличкой и предлагает помощь с багажом</p>
-						<p class="form-text__bullet">К клиенту водитель обращается уважительно, соблюдает такт и не навязывает разговор</p>
-						<p class="form-text__bullet">Автомобиль без наклеек на борту и прочих признаков такси, чистый снаружи и внутри независимо от погодных условий</p>
-						<p class="form-text__bullet">В автомобиле запрещено курение</p>
-						<p class="form-text__bullet">Водитель неукоснительно соблюдает все требования по безопасности, включая обязательное использование ремней безопасности как для себя, так и для пассажира</p>
-						<p class="form-text__bullet">Водитель ведёт автомобиль спокойно и уверенно, соблюдая ПДД и скоростной режим</p>
-						<p class="form-text__bullet">Музыка в автомобиле только по желанию клиента</p>
-						<p class="form-text__bullet">Во время поездки водитель не разговаривает по телефону, если это не требуется для решения вопросов по текущей поездке.</p>
-						<p class="form-text__bullet">По завершению поездки водитель заполняет маршрутный лист и заверяет его подписью клиента</p>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш телефон</label>
+							<input type="text" class="bot-form__input" placeholder="Для связи с вами" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш e-mail</label>
+							<input type="text" class="bot-form__input" placeholder="Для отправки предложения" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Количество человек</label>
+							<input type="text" class="bot-form__input" placeholder="Для подбора лучшего варианта" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Тип автобуса</label>
+							<select name="typ_bus" id="carType" class="bot-form__input">
+								<option value="МИНИВЕН 6-8 пасс">МИНИВЕН 6-8 пасс</option>
+								<option value="МИКРОАВТОБУС 8-10 пасс">МИКРОАВТОБУС 8-10 пасс</option>
+								<option value="МИКРОАВТОБУС 11-15 пасс">МИКРОАВТОБУС 11-15 пасс</option>
+								<option value="МИКРОАВТОБУС 16-18 пасс">МИКРОАВТОБУС 16-18 пасс</option>
+								<option value="МИКРОАВТОБУС 19-21 пасс">МИКРОАВТОБУС 19-21 пасс</option>
+								<option value="МИКРОАВТОБУС 32-35 пасс">МИКРОАВТОБУС 32-35 пасс</option>
+								<option value="АВТОБУС 45+">АВТОБУС 45+</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="8-10 мест" required=""> -->
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Оплата</label>
+							<select name="pay" class="bot-form__input">
+								<option id="id1" value="Наличными">Наличными</option>
+								<option id="id2" value="Безналичными">Безналичными</option>
+								<option id="id3" value="Пластиковая карта">Пластиковая карта</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="Наличными" required=""> -->
+						</div>
+						<div class="bot-form__item bot-form__item-long">
+							<input type="text" class="bot-form__input" placeholder="Опишите задачу" required="">
+						</div>
+						<div class="bot-form__item">
+							<button class="bot-form__button main-btn">Подобрать</button>
+						</div>
+
+						<div class="bot-form__check">
+							<input type="checkbox">Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="tr2 tr2-services2">
+	<!-- <section class="tr2 tr2-services2">
 		<div class="container">
 			<div class="tr2__content tr2__content-services2">
 				<div class="tr2__caption1">передовая система онлайн-бронирования трансферов и аренды автомобиля с водителем из любой точки мира</div>
 				<div class="tr2__caption2">следите за статусами ваших заказов в режиме online</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
-	<section class="dop-options dop-options-cooperation">
+	<!-- <section class="dop-options dop-options-cooperation">
 		<div class="container">
 			<div class="dop-options__container">
 				<div class="box-item">
@@ -459,9 +386,9 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
-	<section class="tr4">
+	<!-- <section class="tr4">
 		<div class="container">
 			<div class="tr4__wrap">
 				<div class="tr4__content">
@@ -475,7 +402,7 @@
 
 	<section class="map">
 		<img class="map__img" src="img/map.png" alt="">
-	</section>
+	</section> -->
 
 	<section class="bot-help">
 		<img src="img/bg-bot.jpg" alt="" class="bot-help__img">
