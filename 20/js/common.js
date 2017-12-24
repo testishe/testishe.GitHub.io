@@ -189,6 +189,78 @@ $(function() {
 	}
 	});
 
+
+	// фото в форме
+
+	$(".fl_inp1").change(function(){
+         var filename = $(this).val().replace(/.*\\/, "");
+         $(".fl_nm1").html(filename);
+    });
+
+    $(".fl_inp2").change(function(){
+         var filename = $(this).val().replace(/.*\\/, "");
+         $(".fl_nm2").html(filename);
+    });
+
+    $(".fl_inp3").change(function(){
+         var filename = $(this).val().replace(/.*\\/, "");
+         $(".fl_nm3").html(filename);
+    });
+
+    $(".fl_inp4").change(function(){
+         var filename = $(this).val().replace(/.*\\/, "");
+         $(".fl_nm4").html(filename);
+    });
+
+    $('.fl_inp1').change(function() {
+	    if ($('.fl_inp1').val() != '') {
+	        var color = '#fff';
+	        console.log(1);
+	    } else {
+	        var color = 'transparent';
+	        console.log(2);
+	    }
+    $('.fl_nm1').css('background-color', color);
+	});
+
+	$('.fl_inp2').change(function() {
+	    if ($('.fl_inp2').val() != '') {
+	        var color = '#fff';
+	        console.log(1);
+	    } else {
+	        var color = 'transparent';
+	        console.log(2);
+	    }
+    $('.fl_nm2').css('background-color', color);
+	});
+
+	$('.fl_inp3').change(function() {
+	    if ($('.fl_inp3').val() != '') {
+	        var color = '#fff';
+	        console.log(1);
+	    } else {
+	        var color = 'transparent';
+	        console.log(2);
+	    }
+    $('.fl_nm3').css('background-color', color);
+	});
+
+	$('.fl_inp4').change(function() {
+	    if ($('.fl_inp4').val() != '') {
+	        var color = '#fff';
+	        console.log(1);
+	    } else {
+	        var color = 'transparent';
+	        console.log(2);
+	    }
+    $('.fl_nm4').css('background-color', color);
+	});
+
+
+	// маски
+	$(".js-phone-mask").mask("+7 (999) 999-9999");
+	$(".js-gosNsumber-mask").mask(" a 999 aa 999");
+
 });
 
 // табы
