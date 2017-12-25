@@ -34,14 +34,15 @@
 		<div class="container">
 			<a href="#" class="logo"><img src="img/header/Logo.png" alt="" class="logo__img"></a>
 			<div class="top-info">
-				<div class="top-info__email">
-					<div class="top-info__caption">Напишите нам:</div>
-					<a href="mailto:info-bus@albatroc.com" class="top-info__text">info-bus@albatroc.com</a>
-				</div>
 				<div class="top-info__location">
 					<div class="top-info__caption">Вы находитесь:</div>
 					<div class="top-info__text">Кемерово</div>
 				</div>
+				<div class="top-info__email">
+					<div class="top-info__caption">Напишите нам:</div>
+					<a href="mailto:info-bus@albatroc.com" class="top-info__text">info-bus@albatroc.com</a>
+				</div>
+				
 				<div class="top-info__phone">
 					<a href="tel:+78002003338" class="top-info__number">8 (800) 200-33-38</a>
 					<a href="" class="top-info__question">Задать вопрос оператору</a>
@@ -76,7 +77,7 @@
 
 	<section class="head2 head2-cooperationAgents head2-coopDrivers">
 		<div class="container">
-			<div class="name-page">сотрудничество<br>для частных водителей</div>
+			<div class="name-page name-page-s">сотрудничество<br>для частных водителей</div>
 			<div class="head2__captionsWrap head2__captionsWrap-cooperation">
 				<div class="head2__captions">
 					<div class="head2__caption1">Приглашаем к сотрудничеству водителей с личным автотранспортом</div>
@@ -146,7 +147,7 @@
 		<div class="container">
 			<div class="bot-form__content">
 				<div class="bot-form__caption1">оставьте заявку</div>
-				<div class="bot-form__caption2">заполните форму для присоединения вашей компании </div>
+				<div class="bot-form__caption2">заполните форму для присоединения в качестве водителя</div>
 				<div class="bot-form__form">
 					<div class="bot-form__item">
 						<label for="" class="bot-form__label">Ваше имя</label>
@@ -191,7 +192,7 @@
 						<label class="label-photo"><div class=" fl_nm fl_nm4"></div><input class="fl_inp4" type="file" name="photo4"></label>
 					</div>
 					<div class="bot-form__item">
-						<button class="bot-form__button main-btn">Подобрать</button>
+						<button class="bot-form__button main-btn">Присоединиться</button>
 					</div>
 
 					<div class="bot-form__check">
@@ -254,12 +255,12 @@
 			<div class="footer__item">
 				<div class="footer__caption">Мы в соц. сетях</div>
 				<div class="footer-social">
-					<a href="" class="footer-social__item"><i class="fa fa-vk" aria-hidden="true"></i></a>
-					<a href="" class="footer-social__item"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-					<a href="" class="footer-social__item"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-					<a href="" class="footer-social__item"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-					<a href="" class="footer-social__item"><i class="fa fa-odnoklassniki" aria-hidden="true"></i></a>
-					<a href="" class="footer-social__item"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+					<a target="_blank" href="http://vk.com/public106255826" class="footer-social__item"><i class="fa fa-vk" aria-hidden="true"></i></a>
+					<a target="_blank" href="https://instagram.com/88002501717_albatros/" class="footer-social__item"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+					<a target="_blank" href="https://www.facebook.com/albatroc2501717" class="footer-social__item"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+					<a target="_blank" href="https://twitter.com/Albatros_taxi" class="footer-social__item"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+					<a target="_blank" href="http://ok.ru/albatros.88002501717" class="footer-social__item"><i class="fa fa-odnoklassniki" aria-hidden="true"></i></a>
+					<a target="_blank" href="https://www.youtube.com/channel/UCNjUJkB1mpb6J35HUwe8dow/featured" class="footer-social__item"><i class="fa fa-youtube" aria-hidden="true"></i></a>
 				</div>
 				<div class="footer__caption">Контакты</div>
 				<div class="footer__text">+7 (800) 200-3338 круглосуточно</div>
@@ -271,7 +272,11 @@
 				<div class="footer__text">+7 (351) 711-1508 Челябинск</div>
 				<div class="footer__text">+44 2 0386 81151  Лондон</div>
 				<div class="footer__text footer__text-margin">info-bus@albatroc.com</div>
-				<div class="footer__text footer__text-margin footer__phonesicon">+7 (913) 125-7777 <i class="fa fa-telegram" aria-hidden="true"></i> <i class="fa fa-whatsapp" aria-hidden="true"></i><i class="fa fa-volume-control-phone" aria-hidden="true"></i></div>
+				<div class="footer__text footer__text-margin footer__phonesicon">
+					<span>+7 (913) 125-7777 </span>
+				<a href="tg://resolve?domain=+79131257777" class="icon-phone icon-telegram"></a>
+				<a href="whatsapp://send?phone=+79131257777" class="icon-phone icon-whatsapp"></a>
+				<a href="viber://chat?number=+79131257777" class="icon-phone icon-viber"></a></div>
 			</div>
 		</div>
 	</footer>
@@ -303,12 +308,12 @@
 							<label for="" class="bot-form__label">Тип автобуса</label>
 							<!-- <input type="text" class="bot-form__input" placeholder="8-10 мест" required=""> -->
 							<select name="typ_bus" id="carType" class="bot-form__input">
-							<option value="МИНИВЕН 6-8 пасс">МИНИВЕН 6-8 пасс</option>
-							<option value="МИКРОАВТОБУС 8-10 пасс">МИКРОАВТОБУС 8-10 пасс</option>
-							<option value="МИКРОАВТОБУС 11-15 пасс">МИКРОАВТОБУС 11-15 пасс</option>
-							<option value="МИКРОАВТОБУС 16-18 пасс">МИКРОАВТОБУС 16-18 пасс</option>
-							<option value="МИКРОАВТОБУС 19-21 пасс">МИКРОАВТОБУС 19-21 пасс</option>
-							<option value="МИКРОАВТОБУС 32-35 пасс">МИКРОАВТОБУС 32-35 пасс</option>
+							<option value="МИНИВЕН 6-8 мест">МИНИВЕН 6-8 мест</option>
+							<option value="МИКРОАВТОБУС 8-10 мест">МИКРОАВТОБУС 8-10 мест</option>
+							<option value="МИКРОАВТОБУС 11-15 мест">МИКРОАВТОБУС 11-15 мест</option>
+							<option value="МИКРОАВТОБУС 16-18 мест">МИКРОАВТОБУС 16-18 мест</option>
+							<option value="МИКРОАВТОБУС 19-21 мест">МИКРОАВТОБУС 19-21 мест</option>
+							<option value="МИКРОАВТОБУС 32-35 мест">МИКРОАВТОБУС 32-35 мест</option>
 							<option value="АВТОБУС 45+">АВТОБУС 45+</option>
 						</select>
 						</div>

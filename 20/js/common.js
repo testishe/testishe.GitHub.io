@@ -169,6 +169,22 @@ $(function() {
 	$('.slider7__counter').html('0'+(+e.relatedTarget.relative(e.item.index)+1) + '<sup> / '+'0'+ e.item.count +'</sup>')
 	})
 
+	$(".command__slider").owlCarousel({
+	items: 1,
+	nav: true,
+	navText: [ , ],
+	dots: true,
+	autoplay: true,
+	autoplayTimeout: 3000,
+	autoplayHoverPause: true,
+	loop: true,
+	});
+
+	$('.command__slider').on('changed.owl.carousel', function(e) {
+	if (!e.namespace || e.property.name != 'position') return
+	$('.command__counter').html('0'+(+e.relatedTarget.relative(e.item.index)+1) + '<sup> / '+'0'+ e.item.count +'</sup>')
+	})
+
 // плавный скролл
 
 	$('a[href^="#"]').click(function (){
