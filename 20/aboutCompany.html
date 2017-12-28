@@ -45,7 +45,7 @@
 				
 				<div class="top-info__phone">
 					<a href="tel:+78002003338" class="top-info__number">8 (800) 200-33-38</a>
-					<a href="" class="top-info__question">Задать вопрос оператору</a>
+					<a href="#form-popup2" class="top-info__question js-link-popup">Задать вопрос оператору</a>
 				</div>
 				<div class="head-nav1"></div>
 			</div>
@@ -55,7 +55,7 @@
 	<div class="nav1-bar-wrap">
 		<div class="nav1-bar">
 			<div class="nav1-bar__top">
-				<div class="nav1-bar__caption">Навигация</div>
+				<div class="nav1-bar__caption"><img src="img/header/Logo.png" alt="" class="logo__img"></div>
 				<div class="nav1-bar__close"></div>
 			</div>
 			<nav class="nav1">
@@ -483,7 +483,7 @@
 
 	<section class="bot-form bot-form-company">
 		<div class="container">
-			<div class="bot-form__content bot-form__content-services">
+			<form class="bot-form__content bot-form__content-services">
 				<div class="bot-form__caption1 bot-form__caption1-services">Доверьте трансфер надежной компании!</div>
 				<div class="bot-form__caption2 bot-form__caption2-services">Современный лицензированный транспорт, опытные водители, компетентные специалисты и вежливые операторы решат любую поставленную задачу</div>
 				<div class="bot-form__form">
@@ -535,7 +535,7 @@
 					<div class="bot-form__check bot-form__check-company">
 						<input type="checkbox" checked>Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
 				</div>
-			</div>
+			</form>
 		</div>
 	</section>
 
@@ -543,7 +543,7 @@
 		<img src="img/bg-bot.jpg" alt="" class="bot-help__img">
 		<div class="bot-help__form">
 			<div class="bot-help__caption">Остались вопросы?</div>
-			<a href="#form-popup" class="bot-help__btn main-btn js-link-popup">задайте их специалисту</a>
+			<a href="#form-popup2" class="bot-help__btn main-btn js-link-popup">задайте их специалисту</a>
 		</div>
 	</section>
 
@@ -608,7 +608,7 @@
 				<div class="footer__text">+7 (862) 225-7056 Сочи-Адлер</div>
 				<div class="footer__text">+7 (351) 711-1508 Челябинск</div>
 				<div class="footer__text">+44 2 0386 81151  Лондон</div>
-				<div class="footer__text footer__text-margin">info-bus@albatroc.com</div>
+				<a href="mailto:info-bus@albatroc.com" class="footer__text footer__text-margin">info-bus@albatroc.com</a>
 				<div class="footer__text footer__text-margin footer__phonesicon">
 					<span>+7 (913) 125-7777 </span>
 				<a href="tg://resolve?domain=+79131257777" class="icon-phone icon-telegram"></a>
@@ -619,9 +619,68 @@
 	</footer>
 
 	<div class="hidden">
+
 		<div id="form-popup" class="bot-form popup-form">
 			<div class="container">
-				<div class="bot-form__content popup-form__content">
+				<form class="bot-form__content popup-form__content">
+					<div class="bot-form__caption1 popup-form__caption1">ПОДОБРАТЬ АВТОБУС</div>
+					<div class="bot-form__caption2 popup-form__caption2">НАШИ СПЕЦИАЛИСТЫ ПРЕДЛОЖАТ ВАМ ЛУЧШИЙ ВАРИАНТ</div>
+					<div class="bot-form__form">
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваше имя</label>
+							<input type="text" class="bot-form__input" placeholder="Для обращения к вам" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш телефон</label>
+							<input type="tel" class="bot-form__input js-phone-mask" placeholder="Для связи с вами" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Ваш e-mail</label>
+							<input type="email" class="bot-form__input" placeholder="Для отправки предложения" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Количество человек</label>
+							<input type="text" class="bot-form__input" placeholder="Для подбора лучшего варианта" required="">
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Тип автобуса</label>
+							<!-- <input type="text" class="bot-form__input" placeholder="8-10 мест" required=""> -->
+							<select name="typ_bus" id="carType" class="bot-form__input">
+							<option value="МИНИВЕН 6-8 мест">МИНИВЕН 6-8 мест</option>
+							<option value="МИКРОАВТОБУС 8-10 мест">МИКРОАВТОБУС 8-10 мест</option>
+							<option value="МИКРОАВТОБУС 11-15 мест">МИКРОАВТОБУС 11-15 мест</option>
+							<option value="МИКРОАВТОБУС 16-18 мест">МИКРОАВТОБУС 16-18 мест</option>
+							<option value="МИКРОАВТОБУС 19-21 мест">МИКРОАВТОБУС 19-21 мест</option>
+							<option value="МИКРОАВТОБУС 32-35 мест">МИКРОАВТОБУС 32-35 мест</option>
+							<option value="АВТОБУС 45+">АВТОБУС 45+</option>
+						</select>
+						</div>
+						<div class="bot-form__item">
+							<label for="" class="bot-form__label">Оплата</label>
+							<select name="pay" class="bot-form__input">
+							<option id="id1" value="Наличными">Наличными</option>
+							<option id="id2" value="Безналичный расчет">Безналичный расчет</option>
+							<option id="id3" value="Пластиковая карта">Пластиковая карта</option>
+							</select>
+							<!-- <input type="text" class="bot-form__input" placeholder="Наличными" required=""> -->
+						</div>
+						<div class="bot-form__item bot-form__item-long">
+							<input type="text" class="bot-form__input" placeholder="Опишите задачу" required="">
+						</div>
+						<div class="bot-form__item">
+							<button class="bot-form__button main-btn">Подобрать</button>
+						</div>
+
+						<div class="bot-form__check">
+						<input type="checkbox" checked>Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
+					</div>
+				</form>
+			</div>
+		</div>
+
+		<div id="form-popup2" class="bot-form popup-form">
+			<div class="container">
+				<form class="bot-form__content popup-form__content">
 					<div class="bot-form__caption1 popup-form__caption1">есть вопрос?</div>
 					<div class="bot-form__caption2 popup-form__caption2">Заполните форму, специалист свяжется с вами в течение 10 минут</div>
 					<div class="bot-form__form">
@@ -648,7 +707,7 @@
 						<div class="bot-form__check">
 						<input type="checkbox" checked>Я согласен на обработку персональных данных и с политикой конфиденциальности</div>
 					</div>
-				</div>
+				</form>
 			</div>
 		</div>
 	</div>

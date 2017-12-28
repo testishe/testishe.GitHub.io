@@ -12,6 +12,10 @@ $(function() {
 		$(".nav1-bar-wrap").removeClass("show");
 	});
 
+	$(".nav1-bar-wrap").click(function(){
+		$(".nav1-bar-wrap").removeClass("show");
+	});
+
 // модальная форма
 
 	$('.js-link-popup').magnificPopup({
