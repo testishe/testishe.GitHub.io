@@ -1,0 +1,50 @@
+
+
+/* Start:/bitrix/templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/style.css?1517403341419*/
+div.star-active { cursor: pointer; }
+div.star-voted, div.star-over { }
+div.star-empty { background: url(../../../../../templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/images/stars.png) 0px -19px no-repeat; width:20px; height:20px; overflow:hidden; }
+div.star-voted { background: url(../../../../../templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/images/stars.png) 0px 0px   no-repeat; width:20px; height:20px; overflow:hidden; }
+div.star-over { background: url(../../../../../templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/images/stars.png) 0px 0px   no-repeat; width:20px; height:20px; overflow:hidden; }
+
+
+/* End */
+
+
+/* Start:/bitrix/templates/aspro_mshop/components/bitrix/catalog.store.amount/main/style.css?1517403341976*/
+/*div.catalog-detail { position: static; border: 1px solid; zoom:1;}
+div.catalog-detail-hover div.catalog-admin-links  { display: block; }
+div.catalog-detail-hover { position: relative;}
+
+div.catalog-detail-line
+{
+    font-size:1px;
+    height:1px;
+    line-height:1px;
+    margin:12px 0;
+    overflow:hidden;
+    padding:0;
+    background: url(/bitrix/templates/aspro_mshop/components/bitrix/catalog.store.amount/main/images/title-line.gif) no-repeat;
+}
+div.catalog-detail-properties { clear: both; padding: 1em 0 0;  overflow: hidden; width: 80%; }
+div.catalog-detail-property { margin: 0 0 1em; border-bottom:1px dotted; float: left; width: 100%;}
+div.catalog-detail-property b { float: right; position: relative; top: 0.31em; padding-left: 3px;  font-weight:normal; }
+div.catalog-detail-property grey { color:grey;  font-weight:lighter; }
+div.catalog-detail-property span { float: left; position: relative; top: 0.31em; padding-right: 3px; zoom: 1;}
+div.catalog-detail-properties-title { font-size: 1em; font-weight: bold; margin: 2em 0 1em; }*/
+
+/* End */
+
+
+/* Start:/bitrix/templates/aspro_mshop/components/bitrix/sale.gift.main.products/main/style.min.css?1517403341604*/
+.bx_item_list_title{font-weight:bold;color:#000;background:#ebf4f8;vertical-align:middle;height:38px;text-align:center;line-height:38px;font-size:14px}.bx_sale_gift_main_products.bx_wood .bx_item_list_title{background:#ebf4f8}.bx_sale_gift_main_products.bx_red .bx_item_list_title{background:#fbf1f0}.bx_sale_gift_main_products.bx_green .bx_item_list_title{background:#f2fbea}.bx_sale_gift_main_products.bx_blue .bx_item_list_title{background:#ebf4f8}.bx_sale_gift_main_products.bx_black .bx_item_list_title{background:#f1f4f7}.bx_sale_gift_main_products.bx_yellow .bx_item_list_title{background:#fbf7db}
+/* End */
+
+
+/* Start:/bitrix/components/bitrix/system.pagenavigation/templates/round/style.min.css?15174033072530*/
+.bx-pagination{margin:10px 0}.bx-pagination .bx-pagination-container{text-align:center;position:relative}.bx-pagination .bx-pagination-container ul{padding:0;margin:0;list-style:none;display:inline-block}.bx-pagination .bx-pagination-container ul li{display:inline-block;margin:0 2px 15px 2px}.bx-pagination .bx-pagination-container ul li span{-webkit-transition:color .3s ease,background-color .3s ease,border-color .3s ease;-moz-transition:color .3s ease,background-color .3s ease,border-color .3s ease;-ms-transition:color .3s ease,background-color .3s ease,border-color .3s ease;-o-transition:color .3s ease,background-color .3s ease,border-color .3s ease;transition:color .3s ease,background-color .3s ease,border-color .3s ease;background:#eff0f1;padding:0 8px;display:block;height:32px;min-width:32px;line-height:32px;color:#444;font-size:14px;border-radius:16px;vertical-align:middle;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.bx-pagination .bx-pagination-container ul li a{text-decoration:none;display:block;border-radius:16px;height:32px;min-width:32px;line-height:32px;color:#444;vertical-align:middle}.bx-pagination .bx-pagination-container ul li a:hover span{background:#dadada}.bx-pagination .bx-pagination-container ul li.bx-active span{background:#0083d1;color:#fff}.bx-pagination .bx-pagination-container ul li.bx-pag-all a span,.bx-pagination .bx-pagination-container ul li.bx-pag-prev a span,.bx-pagination .bx-pagination-container ul li.bx-pag-next a span{background:#fff;border:2px solid #eff0f1;line-height:28px;padding:0 18px;color:#444}.bx-pagination .bx-pagination-container ul li.bx-pag-all span,.bx-pagination .bx-pagination-container ul li.bx-pag-prev span,.bx-pagination .bx-pagination-container ul li.bx-pag-next span{color:#aab1b4;background:#fff;border:2px solid #eff0f1;line-height:28px;padding:0 18px}.bx-pagination .bx-pagination-container ul li.bx-pag-all a:hover span,.bx-pagination .bx-pagination-container ul li.bx-pag-prev a:hover span,.bx-pagination .bx-pagination-container ul li.bx-pag-next a:hover span{background:#fff;border-color:#dadada;color:#000}.bx-pagination.bx-green .bx-pagination-container ul li.bx-active span{background:#3bc915;color:#fff}.bx-pagination.bx-yellow .bx-pagination-container ul li.bx-active span{background:#f9a91d;color:#fff}.bx-pagination.bx-red .bx-pagination-container ul li.bx-active span{background:#e22b2b;color:#fff}.bx-pagination.bx-blue .bx-pagination-container ul li.bx-active span{background:#0083d1;color:#fff}
+/* End */
+/* /bitrix/templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/style.css?1517403341419 */
+/* /bitrix/templates/aspro_mshop/components/bitrix/catalog.store.amount/main/style.css?1517403341976 */
+/* /bitrix/templates/aspro_mshop/components/bitrix/sale.gift.main.products/main/style.min.css?1517403341604 */
+/* /bitrix/components/bitrix/system.pagenavigation/templates/round/style.min.css?15174033072530 */

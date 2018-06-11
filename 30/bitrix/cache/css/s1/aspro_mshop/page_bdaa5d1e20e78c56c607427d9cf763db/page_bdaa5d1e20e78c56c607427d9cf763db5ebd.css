@@ -1,0 +1,44 @@
+
+
+/* Start:/bitrix/templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/style.css?1517403341419*/
+div.star-active { cursor: pointer; }
+div.star-voted, div.star-over { }
+div.star-empty { background: url(../../../../../templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/images/stars.png) 0px -19px no-repeat; width:20px; height:20px; overflow:hidden; }
+div.star-voted { background: url(../../../../../templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/images/stars.png) 0px 0px   no-repeat; width:20px; height:20px; overflow:hidden; }
+div.star-over { background: url(../../../../../templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/images/stars.png) 0px 0px   no-repeat; width:20px; height:20px; overflow:hidden; }
+
+
+/* End */
+
+
+/* Start:/bitrix/templates/aspro_mshop/components/bitrix/catalog.store.amount/main/style.css?1517403341976*/
+/*div.catalog-detail { position: static; border: 1px solid; zoom:1;}
+div.catalog-detail-hover div.catalog-admin-links  { display: block; }
+div.catalog-detail-hover { position: relative;}
+
+div.catalog-detail-line
+{
+    font-size:1px;
+    height:1px;
+    line-height:1px;
+    margin:12px 0;
+    overflow:hidden;
+    padding:0;
+    background: url(/bitrix/templates/aspro_mshop/components/bitrix/catalog.store.amount/main/images/title-line.gif) no-repeat;
+}
+div.catalog-detail-properties { clear: both; padding: 1em 0 0;  overflow: hidden; width: 80%; }
+div.catalog-detail-property { margin: 0 0 1em; border-bottom:1px dotted; float: left; width: 100%;}
+div.catalog-detail-property b { float: right; position: relative; top: 0.31em; padding-left: 3px;  font-weight:normal; }
+div.catalog-detail-property grey { color:grey;  font-weight:lighter; }
+div.catalog-detail-property span { float: left; position: relative; top: 0.31em; padding-right: 3px; zoom: 1;}
+div.catalog-detail-properties-title { font-size: 1em; font-weight: bold; margin: 2em 0 1em; }*/
+
+/* End */
+
+
+/* Start:/bitrix/templates/aspro_mshop/components/bitrix/sale.gift.main.products/main/style.min.css?1517403341604*/
+.bx_item_list_title{font-weight:bold;color:#000;background:#ebf4f8;vertical-align:middle;height:38px;text-align:center;line-height:38px;font-size:14px}.bx_sale_gift_main_products.bx_wood .bx_item_list_title{background:#ebf4f8}.bx_sale_gift_main_products.bx_red .bx_item_list_title{background:#fbf1f0}.bx_sale_gift_main_products.bx_green .bx_item_list_title{background:#f2fbea}.bx_sale_gift_main_products.bx_blue .bx_item_list_title{background:#ebf4f8}.bx_sale_gift_main_products.bx_black .bx_item_list_title{background:#f1f4f7}.bx_sale_gift_main_products.bx_yellow .bx_item_list_title{background:#fbf7db}
+/* End */
+/* /bitrix/templates/aspro_mshop/components/bitrix/iblock.vote/element_rating/style.css?1517403341419 */
+/* /bitrix/templates/aspro_mshop/components/bitrix/catalog.store.amount/main/style.css?1517403341976 */
+/* /bitrix/templates/aspro_mshop/components/bitrix/sale.gift.main.products/main/style.min.css?1517403341604 */
