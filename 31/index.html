@@ -15,6 +15,7 @@
 <link href="bitrix/cache/css/s1/aspro_mshop/page_a943ad635a22b294f769b044e655f5a3/page_a943ad635a22b294f769b044e655f5a3972e.css?15174033994812" type="text/css" rel="stylesheet" />
 <link href="bitrix/panel/main/popup.mine954.css?151740333220704" type="text/css"  rel="stylesheet" />
 <link href="bitrix/cache/css/s1/aspro_mshop/template_629298bcd2893a272f5b8b37b1be5bb5/template_629298bcd2893a272f5b8b37b1be5bb5c905.css" type="text/css" data-template-style="true" rel="stylesheet" />
+<link href="bitrix/cache/css/s1/aspro_mshop/template_629298bcd2893a272f5b8b37b1be5bb5/template_629298bcd2893a272f5b8b37b1be5bb5c905.css" type="text/css" data-template-style="true" rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
 <script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1528713691','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'5ff03d6064bdc38781772f214aecc1fe'});</script>
@@ -260,7 +261,7 @@
 				var styleswitcher = $(this).closest('.style-switcher');
 				if(styleswitcher.hasClass('active')){
 					styleswitcher.animate({left: '-' + styleswitcher.outerWidth() + 'px'}, 300).removeClass('active');
-					$.removeCookie('styleSwitcher', {path: '/'});
+					// $.removeCookie('styleSwitcher', {path: '/'});
 				}
 				else{
 					styleswitcher.animate({left: '0'}, 300).addClass('active');
@@ -5308,7 +5309,7 @@ $(document).ready(function(){
 
 
 
-testishe
+<!-- testishe -->
 
 
 <div class="sdf"></div>
@@ -5351,9 +5352,167 @@ testishe
 </div>
 
 
-test2
+<!-- test2 -->
 
+<div class="mainBg"></div>
+<div class="popup mainPopup mainPopup1">
+	<div id="comp_737fd16cd866f9ee320a01a2c8c31f1f">
+<a href="#" class="close jqmClose"><i></i></a>
+<div class="form CALLBACK">
+	<!--noindex-->
+	<div class="form_head">
+					<h2>Заказать звонок</h2>
+					</div>
+			
+<form name="CALLBACK" action="/ajax/form.php?form_id=CALLBACK" method="POST" enctype="multipart/form-data" novalidate="novalidate"><input type="hidden" name="bxajaxid" id="bxajaxid_737fd16cd866f9ee320a01a2c8c31f1f_8BACKi" value="737fd16cd866f9ee320a01a2c8c31f1f"><input type="hidden" name="AJAX_CALL" value="Y"><input type="hidden" name="sessid" id="sessid" value="9116cebb99926104b29810ec053fce24"><input type="hidden" name="WEB_FORM_ID" value="6">		<input type="hidden" name="sessid" id="sessid_1" value="9116cebb99926104b29810ec053fce24">		<div class="form_body s33">
+																												
+					<div class="form-control">
+				<label><span>Ваше имя&nbsp;<span class="star">*</span></span></label>
+								<input type="text" class="inputtext" data-sid="CLIENT_NAME" required="" name="form_text_27" value="" aria-required="true">			</div>
+																														
+					<div class="form-control">
+				<label><span>Телефон&nbsp;<span class="star">*</span></span></label>
+								<input type="tel" class="phone" data-sid="PHONE" required="" name="form_text_28" value="" aria-required="true">			</div>
+																			<div class="clearboth"></div>
+						<div class="clearboth"></div>
+		</div>
+		<div class="form_footer">
+							<div class="licence_block filter label_block">
+					<input type="checkbox" id="licenses_popup" name="licenses_popup" required="" value="Y" aria-required="true">
+					<label for="licenses_popup">
+						Я согласен на <a href="/include/licenses_detail.php" target="_blank">обработку персональных данных</a>					</label>
+				</div>
+									<input type="submit" class="button medium" value="Отправить" name="web_form_submit">
 
+			<button type="reset" class="button medium transparent" value="reset" name="web_form_reset"><span>Закрыть</span></button>
+
+		</div>
+		</form>		<!--/noindex-->
+	
+</div><!--'start_frame_cache_form-block6'-->
+<!--'end_frame_cache_form-block6'--></div>
+</div>
+<div class="popup mainPopup mainPopup2">
+	<div id="wrap_ajax_auth">
+		<a href="#" class="close jqmClose"><i></i></a>
+		<div class="popup-intro">
+			<div class="pop-up-title">Вход в личный кабинет</div>
+		</div>
+		<div id="comp_3dd56265fb16204941a2560b0b68e622">	<div id="ajax_auth">
+		<div class="auth_wrapp form-block">
+			<div class="wrap_md">
+				<div class="main_info iblock">
+										<div class="form-wr">
+												<form id="avtorization-form" name="system_auth_form6zOYVN" method="post" target="_top" action="/ajax/show_auth_popup.php?login=yes" novalidate="novalidate">
+															<input type="hidden" name="backurl" value="/ajax/auth.php">
+																							<input type="hidden" name="AUTH_FORM" value="Y">
+									<input type="hidden" name="TYPE" value="AUTH">
+							<div class="r form-control bg">
+								<label class="" for="USER_LOGIN_POPUP">Email <span class="star">*</span></label>
+								<input type="text" name="USER_LOGIN" id="USER_LOGIN_POPUP" class="required" maxlength="50" value="" placeholder="Логин" autocomplete="on" tabindex="1" aria-required="true">
+							</div>
+							<div class="r form-control bg">
+								<label class="" for="USER_PASSWORD_POPUP">Пароль <span class="star">*</span></label>	
+								<input type="password" name="USER_PASSWORD" id="USER_PASSWORD_POPUP" class="required" maxlength="50" placeholder="Пароль" tabindex="2" aria-required="true">
+							</div>
+														<div class="but-r cleaarboth">
+								<div class="filter block">
+									<a class="forgot" href="/auth/forgot-password/" tabindex="3">Забыли пароль?</a>
+									<div class="prompt remember">
+										<input type="checkbox" id="USER_REMEMBER_frm" name="USER_REMEMBER" value="Y" tabindex="5">
+										<label for="USER_REMEMBER_frm" title="Запомнить меня на" tabindex="5">Запомнить меня</label>
+									</div>
+								</div>
+								<div class="buttons">
+									<button type="submit" class="button vbig_btn wides" name="Login" value="" tabindex="4">
+										<span>Войти</span>
+									</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+				<div class="iblock socserv">
+					<!--noindex--><a href="/auth/registration/" rel="nofollow" class="button transparent vbig_btn wides" tabindex="6">Зарегистрироваться</a><!--/noindex-->
+					<div class="more_text_small">
+						После регистрации на сайте вам будет доступно отслеживание состояния заказов, личный кабинет и другие новые возможности.					</div>
+				</div>
+			</div>
+						
+							<div class="reg-new">
+					<div class="soc-avt">
+						Войти как пользователь						<div class="row clearfix">
+						<span class="auth">
+								<a href="javascript:void(0)" onclick="BX.util.popup('https://oauth.yandex.ru/authorize?response_type=code&amp;client_id=2caec89a580d4d38821667bf5c78c23a&amp;display=popup&amp;state=site_id%3Ds1%26backurl%3D%252Fajax%252Fauth.php%253Fcheck_key%253D69bd178971181eaba06edf400300e4aa%26mode%3Dopener%26redirect_url%3D%252Fajax%252Fauth.php', 680, 600)" class="bx-ss-button yandex-button"><i class="soc-icon yandex" title="yandex" alt="yandex"></i></a><span class="bx-spacer"><i class="soc-icon yandex" title="yandex" alt="yandex"></i></span><span>Используйте вашу учетную запись Яндекса для входа на сайт.</span>			</span>
+								<span class="auth">
+								<a href="javascript:void(0)" onclick="BX.util.popup('https://oauth.vk.com/authorize?client_id=6157590&amp;redirect_uri=https%3A%2F%2Fmarket.aspro-demo.ru%2Fajax%2Fauth.php%3Fauth_service_id%3DVKontakte&amp;scope=friends,offline,email&amp;response_type=code&amp;state=site_id%3Ds1%26backurl%3D%252Fajax%252Fauth.php%253Fcheck_key%253D69bd178971181eaba06edf400300e4aa%26redirect_url%3D%252Fajax%252Fauth.php', 660, 425)" class="bx-ss-button vkontakte-button"><i class="soc-icon vkontakte" title="vkontakte" alt="vkontakte"></i></a><span class="bx-spacer"><i class="soc-icon vkontakte" title="vkontakte" alt="vkontakte"></i></span><span>Используйте вашу учетную запись VKontakte для входа на сайт.</span>			</span>
+							<a title="Livejournal" href="javascript:void(0)" onclick="BxShowAuthService('Livejournal', 'form')" class="button icon livejournal" type="livejournal" id="bx_auth_href_formLivejournal">
+			<i class="soc-icon livejournal" title="livejournal" alt="livejournal"></i>
+		</a>
+							<a title="Mail.Ru" href="javascript:void(0)" onclick="BxShowAuthService('MailRuOpenID', 'form')" class="button icon openid-mail-ru" type="openid-mail-ru" id="bx_auth_href_formMailRuOpenID">
+			<i class="soc-icon openid-mail-ru" title="openid-mail-ru" alt="openid-mail-ru"></i>
+		</a>
+							<a title="Liveinternet" href="javascript:void(0)" onclick="BxShowAuthService('Liveinternet', 'form')" class="button icon liveinternet" type="liveinternet" id="bx_auth_href_formLiveinternet">
+			<i class="soc-icon liveinternet" title="liveinternet" alt="liveinternet"></i>
+		</a>
+							<a title="OpenID" href="javascript:void(0)" onclick="BxShowAuthService('OpenID', 'form')" class="button icon openid" type="openid" id="bx_auth_href_formOpenID">
+			<i class="soc-icon openid" title="openid" alt="openid"></i>
+		</a>
+				<div style="clear:both;"></div>
+	<form method="post" name="bx_auth_servicesform" target="_top" action="/auth/?login=yes" novalidate="novalidate">
+		<div id="bx_auth_servform" style="display:none">
+																	<div id="bx_auth_serv_formYandexOAuth" style="display:none"><a href="javascript:void(0)" onclick="BX.util.popup('https://oauth.yandex.ru/authorize?response_type=code&amp;client_id=2caec89a580d4d38821667bf5c78c23a&amp;display=popup&amp;state=site_id%3Ds1%26backurl%3D%252Fajax%252Fauth.php%253Fcheck_key%253D69bd178971181eaba06edf400300e4aa%26mode%3Dopener%26redirect_url%3D%252Fajax%252Fauth.php', 680, 600)" class="bx-ss-button yandex-button"></a><span class="bx-spacer"></span><span>Используйте вашу учетную запись Яндекса для входа на сайт.</span></div>
+																					<div id="bx_auth_serv_formVKontakte" style="display:none"><a href="javascript:void(0)" onclick="BX.util.popup('https://oauth.vk.com/authorize?client_id=6157590&amp;redirect_uri=https%3A%2F%2Fmarket.aspro-demo.ru%2Fajax%2Fauth.php%3Fauth_service_id%3DVKontakte&amp;scope=friends,offline,email&amp;response_type=code&amp;state=site_id%3Ds1%26backurl%3D%252Fajax%252Fauth.php%253Fcheck_key%253D69bd178971181eaba06edf400300e4aa%26redirect_url%3D%252Fajax%252Fauth.php', 660, 425)" class="bx-ss-button vkontakte-button"></a><span class="bx-spacer"></span><span>Используйте вашу учетную запись VKontakte для входа на сайт.</span></div>
+																					<div id="bx_auth_serv_formLivejournal" style="display:none">
+<span class="bx-ss-icon livejournal"></span>
+<input type="text" name="OPENID_IDENTITY_LIVEJOURNAL" value="" size="20" class="required" required="required" aria-required="true">
+<span>.livejournal.com</span>
+<input type="hidden" name="sessid" id="sessid" value="9116cebb99926104b29810ec053fce24">
+<input type="hidden" name="auth_service_error" value="">
+<input type="submit" class="button short" name="" value="Войти">
+</div>
+																					<div id="bx_auth_serv_formMailRuOpenID" style="display:none">
+<span class="bx-ss-icon openid-mail-ru"></span>
+<input type="text" name="OPENID_IDENTITY_MAILRU" value="" size="20" class="required" required="required" aria-required="true">
+<span>@mail.ru</span>
+<input type="hidden" name="sessid" id="sessid_1" value="9116cebb99926104b29810ec053fce24">
+<input type="hidden" name="auth_service_error" value="">
+<input type="submit" class="button short" name="" value="Войти">
+</div>
+																					<div id="bx_auth_serv_formLiveinternet" style="display:none">
+<span class="bx-ss-icon liveinternet"></span>
+<span>liveinternet.ru/users/</span>
+<input type="text" name="OPENID_IDENTITY_LIVEINTERNET" value="" size="15" class="required" required="required" aria-required="true">
+<input type="hidden" name="sessid" id="sessid_2" value="9116cebb99926104b29810ec053fce24">
+<input type="hidden" name="auth_service_error" value="">
+<input type="submit" class="button short" name="" value="Войти">
+</div>
+																					<div id="bx_auth_serv_formOpenID" style="display:none">
+<span class="bx-ss-icon openid"></span>
+<span>OpenID:</span>
+<input type="text" name="OPENID_IDENTITY_OPENID" value="" size="30" class="required" required="required" aria-required="true">
+<input type="hidden" name="sessid" id="sessid_3" value="9116cebb99926104b29810ec053fce24">
+<input type="hidden" name="auth_service_error" value="">
+<input type="submit" class="button short" name="" value="Войти">
+</div>
+									</div>
+				<input type="hidden" name="auth_service_id" value="">
+	</form>
+</div>
+
+					</div>
+				</div>
+			 
+				
+		</div>
+	</div>
+				
+</div>	</div>
+</div>
+<div class="mainPopup mainPopup3"></div>
+<div class="mainPopup mainPopup4"></div>
+
+<!-- test3 -->
 
 
 </body>
