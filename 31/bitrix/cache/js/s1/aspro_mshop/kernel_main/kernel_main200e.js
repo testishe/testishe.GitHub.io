@@ -2858,3 +2858,19 @@ var phpVars;if(!phpVars){phpVars={ADMIN_THEME_ID:".default",LANGUAGE_ID:"en",FOR
 /* End */
 ;
 //# sourceMappingURL=kernel_main.map.js
+
+
+
+// mainScripts
+
+$(document).ready(function(){
+
+
+
+$(".opener").click(function(){
+	console.log(1);
+	$("body").classList.add(".opener");
+});
+
+
+});
