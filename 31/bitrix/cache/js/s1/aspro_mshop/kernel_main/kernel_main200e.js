@@ -2869,8 +2869,23 @@ $(document).ready(function(){
 
 $(".opener").click(function(){
 	console.log(1);
-	$("body").classList.add(".opener");
+	$("body").css({ "right": "0"})
 });
+
+$(".opener").click(function(){
+	console.log(1);
+	var counter = 0;
+	if(counter == 0) {
+		$("body").css({ "right": "0"})
+		counter = 1;
+
+	} else {
+		$("body").css({ "right": "-700"})
+		counter = 0;
+	}
+});
+
+
 
 
 });
