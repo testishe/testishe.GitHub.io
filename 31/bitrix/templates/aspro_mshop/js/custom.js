@@ -136,7 +136,111 @@ $(document).ready(function(){
 				$('form[name=style-switcher]').submit();
 			});
 			
+
+
+
+
+
+
+
+
+
+		var flexsliderItemWidth = 268,
+			flexsliderItemMargin = 20;
+		$(".stores .stores_list").flexslider({
+			animation: "slide",
+			selector: ".stores_list_wr > li",
+			slideshow: false,
+			slideshowSpeed: 6000,
+			animationSpeed: 600,
+			directionNav: true,
+			//controlNav: false,
+			pauseOnHover: true,
+			animationLoop: true, 
+			controlsContainer: ".stores_navigation",
+			itemWidth: flexsliderItemWidth,
+			itemMargin: flexsliderItemMargin, 
+			manualControls: ".block_wr .flex-control-nav.flex-control-paging li a"
 		});
+		$('.stores').equalize({children: '.wrapp_block', reset: true});
+		$(window).resize(function(){
+			$('.stores .flex-viewport .stores_list_wr').equalize({children: '.item'});
+		})
+
+var timeoutSlide;
+	InitFlexSlider = function() {
+		var flexsliderItemWidth = 268,
+			flexsliderItemMargin = 20;
+		$(".stores .stores_list").flexslider({
+			animation: "slide",
+			selector: ".stores_list_wr > li",
+			slideshow: false,
+			slideshowSpeed: 6000,
+			animationSpeed: 600,
+			directionNav: true,
+			//controlNav: false,
+			pauseOnHover: true,
+			animationLoop: true, 
+			controlsContainer: ".stores_navigation",
+			itemWidth: flexsliderItemWidth,
+			itemMargin: flexsliderItemMargin, 
+			// manualControls: ".block_wr .flex-control-nav.flex-control-paging li a"
+			start:function(slider){
+				$('.flex-control-nav li a').on('touchend', function(){
+					// $(this).closest('.flex-control-nav').find('a').removeClass('touch');
+					$(this).addClass('touch');
+				})
+				slider.find('li').css('opacity', 1);
+			}
+		});
+		$('.stores').equalize({children: '.wrapp_block', reset: true});
+	}
+
+		$(window).resize(function(){
+			clearTimeout(timeoutSlide);
+			timeoutSlide = setTimeout(InitFlexSlider(),50);
+			$('.stores .flex-viewport .stores_list_wr').equalize({children: '.item'});
+		})
+		
+
+
+
+	$(document).ready(function(){
+		$("form.sform_footer").validate({
+			rules:{ "sf_EMAIL": {email: true} }
+		});
+	})
+
+	$(".bottom_submenu ul.submenu li").click(function()
+	{
+		$(".bottom_submenu ul.submenu li").removeClass("selected");
+		$(this).addClass("selected");
+	});
+
+
+	$(".bottom_submenu ul.submenu li").click(function()
+	{
+		$(".bottom_submenu ul.submenu li").removeClass("selected");
+		$(this).addClass("selected");
+	});
+
+$(".bottom_submenu ul.submenu li").click(function()
+	{
+		$(".bottom_submenu ul.submenu li").removeClass("selected");
+		$(this).addClass("selected");
+	});
+
+		});
+
+
+
+
+
+
+
+
+
+
 
 
 

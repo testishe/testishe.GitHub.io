@@ -4989,68 +4989,7 @@ $(document).ready(function(){
 			</div>
 		</div>
 	</div>
-<script>
-	$(document).ready(function(){
-		var flexsliderItemWidth = 268,
-			flexsliderItemMargin = 20;
-		$(".stores .stores_list").flexslider({
-			animation: "slide",
-			selector: ".stores_list_wr > li",
-			slideshow: false,
-			slideshowSpeed: 6000,
-			animationSpeed: 600,
-			directionNav: true,
-			//controlNav: false,
-			pauseOnHover: true,
-			animationLoop: true, 
-			controlsContainer: ".stores_navigation",
-			itemWidth: flexsliderItemWidth,
-			itemMargin: flexsliderItemMargin, 
-			manualControls: ".block_wr .flex-control-nav.flex-control-paging li a"
-		});
-		$('.stores').equalize({children: '.wrapp_block', reset: true});
-		$(window).resize(function(){
-			$('.stores .flex-viewport .stores_list_wr').equalize({children: '.item'});
-		})
-	});
-	var timeoutSlide;
-	InitFlexSlider = function() {
-		var flexsliderItemWidth = 268,
-			flexsliderItemMargin = 20;
-		$(".stores .stores_list").flexslider({
-			animation: "slide",
-			selector: ".stores_list_wr > li",
-			slideshow: false,
-			slideshowSpeed: 6000,
-			animationSpeed: 600,
-			directionNav: true,
-			//controlNav: false,
-			pauseOnHover: true,
-			animationLoop: true, 
-			controlsContainer: ".stores_navigation",
-			itemWidth: flexsliderItemWidth,
-			itemMargin: flexsliderItemMargin, 
-			// manualControls: ".block_wr .flex-control-nav.flex-control-paging li a"
-			start:function(slider){
-				$('.flex-control-nav li a').on('touchend', function(){
-					// $(this).closest('.flex-control-nav').find('a').removeClass('touch');
-					$(this).addClass('touch');
-				})
-				slider.find('li').css('opacity', 1);
-			}
-		});
-		$('.stores').equalize({children: '.wrapp_block', reset: true});
-	}
-	$(document).ready(function(){
-		$(window).resize(function(){
-			clearTimeout(timeoutSlide);
-			timeoutSlide = setTimeout(InitFlexSlider(),50);
-			$('.stores .flex-viewport .stores_list_wr').equalize({children: '.item'});
-		})
-		
-
-	});
-</script>	<div class="grey_bg">
+	<div class="grey_bg">
 	<div class="wrapper_inner">
 		<div class="wrap_md">
 			<div class="md-50 img">
@@ -5103,13 +5042,7 @@ $(document).ready(function(){
 		</div>
 	</div>
 </div>
-<script>
-	$(document).ready(function(){
-		$("form.sform_footer").validate({
-			rules:{ "sf_EMAIL": {email: true} }
-		});
-	})
-</script>
+
 <!--'end_frame_cache_8ofwKu'-->							</div>
 							<div class="iblock phones">
 								<div class="wrap_md">
@@ -5155,13 +5088,7 @@ $(document).ready(function(){
 					<li class="menu_item"><a href="company/jobs/index.html">Вакансии</a></li>
 					<li class="menu_item"><a href="contacts/stores/index.html">Магазины</a></li>
 				</ul>
-<script>
-	$(".bottom_submenu ul.submenu li").click(function()
-	{
-		$(".bottom_submenu ul.submenu li").removeClass("selected");
-		$(this).addClass("selected");
-	});
-</script>											</div>
+										</div>
 											<div class="iblock submenu_block">
 												<ul class="submenu">
 				<li class="menu_item"><a href="help/index.html">Помощь</a></li>
@@ -5170,13 +5097,7 @@ $(document).ready(function(){
 					<li class="menu_item"><a href="help/warranty/index.html">Гарантия на товар</a></li>
 					<li class="menu_item"><a href="info/more/index.html">Возможности</a></li>
 				</ul>
-<script>
-	$(".bottom_submenu ul.submenu li").click(function()
-	{
-		$(".bottom_submenu ul.submenu li").removeClass("selected");
-		$(this).addClass("selected");
-	});
-</script>											</div>
+											</div>
 											<div class="iblock submenu_block">
 												<ul class="submenu">
 				<li class="menu_item"><a href="info/articles/index.html">Статьи</a></li>
@@ -5184,13 +5105,7 @@ $(document).ready(function(){
 					<li class="menu_item"><a href="info/brands/index.html">Производители</a></li>
 					<li class="menu_item"><a href="landings/index.html">Обзоры</a></li>
 				</ul>
-<script>
-	$(".bottom_submenu ul.submenu li").click(function()
-	{
-		$(".bottom_submenu ul.submenu li").removeClass("selected");
-		$(this).addClass("selected");
-	});
-</script>											</div>
+										</div>
 										</div>
 									</div>
 								</div>
