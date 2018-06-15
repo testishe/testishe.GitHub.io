@@ -142,6 +142,197 @@ $(document).ready(function(){
 
 
 
+
+		$(".content_menu .menu > li:not(.current) > a").click(function()
+		{
+			$(this).parents("li").siblings().removeClass("current");
+			$(this).parents("li").addClass("current");
+		});
+
+$("#title-search-input3").focus(function() { $(this).parents("form").find("button[type='submit']").addClass("hover"); });
+$("#title-search-input3").blur(function() { $(this).parents("form").find("button[type='submit']").removeClass("hover"); });
+
+$("#title-search-input4").focus(function() { $(this).parents("form").find("button[type='submit']").addClass("hover"); });
+$("#title-search-input4").blur(function() { $(this).parents("form").find("button[type='submit']").removeClass("hover"); });
+
+$("#title-search-input2").focus(function() { $(this).parents("form").find("button[type='submit']").addClass("hover"); });
+$("#title-search-input2").blur(function() { $(this).parents("form").find("button[type='submit']").removeClass("hover"); });
+
+	$(document).ready(function() {
+		
+		
+		$(".main-nav .menu > li:not(.current):not(.menu_opener) > a").click(function(){
+			$(this).parents("li").siblings().removeClass("current");
+			$(this).parents("li").addClass("current");
+		});
+		
+		$(".main-nav .menu .child_wrapp a").click(function(){
+			$(this).siblings().removeClass("current");
+			$(this).addClass("current");
+		});
+	});
+
+$("#title-search-input").focus(function() { $(this).parents("form").find("button[type='submit']").addClass("hover"); });
+$("#title-search-input").blur(function() { $(this).parents("form").find("button[type='submit']").removeClass("hover"); });
+
+	// menu block
+	var nodeCatalogMenu = document.querySelector('.catalog_menu .menu')
+	// last menu width when it was calculated
+	nodeCatalogMenu.lastCalculatedWidth = false
+
+	// menu item MORE
+	var nodeMore = nodeCatalogMenu.querySelector('li.more')
+	// and it`s width
+	var moreWidth = nodeMore.offsetWidth
+	// and it`s submenu with childs
+	var nodeMoreSubmenu = nodeMore.querySelector('.child_wrapp')
+
+	var reCalculateMenu = function(){
+		// get current menu width
+		var menuWidth = nodeCatalogMenu.offsetWidth
+		// and compare wth last width when it was calculated
+		if(menuWidth !== nodeCatalogMenu.lastCalculatedWidth){
+			nodeCatalogMenu.lastCalculatedWidth = menuWidth
+			
+			// clear menu item MORE submenu
+						nodeMoreSubmenu.innerHTML = ''
+			nodeMore.classList.remove('visible')
+						// and hide this item
+			// show all root items of menu which was hided at last calculate
+			Array.prototype.slice.call(document.querySelectorAll('.catalog_menu .menu > li:not(.stretch)')).forEach(function(node){
+				node.style.display = 'inline-block'
+			})
+			nodeCatalogMenu.style.display = 'block'
+
+			// last index of root items of menu without items MORE & STRETCH
+			var lastIndex = $('.catalog_menu .menu > li:not(.more):not(.stretch)').length - 1
+			// count of items that cloned to item`s MORE submenu
+			var cntItemsInMore = 0;
+			var cntMinItemsInMore = cntItemsInMore
+			// get all root items of menu without items MORE & STRETCH and do something
+			Array.prototype.slice.call(document.querySelectorAll('.catalog_menu .menu > li:not(.more):not(.stretch)')).forEach(function(node, i){
+				// is it last root item of menu?
+				var bLast = lastIndex === i
+				// it`s width
+				var itemWidth = node.offsetWidth
+				// if item MORE submenu is not empty OR overflow than clone item
+				if((cntItemsInMore > cntMinItemsInMore) || (node.offsetLeft + itemWidth + (bLast ? 0 : moreWidth) > menuWidth)){
+					// show item MORE if it was empty
+					if(!cntItemsInMore++){
+						nodeMore.classList.add('visible')
+						nodeMore.style.display = 'inline-block'
+					}
+
+					// clone item
+					var nodeClone = node.cloneNode(true)
+					// and hide it
+					node.style.display = 'none'
+
+					// wrap cloned item
+					var nodeWrap = document.createElement('div')
+					nodeWrap.appendChild(nodeClone)
+					delete node
+					node = nodeWrap.querySelector('.menu_item_l1')
+
+					// replace cloned item childs structure
+					var nodeLink = nodeWrap.querySelector('.menu_item_l1 > a')
+					if(nodeLink){
+						var hrefLink = nodeLink.getAttribute('href')
+						var textLink = nodeLink.innerText
+						var p = nodeLink.parentNode
+						nodeLink.parentNode.removeChild(nodeLink)
+					}
+					Array.prototype.slice.call(nodeClone.querySelectorAll('.depth3 a:not(.title)')).forEach(function(_node){
+						_node.parentNode.removeChild(_node)
+					})
+					$(node).wrapInner('<ul class="cloned"></ul>')
+					var nodeUL = node.querySelector('ul')
+					var nodeLI = document.createElement('li')
+					var addClass = node.className.replace('menu_item_l1', '').trim()
+					nodeLI.classList.add('menu_title')
+					if(addClass.length){
+						nodeLI.classList.add(addClass)
+					}
+					nodeLI.innerHTML = '<a href="' + (hrefLink && hrefLink.trim().length ? hrefLink : '') + '">' + textLink + '</a>'
+					if(nodeUL.childNodes.length){
+						nodeUL.insertBefore(nodeLI, nodeUL.childNodes[0])
+					}
+					else{
+						nodeUL.appendChild(nodeLI)
+					}
+					Array.prototype.slice.call(node.querySelectorAll('.child_wrapp > a,.child_wrapp > .depth3 a.title')).forEach(function(_node){
+						$(_node).wrap('<li class="menu_item"></li>')
+					})
+					var strLiBlock = '';
+					Array.prototype.slice.call(node.querySelectorAll('li.menu_item')).forEach(function(_node){
+						if(nodeUL){
+							var $a = $(_node).find('> a');
+							if($a.length){
+								var nodeA = $a[0]
+								var classA = nodeA.className
+								var styleA = nodeA.getAttribute('style')
+								strLiBlock += '<li class="menu_item' + ((classA && classA.trim().length) ? ' ' + classA.trim() : '') + '"' + ((styleA && styleA.trim().length) ? 'style="' + styleA.trim() + '"' : '') + '>' + _node.innerHTML + '</li>';
+							}
+						}
+					})
+					nodeUL.innerHTML += strLiBlock;
+					Array.prototype.slice.call(node.querySelectorAll('.child.submenu')).forEach(function(_node){
+						_node.parentNode.removeChild(_node)
+					})
+
+					// append cloned item html to item MORE submenu
+											nodeMoreSubmenu.appendChild(nodeUL)
+									}
+				else{
+					// align child menu of root items
+					if(i){
+						var nodesSubmenu = node.getElementsByClassName('submenu')
+						if(nodesSubmenu.length){
+							nodesSubmenu[0].style.marginLeft = (itemWidth - $(nodesSubmenu[0]).outerWidth()) / 2 + 'px'
+						}
+					}
+
+					// show this item
+					node.style.display = 'inline-block'
+					// remove left border
+					if(bLast){
+						node.style.borderLeftWidth = '0px'
+					}
+				}
+			});
+
+			// hide item MORE if it`s submenu is empty
+			if(!cntItemsInMore){
+				nodeMore.style.display = 'none'
+			}
+			else{
+				// or set class "last" for even 3 item in submenu
+				Array.prototype.slice.call(nodeMoreSubmenu.querySelectorAll('ul')).forEach(function(node, i){
+					if(i % 3){
+						node.classList.remove('last')
+					}
+					else{
+						node.classList.add('last')
+					}
+				})
+			}
+
+			// I don`t know what is it
+			Array.prototype.slice.call(nodeMore.querySelectorAll('.see_more a.see_more')).forEach(function(node){
+				node.classList.remove('see_more')
+			})
+			Array.prototype.slice.call(nodeMore.querySelectorAll('li.menu_item a')).forEach(function(node){
+				node.classList.remove('d')
+			})
+			Array.prototype.slice.call(nodeMore.querySelectorAll('li.menu_item a')).forEach(function(node){
+				node.removeAttribute('style')
+			})
+		}
+	}
+
+
+
+
 function checkNavColor(slider){
 	var nav_color_flex = slider.find('.flex-active-slide').data('nav_color');
 	if(nav_color_flex == 'dark')
