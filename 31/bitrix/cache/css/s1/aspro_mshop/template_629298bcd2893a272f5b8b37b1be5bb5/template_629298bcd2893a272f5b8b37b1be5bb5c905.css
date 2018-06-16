@@ -1,4 +1,6 @@
-
+.jqmOverlay{
+	display: none !important;
+}
 .style-switcher{
 	display: none;
 }
