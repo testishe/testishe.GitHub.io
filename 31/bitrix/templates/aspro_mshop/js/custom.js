@@ -61,6 +61,16 @@ $(document).ready(function() {
         $(".mainPopup3").fadeIn()
     });
 
+      $(".ask_btn").click(function() {
+        $(".mainBg").fadeIn();
+        $(".mainPopup4").fadeIn()
+    });
+
+        $(".mainPopup4 button[type='reset']").click(function() {
+        $(".mainBg").fadeOut();
+        $(".mainPopup4").fadeOut()
+    })
+
     // $(".menu.adaptive .menu_opener").click(function() {
     // 	// console.log(1);
     //     $(".mainBg").fadeIn();
@@ -1172,12 +1182,12 @@ BX.addCustomEvent(window, "onAjaxSuccess", function(){
 			}
 		}
 		
-		if (arAjaxPageData.TITLE)
-			BX.ajax.UpdatePageTitle(arAjaxPageData.TITLE);
-		if (arAjaxPageData.WINDOW_TITLE || arAjaxPageData.TITLE)
-			BX.ajax.UpdateWindowTitle(arAjaxPageData.WINDOW_TITLE || arAjaxPageData.TITLE);
-		if (arAjaxPageData.NAV_CHAIN)
-			BX.ajax.UpdatePageNavChain(arAjaxPageData.NAV_CHAIN);
+		// if (arAjaxPageData.TITLE)
+		// 	BX.ajax.UpdatePageTitle(arAjaxPageData.TITLE);
+		// if (arAjaxPageData.WINDOW_TITLE || arAjaxPageData.TITLE)
+		// 	BX.ajax.UpdateWindowTitle(arAjaxPageData.WINDOW_TITLE || arAjaxPageData.TITLE);
+		// if (arAjaxPageData.NAV_CHAIN)
+		// 	BX.ajax.UpdatePageNavChain(arAjaxPageData.NAV_CHAIN);
 		// top.BX.ajax.UpdatePageData(arAjaxPageData);
 	});
 
