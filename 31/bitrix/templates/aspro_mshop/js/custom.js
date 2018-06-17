@@ -1,4 +1,14 @@
 $(document).ready(function() {
+	// $(".counter_block").click(function(){
+	// 	var x=$("this .text").text;
+	// 	console.log(x);
+
+	// });
+
+
+
+
+
     var counterBasket = 0;
     $(".opener").click(function() {
         // console.log(counterBasket);
@@ -72,14 +82,14 @@ $(document).ready(function() {
     //     counterAdMenu = 0
     // });
 
-    $('.menu.adaptive').click(function () {
-	var menu = $('.menu.full');
-	if (!menu.is(':visible')) {
-		menu.slideDown(600);
-	} else {
-		menu.slideUp(600);
-	}
-	});
+ //    $('.menu.adaptive').click(function () {
+	// var menu = $('.menu.full');
+	// if (!menu.is(':visible')) {
+	// 	menu.slideDown(600);
+	// } else {
+	// 	menu.slideUp(600);
+	// }
+	// });
 
 });
 $(document).ready(function() {
@@ -730,3 +740,175 @@ $(document).ready(function() {
 		$(".bottom_submenu ul.submenu li").removeClass("selected");
 		$(this).addClass("selected");
 	});
+
+
+
+//tran
+
+var smartFilter = new JCSmartFilter('index.html', 'vertical', {'SEF_SET_FILTER_URL':'/catalog/avtoelektronika/filter/clear/apply/','SEF_DEL_FILTER_URL':'/catalog/avtoelektronika/filter/clear/apply/'});
+				$(document).ready(function(){
+			
+			var checkClosed = function(item){
+				$.cookie.json = true;
+				var arClosed = $.cookie("MSHOP_FILTER_CLOSED");
+				if (arClosed && typeof arClosed != "undefined"){
+					if (typeof item != "undefined"){
+						var propID = item.parents(".bx_filter_parameters_box").data("property_id");
+						var delIndex = $.inArray(propID, arClosed);
+						if (delIndex >= 0) { arClosed.splice(delIndex,1);} else {arClosed.push(propID);}
+					}
+				}else{
+					var arClosed = [];
+					if (typeof item != "undefined"){
+						item = $(item);
+						var propID = item.parents(".bx_filter_parameters_box").data("property_id");
+						if (!item.parents(".bx_filter_parameters_box").is(".active")) { if (!$.inArray(propID, arClosed) >= 0) { arClosed.push(propID); } }
+							else { if ($.inArray(propID, arClosed) >= 0) { arClosed.splice(delIndex,1); } } 
+					}
+				}
+				$.cookie("MSHOP_FILTER_CLOSED", arClosed, {
+					path: '/',
+					domain: '',
+					expires: 360
+				});
+				return true;
+			}
+			var checkOpened = function(item){
+				$.cookie.json = true;
+				var arOpened = $.cookie("KSHOP_FILTER_OPENED");
+				if (arOpened && typeof arOpened != "undefined"){
+					if (typeof item != "undefined"){
+						var propID = item.parents(".bx_filter_parameters_box").data("property_id");
+						var delIndex = $.inArray(propID, arOpened);
+						if (delIndex >= 0) { arOpened.splice(delIndex,1); checkClosed(item); } 
+							else { arOpened.push(propID); checkClosed(item); }
+					}else{
+						$(".bx_filter_parameters_box").each(function(){ 
+							var propID = $(this).data("property_id");	
+							if ($(this).is(".active")) { if ($.inArray(propID, arOpened) < 0) { arOpened.push(propID); checkClosed(item); } } 
+						});
+					}	
+				}else{
+					var arOpened = [];
+					if (typeof item != "undefined"){
+						item = $(item);
+						var propID = item.parents(".bx_filter_parameters_box").data("property_id");
+						if (item.parents(".bx_filter_parameters_box").is(".active")) { if (!$.inArray(propID, arOpened) >= 0) { arOpened.push(propID); checkClosed(item); }  }
+							else { if ($.inArray(propID, arOpened) >= 0) { arOpened.splice(delIndex,1); checkClosed(item); } } 	
+					}else{
+						$(".bx_filter_parameters_box").each(function() 
+						{ 
+							var propID = $(this).data("property_id");
+							if ($(this).is(".active")) { if ($.inArray(propID, arOpened) < 0) { arOpened.push(propID); checkClosed(item); } } 
+						});
+					}
+				}
+				$.cookie("MSHOP_FILTER_OPENED", arOpened,{
+					path: '/',
+					domain: '',
+					expires: 360
+				});
+				return true;
+			}
+			//checkOpened();
+			$(".bx_filter_parameters_box_title").click( function(){
+				var active=2;
+				if ($(this).closest(".bx_filter_parameters_box").hasClass("active")) { $(this).next(".bx_filter_block").slideUp(100); }
+				else { $(this).next(".bx_filter_block").slideDown(200); }
+				$(this).closest(".bx_filter_parameters_box").toggleClass("active");
+
+				if($(this).closest(".bx_filter_parameters_box").hasClass("active")){
+					active=3;
+				}
+				//checkOpened($(this));
+				
+				$.cookie.json = true;			
+				$.cookie("MSHOP_filter_prop_"+$(this).closest(".bx_filter_parameters_box").data('prop_code'), active,{
+					path: '/',
+					domain: '',
+					expires: 360
+				});
+			});
+			$('.bx_filter_parameters_box').each(function(){
+				if($.cookie("MSHOP_filter_prop_"+$(this).data('prop_code'))==2){
+					$(this).removeClass('active');
+					$(this).find('.bx_filter_block').hide();
+				}else if($.cookie("MSHOP_filter_prop_"+$(this).data('prop_code'))==3){
+					$(this).addClass('active');
+					$(this).find('.bx_filter_block').show();
+				}
+			})
+			$(".hint .icon").click(function(e){
+				var tooltipWrapp = $(this).parents(".hint");
+				tooltipWrapp.click(function(e){e.stopPropagation();})
+				if (tooltipWrapp.is(".active"))
+				{
+					tooltipWrapp.removeClass("active").find(".tooltip").slideUp(200); 
+				}
+				else
+				{
+					tooltipWrapp.addClass("active").find(".tooltip").slideDown(200);
+					tooltipWrapp.find(".tooltip_close").click(function(e) { e.stopPropagation(); tooltipWrapp.removeClass("active").find(".tooltip").slideUp(100);});	
+					$(document).click(function() { tooltipWrapp.removeClass("active").find(".tooltip").slideUp(100);});				
+				}
+			});	
+			//$('label.sku').equalizeWidths();
+		})
+
+		var jsControl = new JCTitleSearch({
+	//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+	'AJAX_PAGE' : '/catalog/avtoelektronika/',
+	'CONTAINER_ID': 'title-search',
+	'INPUT_ID': 'title-search-input',
+	'MIN_QUERY_LEN': 2
+});
+$("#title-search-input").focus(function() { $(this).parents("form").find("button[type='submit']").addClass("hover"); });
+$("#title-search-input").blur(function() { $(this).parents("form").find("button[type='submit']").removeClass("hover"); });
+
+var jsControl = new JCTitleSearch({
+	//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+	'AJAX_PAGE' : '/catalog/avtoelektronika/',
+	'CONTAINER_ID': 'title-search2',
+	'INPUT_ID': 'title-search-input2',
+	'MIN_QUERY_LEN': 2
+});
+$("#title-search-input2").focus(function() { $(this).parents("form").find("button[type='submit']").addClass("hover"); });
+$("#title-search-input2").blur(function() { $(this).parents("form").find("button[type='submit']").removeClass("hover"); });
+
+var jsControl = new JCTitleSearch({
+	//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+	'AJAX_PAGE' : '/catalog/avtoelektronika/',
+	'CONTAINER_ID': 'title-search4',
+	'INPUT_ID': 'title-search-input4',
+	'MIN_QUERY_LEN': 2
+});
+$("#title-search-input4").focus(function() { $(this).parents("form").find("button[type='submit']").addClass("hover"); });
+$("#title-search-input4").blur(function() { $(this).parents("form").find("button[type='submit']").removeClass("hover"); });
+
+var jsControl = new JCTitleSearch({
+	//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+	'AJAX_PAGE' : '/catalog/avtoelektronika/',
+	'CONTAINER_ID': 'title-search3',
+	'INPUT_ID': 'title-search-input3',
+	'MIN_QUERY_LEN': 2
+});
+$("#title-search-input3").focus(function() { $(this).parents("form").find("button[type='submit']").addClass("hover"); });
+$("#title-search-input3").blur(function() { $(this).parents("form").find("button[type='submit']").removeClass("hover"); });
+
+		BX.Currency.setCurrencies([{'CURRENCY':'RUB','FORMAT':{'FORMAT_STRING':'# руб.','DEC_POINT':'.','THOUSANDS_SEP':' ','DECIMALS':2,'THOUSANDS_VARIANT':'S','HIDE_ZERO':'Y'}}]);
+
+				BX.ready(function(){
+								window['trackBarc4ca4238a0b923820dcc509a6f75849b'] = new BX.Iblock.SmartFilter({'leftSlider':'left_slider_c4ca4238a0b923820dcc509a6f75849b','rightSlider':'right_slider_c4ca4238a0b923820dcc509a6f75849b','tracker':'drag_tracker_c4ca4238a0b923820dcc509a6f75849b','trackerWrap':'drag_track_c4ca4238a0b923820dcc509a6f75849b','minInputId':'MSHOP_SMART_FILTER_P1_MIN','maxInputId':'MSHOP_SMART_FILTER_P1_MAX','minPrice':'1350.00','maxPrice':'23000.00','curMinPrice':'','curMaxPrice':'','fltMinPrice':'1350.00','fltMaxPrice':'23000.00','precision':'2','colorUnavailableActive':'colorUnavailableActive_c4ca4238a0b923820dcc509a6f75849b','colorAvailableActive':'colorAvailableActive_c4ca4238a0b923820dcc509a6f75849b','colorAvailableInactive':'colorAvailableInactive_c4ca4238a0b923820dcc509a6f75849b'});
+							});
+
+
+
+				BX.message({'PHONE':'Телефон','SOCIAL':'Социальные сети','DESCRIPTION':'Описание магазина','ITEMS':'Товары','LOGO':'Логотип','REGISTER_INCLUDE_AREA':'Текст о регистрации','AUTH_INCLUDE_AREA':'Текст об авторизации','FRONT_IMG':'Изображение компании','EMPTY_CART':'пуста','CATALOG_VIEW_MORE':'... Показать все','CATALOG_VIEW_LESS':'... Свернуть','JS_REQUIRED':'Заполните это поле!','JS_FORMAT':'Неверный формат!','JS_FILE_EXT':'Недопустимое расширение файла!','JS_PASSWORD_COPY':'Пароли не совпадают!','JS_PASSWORD_LENGTH':'Минимум 6 символов!','JS_ERROR':'Неверно заполнено поле!','JS_FILE_SIZE':'Максимальный размер 5мб!','JS_FILE_BUTTON_NAME':'Выберите файл','JS_FILE_DEFAULT':'Файл не найден','JS_DATE':'Некорректная дата!','JS_REQUIRED_LICENSES':'Согласитесь с условиями!','LICENSE_PROP':'Согласие с условиями','FANCY_CLOSE':'Закрыть','FANCY_NEXT':'Следующий','FANCY_PREV':'Предыдущий','TOP_AUTH_REGISTER':'Регистрация','CALLBACK':'Заказать звонок','UNTIL_AKC':'До конца акции','TITLE_QUANTITY_BLOCK':'Остаток','TITLE_QUANTITY':'штук','COUNTDOWN_SEC':'сек.','COUNTDOWN_MIN':'мин.','COUNTDOWN_HOUR':'час.','COUNTDOWN_DAY0':'дней','COUNTDOWN_DAY1':'день','COUNTDOWN_DAY2':'дня','COUNTDOWN_WEAK0':'Недель','COUNTDOWN_WEAK1':'Неделя','COUNTDOWN_WEAK2':'Недели','COUNTDOWN_MONTH0':'Месяцев','COUNTDOWN_MONTH1':'Месяц','COUNTDOWN_MONTH2':'Месяца','COUNTDOWN_YEAR0':'Лет','COUNTDOWN_YEAR1':'Год','COUNTDOWN_YEAR2':'Года','CATALOG_PARTIAL_BASKET_PROPERTIES_ERROR':'Заполнены не все свойства у добавляемого товара','CATALOG_EMPTY_BASKET_PROPERTIES_ERROR':'Выберите свойства товара, добавляемые в корзину в параметрах компонента','CATALOG_ELEMENT_NOT_FOUND':'Элемент не найден','ERROR_ADD2BASKET':'Ошибка добавления товара в корзину','CATALOG_SUCCESSFUL_ADD_TO_BASKET':'Успешное добавление товара в корзину','ERROR_BASKET_TITLE':'Ошибка корзины','ERROR_BASKET_PROP_TITLE':'Выберите свойства, добавляемые в корзину','ERROR_BASKET_BUTTON':'Выбрать','BASKET_TOP':'Корзина в шапке','ERROR_ADD_DELAY_ITEM':'Ошибка отложенной корзины','VIEWED_TITLE':'Ранее вы смотрели','VIEWED_BEFORE':'Ранее вы смотрели','BEST_TITLE':'Лучшие предложения','FROM':'от','TITLE_BLOCK_VIEWED_NAME':'Ранее вы смотрели','BASKET_CHANGE_TITLE':'Ваш заказ','BASKET_CHANGE_LINK':'Изменить','FULL_ORDER':'Оформление обычного заказа','BASKET_PRINT_BUTTON':'Распечатать заказ','BASKET_CLEAR_ALL_BUTTON':'Очистить','BASKET_QUICK_ORDER_BUTTON':'Быстрый заказ','BASKET_CONTINUE_BUTTON':'Продолжить покупки','BASKET_ORDER_BUTTON':'Оформить заказ','FRONT_STORES':'Заголовок со списком элементов','TOTAL_SUMM_ITEM':'Общая стоимость ','ITEM_ECONOMY':'Экономия ','JS_FORMAT_ORDER':'имеет неверный формат'})
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','../../bitrix/js/main/core/css/core_popup.css','../../bitrix/js/main/core/css/core_date.css','../../bitrix/templates/aspro_mshop/components/bitrix/catalog.smart.filter/main_ajax/style.css','../../bitrix/templates/aspro_mshop/css/jquery.fancybox.css','../../bitrix/templates/aspro_mshop/css/styles.css','../../bitrix/templates/aspro_mshop/css/animation/animation_ext.css','../../bitrix/templates/aspro_mshop/ajax/ajax.css','../../bitrix/templates/aspro_mshop/css/spectrum.css','../../bitrix/components/aspro/theme.mshop/templates/.default/style.css','../../bitrix/templates/aspro_mshop/styles.css','../../bitrix/templates/aspro_mshop/template_styles.css','../../bitrix/templates/aspro_mshop/themes/yellow/theme.css','../../bitrix/templates/aspro_mshop/css/media.min.css','/bitrix/templates/aspro_mshop/css/custom.css']); 
+BX.setJSList(['/bitrix/js/main/core/core.js','../../bitrix/js/main/core/core_ajax.js','../../bitrix/js/main/json/json2.min.js','../../bitrix/js/main/core/core_ls.js','../../bitrix/js/main/core/core_fx.js','../../bitrix/js/main/core/core_popup.js','../../bitrix/js/main/core/core_window.js','../../bitrix/js/main/core/core_date.js','../../bitrix/js/main/session.js','../../bitrix/js/main/utils.js','../../bitrix/js/currency/core_currency.js','../../bitrix/templates/aspro_mshop/components/bitrix/catalog.smart.filter/main_ajax/script.js','../../bitrix/templates/aspro_mshop/js/jquery.actual.min.js','../../bitrix/templates/aspro_mshop/js/jqModal.js','../../bitrix/templates/aspro_mshop/js/jquery.fancybox.js','../../bitrix/templates/aspro_mshop/js/jquery.history.js','../../bitrix/templates/aspro_mshop/js/jquery.flexslider.js','../../bitrix/templates/aspro_mshop/js/jquery.validate.min.js','../../bitrix/templates/aspro_mshop/js/jquery.inputmask.bundle.min.js','../../bitrix/templates/aspro_mshop/js/jquery.easing.1.3.js','../../bitrix/templates/aspro_mshop/js/equalize.min.js','../../bitrix/templates/aspro_mshop/js/jquery.alphanumeric.js','../../bitrix/templates/aspro_mshop/js/jquery.cookie.js','../../bitrix/templates/aspro_mshop/js/jquery.plugin.min.js','../../bitrix/templates/aspro_mshop/js/jquery.countdown.min.js','../../bitrix/templates/aspro_mshop/js/jquery.countdown-ru.js','../../bitrix/templates/aspro_mshop/js/jquery.ikSelect.js','../../bitrix/templates/aspro_mshop/js/sly.js','../../bitrix/templates/aspro_mshop/js/equalize_ext.js','../../bitrix/templates/aspro_mshop/js/main.js','../../bitrix/templates/aspro_mshop/js/spectrum.js','../../bitrix/components/bitrix/search.title/script.js','../../bitrix/templates/aspro_mshop/js/custom.js','../../bitrix/templates/aspro_mshop/components/bitrix/catalog.section/catalog_block/script.js','/bitrix/templates/aspro_mshop/components/bitrix/news.list/landings_list/script.js']); 
+
+(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1528713712','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'5ff03d6064bdc38781772f214aecc1fe'});
+
+(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});
+if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};
+var _ba = _ba || []; _ba.push(["aid", "97b68240f50c09f67402d9cc2a1b7e25"]); _ba.push(["host", "market.aspro-demo.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();

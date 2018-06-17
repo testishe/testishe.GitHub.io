@@ -11,17 +11,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="интернет-магазин, заказать, купить" />
 <meta name="description" content="Универсальный интернет-магазин" />
-				<link href="../bitrix/cache/css/s1/aspro_mshop/kernel_main/kernel_maineca0.css?152171592626563" type="text/css" rel="stylesheet" />
-				<link href="../bitrix/cache/css/s1/aspro_mshop/page_a943ad635a22b294f769b044e655f5a3/page_a943ad635a22b294f769b044e655f5a3972e.css?15174033994812" type="text/css" rel="stylesheet" />
-				<link href="../bitrix/panel/main/popup.mine954.css?151740333220704" type="text/css" rel="stylesheet" />
-				<link href="../bitrix/cache/css/s1/aspro_mshop/template_629298bcd2893a272f5b8b37b1be5bb5/template_629298bcd2893a272f5b8b37b1be5bb5c905.css" type="text/css" data-template-style="true" rel="stylesheet" />
-				<link href="../bitrix/cache/css/s1/aspro_mshop/template_629298bcd2893a272f5b8b37b1be5bb5/template_629298bcd2893a272f5b8b37b1be5bb5c905.css" type="text/css" data-template-style="true" rel="stylesheet" />
-				<script type="text/javascript" defer src="../bitrix/js/main/jquery/jquery-1.8.3.mind040.js?152169729293637"></script>
-				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/jquery.flexslider.js"></script>
-				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/jquery.validate.min.js"></script>
-				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/equalize.min.js"></script>
-				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/spectrum.js"></script>
-				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/custom.js"></script>
+				
 
 
 
@@ -37,7 +27,7 @@
 <meta property="og:url" content="https://market.aspro-demo.ru/catalog/" />
 <meta property="og:description" content="Универсальный интернет-магазин" />
 
-
+<script type="text/javascript"  src="../bitrix/js/main/jquery/jquery-1.8.3.mind040.js?152169729293637"></script>
 
 
 
@@ -533,8 +523,77 @@
 <div class="clearfix"></div>
 <!--/noindex--><!--'end_frame_cache_header-compare-block'-->										</div>
 										<div class="header-cart" id="basket_line">
-											<!--'start_frame_cache_header-cart'-->																														
-																						<!--'end_frame_cache_header-cart'-->										</div>
+											<!--'start_frame_cache_header-cart'-->																																		
+																						<!--'end_frame_cache_header-cart'-->											<div class="basket_fly basket_empty">	
+				<div class="wrap_cont">
+<!--'start_frame_cache_ouh0s0'-->	<input type="hidden" name="total_price" value="0 руб.">
+	<input type="hidden" name="total_discount_price" value="0 руб.">
+	<input type="hidden" name="total_count" value="0">
+	<input type="hidden" name="delay_count" value="0">
+
+	<div class="opener" title="0 руб.">
+		<div class="basket_count empty" data-type="AnDelCanBuy">
+			<a href="/basket/"></a>
+			<div class="wraps_icon_block basket">
+				<div class="count">
+					<span>
+						<div class="items">
+							<div>0</div>
+						</div>
+					</span>
+				</div>
+			</div>
+		</div>
+		<div class="wish_count empty small" data-type="DelDelCanBuy">
+			<a href="/basket/#tab_DelDelCanBuy"></a>
+			<div class="wraps_icon_block delay">
+				<div class="count">
+					<span>
+						<div class="items">
+							<div>0</div>
+						</div>
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+			<div class="basket_sort">
+			<span class="basket_title">
+									<a href="/basket/">Корзина</a>
+							</span>
+			<ul class="tabs">
+							</ul>
+			<span class="wrap_remove_button">
+											</span>
+		</div>
+
+		<form method="post" action="/ajax/reload_basket_fly.php" name="basket_form" id="basket_form" class="basket_wrapp">
+							<ul class="tabs_content basket"><li class="cur" item-section="AnDelCanBuy">	<div class="cart_empty">
+		<table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td class="img_wrapp">
+			<div class="img">
+				<img src="../bitrix/templates/aspro_mshop/images/empty_cart.png" alt="">
+			</div>
+		</td><td>
+			<div class="text">
+				
+<div class="title">К сожалению, ваша корзина пуста</div>
+ 
+<p>Исправить это недоразумение очень просто: выберите в каталоге интересующий товар<br>и нажмите кнопку «В корзину». </p><br>
+ 
+<a class="button close"><span>Закрыть</span></a>			</div>
+		</td></tr></tbody></table>
+		<div class="clearboth"></div>
+	</div>
+<div class="one_click_buy_basket_frame"></div></li></ul>
+						<input id="fly_basket_params" type="hidden" name="PARAMS" value="a%3A115%3A%7Bs%3A12%3A%22COLUMNS_LIST%22%3Ba%3A9%3A%7Bi%3A0%3Bs%3A4%3A%22NAME%22%3Bi%3A1%3Bs%3A15%3A%22PREVIEW_PICTURE%22%3Bi%3A2%3Bs%3A8%3A%22DISCOUNT%22%3Bi%3A3%3Bs%3A6%3A%22DELETE%22%3Bi%3A4%3Bs%3A5%3A%22DELAY%22%3Bi%3A5%3Bs%3A4%3A%22TYPE%22%3Bi%3A6%3Bs%3A5%3A%22PRICE%22%3Bi%3A7%3Bs%3A3%3A%22SUM%22%3Bi%3A8%3Bs%3A8%3A%22QUANTITY%22%3B%7Ds%3A12%3A%22OFFERS_PROPS%22%3Ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22SIZES%22%3Bi%3A1%3Bs%3A9%3A%22COLOR_REF%22%3B%7Ds%3A13%3A%22PATH_TO_ORDER%22%3Bs%3A7%3A%22%2Forder%2F%22%3Bs%3A11%3A%22HIDE_COUPON%22%3Bs%3A1%3A%22N%22%3Bs%3A20%3A%22PRICE_VAT_SHOW_VALUE%22%3Bs%3A1%3A%22Y%22%3Bs%3A29%3A%22COUNT_DISCOUNT_4_ALL_QUANTITY%22%3Bs%3A1%3A%22N%22%3Bs%3A14%3A%22USE_PREPAYMENT%22%3Bs%3A1%3A%22N%22%3Bs%3A9%3A%22SET_TITLE%22%3Bs%3A1%3A%22N%22%3Bs%3A16%3A%22AJAX_MODE_CUSTOM%22%3Bs%3A1%3A%22Y%22%3Bs%3A12%3A%22SHOW_MEASURE%22%3Bs%3A1%3A%22Y%22%3Bs%3A13%3A%22PICTURE_WIDTH%22%3Bs%3A2%3A%2270%22%3Bs%3A14%3A%22PICTURE_HEIGHT%22%3Bs%3A2%3A%2270%22%3Bs%3A14%3A%22PATH_TO_BASKET%22%3Bs%3A8%3A%22%2Fbasket%2F%22%3Bs%3A22%3A%22SHOW_FULL_ORDER_BUTTON%22%3Bs%3A1%3A%22N%22%3Bs%3A22%3A%22SHOW_FAST_ORDER_BUTTON%22%3Bs%3A1%3A%22Y%22%3Bs%3A10%3A%22CACHE_TYPE%22%3Bs%3A1%3A%22A%22%3Bs%3A15%3A%22COMPATIBLE_MODE%22%3Bs%3A1%3A%22Y%22%3Bs%3A16%3A%22DEFERRED_REFRESH%22%3Bs%3A1%3A%22N%22%3Bs%3A14%3A%22QUANTITY_FLOAT%22%3Bs%3A1%3A%22N%22%3Bs%3A15%3A%22ACTION_VARIABLE%22%3Bs%3A12%3A%22basketAction%22%3Bs%3A16%3A%22AUTO_CALCULATION%22%3Bs%3A1%3A%22Y%22%3Bs%3A11%3A%22WEIGHT_KOEF%22%3Bs%3A4%3A%221000%22%3Bs%3A11%3A%22WEIGHT_UNIT%22%3Bs%3A2%3A%22%EA%E3%22%3Bs%3A16%3A%22COLUMNS_LIST_EXT%22%3Ba%3A6%3A%7Bi%3A0%3Bs%3A15%3A%22PREVIEW_PICTURE%22%3Bi%3A1%3Bs%3A8%3A%22DISCOUNT%22%3Bi%3A2%3Bs%3A6%3A%22DELETE%22%3Bi%3A3%3Bs%3A5%3A%22DELAY%22%3Bi%3A4%3Bs%3A4%3A%22TYPE%22%3Bi%3A5%3Bs%3A3%3A%22SUM%22%3B%7Ds%3A13%3A%22CORRECT_RATIO%22%3Bs%3A1%3A%22Y%22%3Bs%3A21%3A%22BASKET_IMAGES_SCALING%22%3Bs%3A8%3A%22adaptive%22%3Bs%3A10%3A%22LABEL_PROP%22%3Ba%3A0%3A%7B%7Ds%3A17%3A%22LABEL_PROP_MOBILE%22%3Ba%3A0%3A%7B%7Ds%3A19%3A%22LABEL_PROP_POSITION%22%3Bs%3A8%3A%22top-left%22%3Bs%3A21%3A%22SHOW_DISCOUNT_PERCENT%22%3Bs%3A1%3A%22Y%22%3Bs%3A25%3A%22DISCOUNT_PERCENT_POSITION%22%3Bs%3A12%3A%22bottom-right%22%3Bs%3A29%3A%22BASKET_WITH_ORDER_INTEGRATION%22%3Bs%3A1%3A%22N%22%3Bs%3A24%3A%22BASKET_MAX_COUNT_TO_SHOW%22%3Bi%3A5%3Bs%3A25%3A%22BASKET_HAS_BEEN_REFRESHED%22%3Bs%3A1%3A%22N%22%3Bs%3A12%3A%22SHOW_RESTORE%22%3Bs%3A1%3A%22Y%22%3Bs%3A9%3A%22USE_GIFTS%22%3Bs%3A1%3A%22Y%22%3Bs%3A11%3A%22GIFTS_PLACE%22%3Bs%3A6%3A%22BOTTOM%22%3Bs%3A24%3A%22GIFTS_PAGE_ELEMENT_COUNT%22%3Bi%3A4%3Bs%3A13%3A%22%7ECOLUMNS_LIST%22%3Ba%3A9%3A%7Bi%3A0%3Bs%3A4%3A%22NAME%22%3Bi%3A1%3Bs%3A8%3A%22QUANTITY%22%3Bi%3A2%3Bs%3A6%3A%22DELETE%22%3Bi%3A3%3Bs%3A5%3A%22DELAY%22%3Bi%3A4%3Bs%3A5%3A%22PRICE%22%3Bi%3A5%3Bs%3A4%3A%22TYPE%22%3Bi%3A6%3Bs%3A8%3A%22DISCOUNT%22%3Bi%3A7%3Bs%3A5%3A%22PROPS%22%3Bi%3A8%3Bs%3A15%3A%22PREVIEW_PICTURE%22%3B%7Ds%3A13%3A%22%7EOFFERS_PROPS%22%3Ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22SIZES%22%3Bi%3A1%3Bs%3A9%3A%22COLOR_REF%22%3B%7Ds%3A14%3A%22%7EPATH_TO_ORDER%22%3Bs%3A7%3A%22%2Forder%2F%22%3Bs%3A12%3A%22%7EHIDE_COUPON%22%3Bs%3A1%3A%22N%22%3Bs%3A21%3A%22%7EPRICE_VAT_SHOW_VALUE%22%3Bs%3A1%3A%22Y%22%3Bs%3A30%3A%22%7ECOUNT_DISCOUNT_4_ALL_QUANTITY%22%3Bs%3A1%3A%22N%22%3Bs%3A15%3A%22%7EUSE_PREPAYMENT%22%3Bs%3A1%3A%22N%22%3Bs%3A10%3A%22%7ESET_TITLE%22%3Bs%3A1%3A%22N%22%3Bs%3A17%3A%22%7EAJAX_MODE_CUSTOM%22%3Bs%3A1%3A%22Y%22%3Bs%3A13%3A%22%7ESHOW_MEASURE%22%3Bs%3A1%3A%22Y%22%3Bs%3A14%3A%22%7EPICTURE_WIDTH%22%3Bs%3A2%3A%2270%22%3Bs%3A15%3A%22%7EPICTURE_HEIGHT%22%3Bs%3A2%3A%2270%22%3Bs%3A15%3A%22%7EPATH_TO_BASKET%22%3Bs%3A8%3A%22%2Fbasket%2F%22%3Bs%3A23%3A%22%7ESHOW_FULL_ORDER_BUTTON%22%3Bs%3A1%3A%22N%22%3Bs%3A23%3A%22%7ESHOW_FAST_ORDER_BUTTON%22%3Bs%3A1%3A%22Y%22%3Bs%3A11%3A%22%7ECACHE_TYPE%22%3Bs%3A1%3A%22A%22%3Bs%3A16%3A%22%7ECOMPATIBLE_MODE%22%3Bs%3A1%3A%22Y%22%3Bs%3A17%3A%22%7EDEFERRED_REFRESH%22%3Bs%3A1%3A%22N%22%3Bs%3A15%3A%22%7EQUANTITY_FLOAT%22%3Bs%3A1%3A%22N%22%3Bs%3A16%3A%22%7EACTION_VARIABLE%22%3Bs%3A12%3A%22basketAction%22%3Bs%3A17%3A%22%7EAUTO_CALCULATION%22%3Bs%3A1%3A%22Y%22%3Bs%3A12%3A%22%7EWEIGHT_KOEF%22%3Bs%3A4%3A%221000%22%3Bs%3A12%3A%22%7EWEIGHT_UNIT%22%3Bs%3A2%3A%22%EA%E3%22%3Bs%3A17%3A%22%7ECOLUMNS_LIST_EXT%22%3Ba%3A6%3A%7Bi%3A0%3Bs%3A15%3A%22PREVIEW_PICTURE%22%3Bi%3A1%3Bs%3A8%3A%22DISCOUNT%22%3Bi%3A2%3Bs%3A6%3A%22DELETE%22%3Bi%3A3%3Bs%3A5%3A%22DELAY%22%3Bi%3A4%3Bs%3A4%3A%22TYPE%22%3Bi%3A5%3Bs%3A3%3A%22SUM%22%3B%7Ds%3A14%3A%22%7ECORRECT_RATIO%22%3Bs%3A1%3A%22Y%22%3Bs%3A22%3A%22%7EBASKET_IMAGES_SCALING%22%3Bs%3A8%3A%22adaptive%22%3Bs%3A11%3A%22%7ELABEL_PROP%22%3Ba%3A0%3A%7B%7Ds%3A18%3A%22%7ELABEL_PROP_MOBILE%22%3Ba%3A0%3A%7B%7Ds%3A20%3A%22%7ELABEL_PROP_POSITION%22%3Bs%3A8%3A%22top-left%22%3Bs%3A22%3A%22%7ESHOW_DISCOUNT_PERCENT%22%3Bs%3A1%3A%22Y%22%3Bs%3A26%3A%22%7EDISCOUNT_PERCENT_POSITION%22%3Bs%3A12%3A%22bottom-right%22%3Bs%3A30%3A%22%7EBASKET_WITH_ORDER_INTEGRATION%22%3Bs%3A1%3A%22N%22%3Bs%3A25%3A%22%7EBASKET_MAX_COUNT_TO_SHOW%22%3Bi%3A5%3Bs%3A26%3A%22%7EBASKET_HAS_BEEN_REFRESHED%22%3Bs%3A1%3A%22N%22%3Bs%3A13%3A%22%7ESHOW_RESTORE%22%3Bs%3A1%3A%22Y%22%3Bs%3A10%3A%22%7EUSE_GIFTS%22%3Bs%3A1%3A%22Y%22%3Bs%3A12%3A%22%7EGIFTS_PLACE%22%3Bs%3A6%3A%22BOTTOM%22%3Bs%3A25%3A%22%7EGIFTS_PAGE_ELEMENT_COUNT%22%3Bi%3A4%3Bs%3A14%3A%22%7E%7ECOLUMNS_LIST%22%3Ba%3A9%3A%7Bi%3A0%3Bs%3A4%3A%22NAME%22%3Bi%3A1%3Bs%3A8%3A%22QUANTITY%22%3Bi%3A2%3Bs%3A6%3A%22DELETE%22%3Bi%3A3%3Bs%3A5%3A%22DELAY%22%3Bi%3A4%3Bs%3A5%3A%22PRICE%22%3Bi%3A5%3Bs%3A4%3A%22TYPE%22%3Bi%3A6%3Bs%3A8%3A%22DISCOUNT%22%3Bi%3A7%3Bs%3A5%3A%22PROPS%22%3Bi%3A8%3Bs%3A15%3A%22PREVIEW_PICTURE%22%3B%7Ds%3A14%3A%22%7E%7EOFFERS_PROPS%22%3Ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22SIZES%22%3Bi%3A1%3Bs%3A9%3A%22COLOR_REF%22%3B%7Ds%3A15%3A%22%7E%7EPATH_TO_ORDER%22%3Bs%3A7%3A%22%2Forder%2F%22%3Bs%3A13%3A%22%7E%7EHIDE_COUPON%22%3Bs%3A1%3A%22N%22%3Bs%3A22%3A%22%7E%7EPRICE_VAT_SHOW_VALUE%22%3Bs%3A1%3A%22Y%22%3Bs%3A31%3A%22%7E%7ECOUNT_DISCOUNT_4_ALL_QUANTITY%22%3Bs%3A1%3A%22N%22%3Bs%3A16%3A%22%7E%7EUSE_PREPAYMENT%22%3Bs%3A1%3A%22N%22%3Bs%3A11%3A%22%7E%7ESET_TITLE%22%3Bs%3A1%3A%22N%22%3Bs%3A18%3A%22%7E%7EAJAX_MODE_CUSTOM%22%3Bs%3A1%3A%22Y%22%3Bs%3A14%3A%22%7E%7ESHOW_MEASURE%22%3Bs%3A1%3A%22Y%22%3Bs%3A15%3A%22%7E%7EPICTURE_WIDTH%22%3Bs%3A2%3A%2270%22%3Bs%3A16%3A%22%7E%7EPICTURE_HEIGHT%22%3Bs%3A2%3A%2270%22%3Bs%3A16%3A%22%7E%7EPATH_TO_BASKET%22%3Bs%3A8%3A%22%2Fbasket%2F%22%3Bs%3A24%3A%22%7E%7ESHOW_FULL_ORDER_BUTTON%22%3Bs%3A1%3A%22N%22%3Bs%3A24%3A%22%7E%7ESHOW_FAST_ORDER_BUTTON%22%3Bs%3A1%3A%22Y%22%3Bs%3A12%3A%22%7E%7ECACHE_TYPE%22%3Bs%3A1%3A%22A%22%3Bs%3A17%3A%22%7E%7ECOMPATIBLE_MODE%22%3Bs%3A1%3A%22Y%22%3Bs%3A18%3A%22%7E%7EDEFERRED_REFRESH%22%3Bs%3A1%3A%22N%22%3Bs%3A16%3A%22%7E%7EQUANTITY_FLOAT%22%3Bs%3A1%3A%22N%22%3Bs%3A17%3A%22%7E%7EACTION_VARIABLE%22%3Bs%3A12%3A%22basketAction%22%3Bs%3A18%3A%22%7E%7EAUTO_CALCULATION%22%3Bs%3A1%3A%22Y%22%3Bs%3A13%3A%22%7E%7EWEIGHT_KOEF%22%3Bs%3A4%3A%221000%22%3Bs%3A13%3A%22%7E%7EWEIGHT_UNIT%22%3Bs%3A2%3A%22%EA%E3%22%3Bs%3A18%3A%22%7E%7ECOLUMNS_LIST_EXT%22%3Ba%3A6%3A%7Bi%3A0%3Bs%3A15%3A%22PREVIEW_PICTURE%22%3Bi%3A1%3Bs%3A8%3A%22DISCOUNT%22%3Bi%3A2%3Bs%3A6%3A%22DELETE%22%3Bi%3A3%3Bs%3A5%3A%22DELAY%22%3Bi%3A4%3Bs%3A4%3A%22TYPE%22%3Bi%3A5%3Bs%3A3%3A%22SUM%22%3B%7Ds%3A15%3A%22%7E%7ECORRECT_RATIO%22%3Bs%3A1%3A%22Y%22%3Bs%3A23%3A%22%7E%7EBASKET_IMAGES_SCALING%22%3Bs%3A8%3A%22adaptive%22%3Bs%3A12%3A%22%7E%7ELABEL_PROP%22%3Ba%3A0%3A%7B%7Ds%3A19%3A%22%7E%7ELABEL_PROP_MOBILE%22%3Ba%3A0%3A%7B%7Ds%3A21%3A%22%7E%7ELABEL_PROP_POSITION%22%3Bs%3A8%3A%22top-left%22%3Bs%3A23%3A%22%7E%7ESHOW_DISCOUNT_PERCENT%22%3Bs%3A1%3A%22Y%22%3Bs%3A27%3A%22%7E%7EDISCOUNT_PERCENT_POSITION%22%3Bs%3A12%3A%22bottom-right%22%3Bs%3A31%3A%22%7E%7EBASKET_WITH_ORDER_INTEGRATION%22%3Bs%3A1%3A%22N%22%3Bs%3A26%3A%22%7E%7EBASKET_MAX_COUNT_TO_SHOW%22%3Bi%3A5%3Bs%3A27%3A%22%7E%7EBASKET_HAS_BEEN_REFRESHED%22%3Bs%3A1%3A%22N%22%3Bs%3A14%3A%22%7E%7ESHOW_RESTORE%22%3Bs%3A1%3A%22Y%22%3Bs%3A11%3A%22%7E%7EUSE_GIFTS%22%3Bs%3A1%3A%22Y%22%3Bs%3A13%3A%22%7E%7EGIFTS_PLACE%22%3Bs%3A6%3A%22BOTTOM%22%3Bs%3A26%3A%22%7E%7EGIFTS_PAGE_ELEMENT_COUNT%22%3Bi%3A4%3Bs%3A6%3A%22%7EINNER%22%3Bb%3A1%3B%7D">
+		</form>
+
+		
+<!--'end_frame_cache_ouh0s0'--></div>
+	
+</div>
+</div>
 									</div>
 									<div class="clearfix"></div>
 							</td>
@@ -1783,6 +1842,20 @@
 								</div>
 				</div>
 			
-<!-- <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-198347-3bY3q';</script></body> -->
+<!-- <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-198347-3bY3q';</script> -->
+
+
+				<link href="../bitrix/cache/css/s1/aspro_mshop/kernel_main/kernel_maineca0.css?152171592626563" type="text/css" rel="stylesheet" />
+				<link href="../bitrix/cache/css/s1/aspro_mshop/page_a943ad635a22b294f769b044e655f5a3/page_a943ad635a22b294f769b044e655f5a3972e.css?15174033994812" type="text/css" rel="stylesheet" />
+				<link href="../bitrix/panel/main/popup.mine954.css?151740333220704" type="text/css" rel="stylesheet" />
+				<link href="../bitrix/cache/css/s1/aspro_mshop/template_629298bcd2893a272f5b8b37b1be5bb5/template_629298bcd2893a272f5b8b37b1be5bb5c905.css" type="text/css" data-template-style="true" rel="stylesheet" />
+				<link href="../bitrix/cache/css/s1/aspro_mshop/template_629298bcd2893a272f5b8b37b1be5bb5/template_629298bcd2893a272f5b8b37b1be5bb5c905.css" type="text/css" data-template-style="true" rel="stylesheet" />
+				
+				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/jquery.flexslider.js"></script>
+				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/jquery.validate.min.js"></script>
+				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/equalize.min.js"></script>
+				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/spectrum.js"></script>
+				<script type="text/javascript" defer src="../bitrix/templates/aspro_mshop/js/custom.js"></script>
+</body>
 
 </html>
