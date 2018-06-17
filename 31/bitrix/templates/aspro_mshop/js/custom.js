@@ -1901,3 +1901,61 @@ $("#title-search-input3").blur(function() { $(this).parents("form").find("button
 		});
 
 			touchItemBlock('.catalog_item a');
+
+				if (!window.GLOBAL_arMapObjects)
+		window.GLOBAL_arMapObjects = {};
+
+	function initCustomControls(map){
+		$('.map-wr').each(function(){
+			var zoomIn = $(this).find('.zoomIn'),
+				zoomOut = $(this).find('.zoomOut');
+			zoomIn.on('click', function(){
+				map.setZoom(map.getZoom() + 1);
+			});
+			zoomOut.on('click', function() {
+				map.setZoom(map.getZoom() - 1);
+			});
+		});
+	}
+
+	function init_MAP_PxWcPa(){
+		if (!window.google && !window.google.maps)
+			return;
+
+		var opts = {
+			zoom: 18,
+			center: new google.maps.LatLng(55.755672158728, 37.607617247221),
+					scrollwheel: false,
+		disableDoubleClickZoom: false,
+		draggable: true,
+		keyboardShortcuts: false,
+		mapTypeControl: false,
+		zoomControl: false,
+		scaleControl: false,
+			mapTypeId: google.maps.MapTypeId.ROADMAP,
+			streetViewControl: false,
+			panControl : false,
+
+		};
+		
+		window.GLOBAL_arMapObjects['MAP_PxWcPa'] = new window.google.maps.Map(BX("BX_GMAP_MAP_PxWcPa"), opts);
+		initCustomControls(window.GLOBAL_arMapObjects['MAP_PxWcPa']);
+		
+		google.maps.event.addDomListener(window, "resize", function() {
+		   var center = window.GLOBAL_arMapObjects['MAP_PxWcPa'].getCenter();
+		   google.maps.event.trigger(window.GLOBAL_arMapObjects['MAP_PxWcPa'], "resize");
+		   window.GLOBAL_arMapObjects['MAP_PxWcPa'].setCenter(center); 
+		});
+
+			}
+
+			BX.ready(init_MAP_PxWcPa);
+	
+	/* if map inits in hidden block (display:none),
+	*  after the block showed,
+	*  for properly showing map this function must be called
+	*/
+	function BXMapGoogleAfterShow(mapId){
+		if(google.maps !== undefined && window.GLOBAL_arMapObjects[mapId] !== undefined)
+			google.maps.event.trigger(window.GLOBAL_arMapObjects[mapId],'resize');
+	}
