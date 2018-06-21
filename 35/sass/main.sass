@@ -1,0 +1,137 @@
+// @import "vars"
+@import "fonts"
+// @import "libs"
+
+html, body
+	margin: 0
+	padding: 0
+
+body
+	font: 17px ArimoRegular, sans-serif
+	min-width: 320px
+	background: #fff
+	overflow-x: hidden
+	opacity: 1
+
+a
+	text-decoration: none
+
+li
+	list-style-type: none
+
+h1, h2, h3, p, ul, li
+	margin: 0
+	padding: 0
+
+*
+	box-sizing: border-box
+
+img
+	vertical-align: middle
+
+input, button
+	border: none
+	outline: none
+
+.wrapper
+	padding-top: 50px
+	max-width: 1600px
+	margin: 0 auto
+	overflow: hidden
+
+.container
+	max-width: 1460px
+	margin: 0 auto
+	padding: 0 30px
+
+.step
+	display: flex
+	justify-content: space-between
+	&_number
+		display-flex
+		flex-wrap: wrap
+		justify-content: flex-end
+		max-width: 150px
+		margin-right: 30px
+		font-family: Exo20, sans-serif
+		font-weight: bold
+		font-size: 46px
+		color: #fff
+		-webkit-text-stroke: 1px black
+		text-transform: uppercase
+		&-big
+			display: flex
+			align-items: center
+			padding-left: 15px
+			font-size: 208px
+			line-height: 160px
+	&_body
+		max-width: 1150px
+	&_caption
+		margin-bottom: 30px
+		font-family: Exo20, sans-serif
+		font-weight: 500
+		font-size: 46px
+		color: #000
+		text-transform: uppercase
+		&Wrap
+			display: flex
+			flex-wrap: wrap
+			align-items: center
+			justify-content: space-between
+		&-actient
+			position: relative
+			display: inline-flex
+			align-items: center
+			padding: 0 50px
+			text-transform: lowercase
+			&:before
+				content: ""
+				display: inline-block
+				width: 20px
+				height: 60px
+				position: absolute
+				top: 5px
+				left: 20px
+				background: url(../img/step-l.png) no-repeat
+			&:after
+				content: ""
+				display: inline-block
+				width: 20px
+				height: 60px
+				position: absolute
+				top: 5px
+				right: 20px
+				background: url(../img/step-r.png) no-repeat
+	&_question
+		position: relative
+		min-width: 243px
+		margin-bottom: 30px
+		font-family: Exo20
+		font-weight: 500
+		font-size: 30px
+		&:before
+			content: "?"
+			position: absolute
+			top: -35px
+			right: -20px
+			font-weight: 800
+			font-size: 86px
+			color: #eee
+			z-index: -1
+	&_description
+		margin-top: 20px
+	&_caption2
+			margin-bottom: 15px
+			font-family: Exo20
+			font-weight: 500
+			font-size: 30px
+	&_text
+		font-family: Exo20
+		font-weight: 200
+		font-size: 20px
+
+
+
+
+@import "media" // Always at the end

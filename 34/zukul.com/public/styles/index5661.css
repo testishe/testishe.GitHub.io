@@ -521,7 +521,8 @@ transform: scale(0.97);
 }
 
 .modal-dialog.wide700 {
-    width: auto;
+    width: auto
+    ;
 }
 
 .btc-payment-box p span{
