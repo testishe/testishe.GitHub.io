@@ -53,12 +53,26 @@ input, button
 	align-items: flex-end
 	padding: 1.3% 0 5.5% 0
 	&-wrap
-		border-bottom: 4px solid #ebebeb
+		position: relative
+		border-bottom: 0.25rem solid #ebebeb
 
 .menu
-	width: 10.1%
+	display: flex
+	align-items: center
+	width: 10.7%
 	margin-left: 4%
 	cursor: pointer
+	&_icon
+		
+		width: 39%
+	&_text
+		margin-left: 19%
+		font: 1.25rem OpenSans, sans-serif
+		font-weight: 200
+		color: #17abde
+		transition: .3s
+		&:hover
+			color: #ecbc1f
 
 .logo
 	width: 19.3%
@@ -66,7 +80,73 @@ input, button
 
 .btnHome
 	width: 21.5%
+	padding: 1.5% 2%
+
+.btn
+	font: 1.375rem OpenSans, sans-serif
+	text-transform: uppercase
+	text-align: center
+	color: #17abde
+	background: url(../img/border-b.png) no-repeat 50% 150%,
+	url(../img/border-y.png) no-repeat
+	background-size: 97.5% 97.5%
+	transition: .3s
 	cursor: pointer
+	&:hover
+		background: url(../img/border-y.png) no-repeat 50% 150%,
+		url(../img/border-b.png) no-repeat
+		background-size: 97.5% 97.5%
+		color: #ecbc1f
+
+
+.menu-left
+	position: absolute
+	top: 0
+	left: -23%
+	width: 22.5%
+	padding-left: 2%
+	padding-bottom: 12.5%
+	padding-top: 4.7%
+	background: #fff
+	box-shadow: 3px 3px  5px rgba(0, 0 ,0, .2)
+	transition: 0.5s
+	&.open
+		left: 0
+	&_close
+		display: flex
+		align-items: center
+		width: 32.2%
+		margin-left: 21%
+		margin-bottom: 20%
+		cursor: pointer
+	&_closeIcon
+		width: 22%
+	&_closeText
+		margin-left: 15%
+		font: 1.25rem OpenSans, sans-serif
+		font-weight: 200
+		color: #17abde
+		transition: .3s
+		&:hover
+			color: #ecbc1f
+	&_item
+		display: block
+		margin-left: 20%
+		margin-top: 4.5%
+		font: 1.5rem OpenSans, sans-serif
+		color: #19abdc
+		transition: .3s
+		cursor: pointer
+		&:hover
+			color: #ecbc1f
+	&_btn
+		display: block
+		margin-left: 5%
+		margin-top: 5%
+		width: 77%
+		padding: 6.2% 2%
+	&_btn1
+		margin-top: 20%
 
 .sectionForm
 	margin-top: 2.2%
@@ -94,13 +174,14 @@ input, button
 		height: 20%
 		margin-right: 2%
 	&_input
+		// border: 0.1rem solid #bababa
 		border: 1px solid #bababa
 		width: 100%
 		height: 70%
 		padding: 3.5% 2%
 		padding-left: 4.5%
-		border-radius: 10px
-		transition: .3s
+		border-radius: 0.8rem
+		transition: .5s
 		&::-webkit-input-placeholder
 			font: 1rem OpenSans, sans-serif
 			font-weight: 200
@@ -111,8 +192,20 @@ input, button
 		align-items: center
 		width: 100%
 		margin-top: 3.3%
+		cursor: pointer
 	&_radio
 		display: none
+		&:checked + .formContacts_radioIcon:before
+			content: ""
+			position: absolute
+			top: 50%
+			left: 50%
+			transform: translate(-50%, -50%)
+			width: 70%
+			height: 70%
+			border: 1px solid #bcbcbc
+			border-radius: 50%
+			background: #ecbc1f
 	&_radioIcon
 		position: relative
 		display: inline-block
@@ -133,30 +226,32 @@ input, button
 			border: 1px solid #fff
 			border-radius: 50%
 			background: #fff
-	&_radioIcon.active
-		&:before
-			content: ""
-			position: absolute
-			top: 50%
-			left: 50%
-			transform: translate(-50%, -50%)
-			width: 70%
-			height: 70%
-			border: 1px solid #bcbcbc
-			border-radius: 50%
-			background: #ecbc1f
+			transition: .3s
+	// &_radioIcon.active
+	// 	&:before
+	// 		content: ""
+	// 		position: absolute
+	// 		top: 50%
+	// 		left: 50%
+	// 		transform: translate(-50%, -50%)
+	// 		width: 70%
+	// 		height: 70%
+	// 		border: 1px solid #bcbcbc
+	// 		border-radius: 50%
+	// 		background: #ecbc1f
 	&_radioText
 		margin-left: 2.5%
 		font: 1rem OpenSans, sans-serif
 		font-weight: 200
 
 .formPayment
-	padding-bottom: 500px
+
 	margin-top: 5.5%
 	&_content
-		margin-top: 5%
+		margin-top: 4.5%
 		margin-left: 7%
 		display: flex
+		// align-items: center
 		// align-items: baseline
 	&_item
 		// display: flex
@@ -164,13 +259,9 @@ input, button
 		width: 14.7%
 		margin-right: 1%
 		// align-self: baseline
-		border: 1px solid #eaeaea
-		border-radius: 10px
-		&.active
-			background: #fdf8e8
-			border: 1px solid #ecbc1e
+		
 	&_block
-		padding: 10% 0 15%
+		padding: 15% 0 15%
 		height: 100%
 		display: flex
 		flex-wrap: wrap
@@ -179,14 +270,23 @@ input, button
 		// height: 100%
 		align-items: baseline
 		// align-self: baseline
-
+		border: 1px solid #eaeaea
+		border-radius: 10px
+		transition: .3s
+		cursor: pointer
+		// &.active
+		// 	background: #fdf8e8
+		// 	border: 1px solid #ecbc1e
 		
 	&_radio
 		display: none
+		&:checked + .formPayment_block
+			background: #fdf8e8
+			border: 1px solid #ecbc1e
 	&_img
 		display: inline-block
 		height: 70%
-		
+
 		img
 			// display: block
 		// width: 50%
@@ -209,19 +309,184 @@ input, button
 		font: 1.1rem OpenSans, sans-serif
 		text-align: center
 		align-self: baseline
+	&_youChoise
+		align-self: center
+		margin-left: 1.5%
+		font: 1rem OpenSans, sans-serif
+		font-weight: 200
+
+
+.youChoise
+	margin-top: 3%
+	&_content
+		display: flex
+		flex-wrap: wrap
+		margin-top: 3%
+		padding-bottom: 2.6%
+		border: 3px solid #ecbc1f
+	&_numberOrder
+		width: 100%
+		margin-right: 1.6%
+		margin-top: 1.7%
+		font: 1.1rem OpenSans, sans-serif
+		font-size: 200
+		text-align: right
+	&_left
+		width: 43%
+		margin-top: 2%
+		margin-left: 7%
+		// border-right: 1px dotted #17abde
+		font: 1.5rem OpenSans, sans-serif
+		font-weight: 200
+		// background-image: linear-gradient(to bottom, #17abde 20%, rgba(255, 255, 255, 0) 20%)
+		// background-position: right
+		// background-size: 1px 5px
+		// background-repeat: repeat-y
+	&_row
+		display: flex
+		justify-content: space-between
+		align-items: center
+		padding-top: 0%
+		padding-bottom: 4%
+		padding-right: 6.7%
+		margin-bottom: 1.7%
+		background-image: linear-gradient(to right, #17abde 20%, rgba(255, 255, 255, 0) 20%)
+		background-position: bottom
+		background-size: 5px 1px
+		background-repeat: repeat-x
+		&:last-child
+			background: none
+	&_service
+		
+		&-small
+			margin-left: 0.3%
+			font-size: 1.1rem
+	&_right
+		display: flex
+		flex-wrap: wrap
+		align-items: baseline
+		width: 42%
+		margin-left: 6%
+		padding-left: 4.7%
+		padding-top: 1.9%
+		padding-bottom: 0.5%
+		background-image: linear-gradient(to bottom, #17abde 20%, rgba(255, 255, 255, 0) 20%)
+		background-position: left
+		background-size: 1px 5px
+		background-repeat: repeat-y
+	&_text
+		width: 25%
+		margin-right: 4%
+		font: 1.1rem OpenSans, sans-serif
+		font-weight: 200
+	&_price
+		font: 1.5rem OpenSans, sans-serif
+		font-weight: 200
+		margin-right: 20%
+		&-big
+			display: flex
+			width: 55%
+			margin-right: 0
+			font-size: 2.25rem
+		&-bold
+			font-weight: 700
+			margin-right: 4%
+	&_code
+		width: 32%
+		margin-right: 1%
+	&_codeInput
+		width: 94%
+		
+		padding: 5% 11%
+		border: 1px solid #bababa
+		border-radius: 0.5rem
+		font: 1.1rem OpenSans, sans-serif
+		font-weight: 200
+	&_codeText
+		margin-top: 1%
+		font: 1rem OpenSans, sans-serif
+		font-weight: 200
+		color: #e90000
+	&_codeBtn
+		font: 1.1rem OpenSans, sans-serif
+		color: #19abdc
+		cursor: pointer
+
+.formFooter
+	display: flex
+	flex-wrap: wrap
+	align-items: center
+	&_content
+		margin-left: 7%
+		margin-top: 2.7%
+		padding-bottom: 5%
+		width: 52.5%
+	&_caption
+		padding-top: 0.8%
+		font: 1rem OpenSans, sans-serif
+		font-weight: 700
+	&_text
+		margin-top: 0.5%
+		font: 1rem OpenSans, sans-serif
+		font-weight: 200
+	&_btn
+		margin-left: 11.5%
+		width: 22.6%
+		padding: 2% 2%
+		background: url(../img/btn-b.png) no-repeat 50% 120%,
+		url(../img/btn-y.png) no-repeat
+		background-size: 95% 95%
+		font: 1.25rem OpenSans, sans-serif
+		font-weight: 700
+		text-transform: uppercase
+		color: #fff
+		white-space: normal
+		transition: .3s
+		cursor: pointer
+		&:hover
+			background: url(../img/btn-y.png) no-repeat 50% 120%,
+			url(../img/btn-b.png) no-repeat
+			background-size: 95% 95%
+
+.footer
+	display: flex
+	padding-top: 4.3%
+	align-items: center
+	&-wrap
+		margin-top: 1.8%
+		background: #ededed
+	&_column
+		width: 19%
+		margin-right: 3.9%
+	&_item
+		display: block
+		margin-top: 2.5%
+		font: 1.1rem OpenSans, sans-serif
+		font-weight: 200
+		color: #17abde
+		transition: .3s
+		&:hover
+			color: #ecbc1f
+	&_contacts
+		display: flex
+		flex-wrap: wrap
+		width: 15%
+	&_phone
+		font: 1.5rem OpenSans, sans-serif
+		font-weight: 700
+	&_social
+		background: red
+		width: 20%
+		padding: 2% 0
+		border-radius: 50%
+	&_cop
+		font: 1rem OpenSans, sans-serif
+		font-weight: 200
+		line-height: 1.88rem
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+@media screen and (min-width: 1600px) {html {font-size: 16px;}}
 // @import "media" // Always at the end

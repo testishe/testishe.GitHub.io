@@ -33,10 +33,10 @@
 		<div class="header container">
 			<div class="menu">
 				<div class="menu_icon"><img src="img/menu.png" alt="" class="menu_iconImg"></div>
-				<!-- <div class="menu_text"></div> -->
+				<div class="menu_text">Меню</div>
 			</div>
 			<div class="logo"><img src="img/logo.png" alt="" class="logo_img"></div>
-			<div class="btnHome"><img src="img/btnHome.png" alt="" class="btnHomeImg"></div>
+			<div class="btnHome btn">Забронироать</div>
 		</div>
 	</div>
 	<form action="" class="sectionForm container">
@@ -50,16 +50,16 @@
 				</div>
 				<div class="formContacts_item">
 					<input type="text" class="formContacts_input" placeholder="Телефон">
-					<label for="" class="formContacts_radioItem">
-						<input type="text" class="formContacts_radio">
-						<span class="formContacts_radioIcon active"></span>
+					<label class="formContacts_radioItem">
+						<input type="radio" class="formContacts_radio" name="contacts" checked>
+						<span class="formContacts_radioIcon"></span>
 						<span class="formContacts_radioText">Это предпочтительный способ связи</span>
 					</label>
 				</div>
 				<div class="formContacts_item">
 					<input type="text" class="formContacts_input" placeholder="E-mail">
-					<label for="" class="formContacts_radioItem">
-						<input type="text" class="formContacts_radio">
+					<label class="formContacts_radioItem">
+						<input type="radio" class="formContacts_radio" name="contacts">
 						<span class="formContacts_radioIcon"></span>
 						<span class="formContacts_radioText">Это предпочтительный способ связи</span>
 					</label>
@@ -70,29 +70,29 @@
 		<div class="formPayment">
 			<div class="mainCaption">Выберите способ оплаты</div>
 			<div class="formPayment_content">
-				<label for="" class="formPayment_item">
-					<input type="text" class="formPayment_radio">
+				<label class="formPayment_item">
+					<input type="radio" class="formPayment_radio" name="payment">
 					<span class="formPayment_block">
 						<span class="formPayment_img formPayment_img1"><img src="img/payment1.png" alt=""></span>
 						<span class="formPayment_text">Картой онлайн</span>
 					</span>
 				</label>
-				<label for="" class="formPayment_item">
-					<input type="text" class="formPayment_radio">
+				<label class="formPayment_item">
+					<input type="radio" class="formPayment_radio" name="payment">
 					<span class="formPayment_block">
 						<span class="formPayment_img formPayment_img2"><img src="img/payment2.png" alt=""></span>
 						<span class="formPayment_text">PayPal</span>
 					</span>
 				</label>
-				<label for="" class="formPayment_item active">
-					<input type="text" class="formPayment_radio">
+				<label class="formPayment_item">
+					<input type="radio" class="formPayment_radio" name="payment" checked>
 					<span class="formPayment_block">
 						<span class="formPayment_img formPayment_img3"><img src="img/payment3.png" alt=""></span>
 						<span class="formPayment_text">Яндекс.Деньги</span>
 					</span>
 				</label>
-				<label for="" class="formPayment_item">
-					<input type="text" class="formPayment_radio">
+				<label class="formPayment_item">
+					<input type="radio" class="formPayment_radio" name="payment">
 					<span class="formPayment_block">
 						<span class="formPayment_img formPayment_img4"><img src="img/payment4.png" alt=""></span>
 						<span class="formPayment_text">Подарочная карта</span>
@@ -136,7 +136,57 @@
 				</div>
 			</div>
 		</div>
+		<div class="formFooter">
+			<div class="formFooter_content">
+				<div class="formFooter_caption">Почему мы берем небольшую предоплату?</div>
+				<div class="formFooter_text">В высокий сезон мы получаем очень много заявок и предоплата является  и для нас и для вас гарантией того, что съемка состоится. Мы хотим, чтобы вы были уверены в том, что нужная дата останется за вами. Предоплата составляет всего 30 евро и покрывает транспортные расходы фотографа в случае вашего отказа от съемки.</div>
+				<div class="formFooter_caption">Если я отменю съемку, мне вернут деньги?</div>
+				<div class="formFooter_text">Если в ваших планах что-то поменялось и вы сообщили нам об этом за 2 недели или ранее, то мы вернем вам предоплату в полном объеме. Если же позже, то предоплата не возвращается.</div>
+			</div>
+			<input type="submit" class="formFooter_btn" value="внести предоплату 30 € и забронировать">
+		</div>
 	</form>
+	<footer class="footer-wrap">
+		<div class="footer container">
+			<div class="footer_column">
+				<a href="" class="footer_item">Портфолио</a>
+				<a href="" class="footer_item">Цены</a>
+				<a href="" class="footer_item">Отзывы</a>
+				<a href="" class="footer_item">Подарочные сертификаты</a>
+			</div>
+			<div class="footer_column">
+				<a href="" class="footer_item">Скачать готовые фото</a>
+				<a href="" class="footer_item">Блог</a>
+				<a href="" class="footer_item">Договор оферты</a>
+				<a href="" class="footer_item">Как готовиться к фотосессии</a>
+			</div>
+			<div class="footer_contacts">
+				<div class="footer_phone">+38 902 04 54 77</div>
+				<div class="footer_social">1</div>
+				<div class="footer_social">2</div>
+				<div class="footer_social">3</div>
+				<div class="footer_social">4</div>
+			</div>
+			<div class="footer_cop">
+				<p class="footer_copRow">© Photouristic</p>
+				<p class="footer_copRow">Копирование материалов с сайта ЗАПРЕЩЕНО</p>
+			</div>
+		</div>
+	</footer>
+	<div class="menu-left">
+		<div class="menu-left_close">
+			<div class="menu-left_closeIcon"><img src="img/menu-close.png" alt=""></div>
+			<div class="menu-left_closeText">Скрыть</div>
+		</div>
+		<a href="" class="menu-left_item">Портфолио</a>
+		<a href="" class="menu-left_item">Цены</a>
+		<a href="" class="menu-left_item">Отзывы</a>
+		<a href="" class="menu-left_item">Подарочные сертификаты</a>
+		<a href="" class="menu-left_item">Блог</a>
+		<a href="" class="menu-left_item">Контакты</a>
+		<a href="" class="menu-left_btn btn menu-left_btn1">Забронировать</a>
+		<a href="" class="menu-left_btn btn">Скачать фото</a>
+	</div>
 </div>
 
 
