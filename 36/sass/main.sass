@@ -246,7 +246,7 @@ input, button
 
 .formPayment
 
-	margin-top: 5.5%
+	margin-top: 5%
 	&_content
 		margin-top: 4.5%
 		margin-left: 7%
@@ -375,8 +375,8 @@ input, button
 		background-size: 1px 5px
 		background-repeat: repeat-y
 	&_text
-		width: 25%
-		margin-right: 4%
+		width: 26%
+		margin-right: 3%
 		font: 1.1rem OpenSans, sans-serif
 		font-weight: 200
 	&_price
@@ -411,6 +411,9 @@ input, button
 		font: 1.1rem OpenSans, sans-serif
 		color: #19abdc
 		cursor: pointer
+		transition: .3s
+		&:hover
+			color: #ecbc1f
 
 .formFooter
 	display: flex
@@ -450,7 +453,7 @@ input, button
 
 .footer
 	display: flex
-	padding-top: 4.3%
+	padding: 4.7% 0 5%
 	align-items: center
 	&-wrap
 		margin-top: 1.8%
@@ -470,16 +473,29 @@ input, button
 	&_contacts
 		display: flex
 		flex-wrap: wrap
-		width: 15%
+		justify-content: center
+		width: 18%
+		margin-left: 2%
 	&_phone
+		margin-right: 3%
 		font: 1.5rem OpenSans, sans-serif
 		font-weight: 700
 	&_social
-		background: red
-		width: 20%
-		padding: 2% 0
+		width: 17%
+		padding: 8.5% 0
+		margin: 10% 4% 0%
 		border-radius: 50%
+		cursor: pointer
+		&-vk
+			background: url(../img/vk.png) no-repeat center / contain
+		&-fb
+			background: url(../img/facebook.png) no-repeat center / contain
+		&-in
+			background: url(../img/instagram.png) no-repeat center / contain
+		&-pi
+			background: url(../img/pinterest.png) no-repeat center / contain
 	&_cop
+		margin-left: 7%
 		font: 1rem OpenSans, sans-serif
 		font-weight: 200
 		line-height: 1.88rem
