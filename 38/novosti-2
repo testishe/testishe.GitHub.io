@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Новости</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai"/>
+	<id>http://xn--80awro.xn--p1ai/novosti</id>
+	<updated>2018-09-07T00:35:54+00:00</updated>
+	<author>
+		<name>хасл.рф</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://xn--80awro.xn--p1ai/novosti?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Nike Air Max 2017</title>
+		<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai/novosti/12-testovaya-novost-1"/>
+		<published>2017-10-31T04:52:32+00:00</published>
+		<updated>2017-10-31T04:52:32+00:00</updated>
+		<id>http://xn--80awro.xn--p1ai/novosti/12-testovaya-novost-1</id>
+		<author>
+			<name>Иван Иванов</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://xn--80awro.xn--p1ai/images/news/Nike-Air-Max-2017-3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Революционная&amp;nbsp;&lt;wbr /&gt;функциональность&lt;/strong&gt; кроссовок&lt;br /&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;Nike&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;выходит на новый&amp;nbsp;уровень&lt;/span&gt; в новых,&amp;nbsp;&lt;wbr /&gt;невероятно&lt;br /&gt;легких и удобных&amp;nbsp;&lt;b&gt;Nike&lt;/b&gt;&amp;nbsp;&lt;b&gt;Air&lt;/b&gt;&amp;nbsp;&lt;b&gt;Max&lt;/b&gt;&lt;b&gt;2017&lt;/b&gt;&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://xn--80awro.xn--p1ai/images/news/Nike-Air-Max-2017-3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Революционная&amp;nbsp;&lt;wbr /&gt;функциональность&lt;/strong&gt; кроссовок&lt;br /&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;Nike&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;выходит на новый&amp;nbsp;уровень&lt;/span&gt; в новых,&amp;nbsp;&lt;wbr /&gt;невероятно&lt;br /&gt;легких и удобных&amp;nbsp;&lt;b&gt;Nike&lt;/b&gt;&amp;nbsp;&lt;b&gt;Air&lt;/b&gt;&amp;nbsp;&lt;b&gt;Max&lt;/b&gt;&lt;b&gt;2017&lt;/b&gt;&lt;/p&gt;
+</content>
+		<category term="Последние новости" />
+	</entry>
+	<entry>
+		<title>Nike Lebron XV</title>
+		<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai/novosti/2-material-2"/>
+		<published>2017-08-17T06:48:07+00:00</published>
+		<updated>2017-08-17T06:48:07+00:00</updated>
+		<id>http://xn--80awro.xn--p1ai/novosti/2-material-2</id>
+		<author>
+			<name>Иван Иванов</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://xn--80awro.xn--p1ai/images/news/Nike-Lebron-XV-1.jpg&quot; /&gt;&lt;/p&gt;&lt;div&gt;Сегодня в нашем разборе нашумевшие&amp;nbsp;&lt;strong&gt;Nike Lebron XV.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;Как говорит сам Джеймс - «Nike LeBron XV мои любимые кроссовки на сегодняшний день»&lt;br /&gt;&lt;br /&gt;
+&lt;div&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;Являются ли они самыми технически совершенными&lt;br /&gt;кроссовками&amp;nbsp;в карьере Леброна?&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Давайте разберемся вместе.&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://xn--80awro.xn--p1ai/images/news/Nike-Lebron-XV-1.jpg&quot; /&gt;&lt;/p&gt;&lt;div&gt;Сегодня в нашем разборе нашумевшие&amp;nbsp;&lt;strong&gt;Nike Lebron XV.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;Как говорит сам Джеймс - «Nike LeBron XV мои любимые кроссовки на сегодняшний день»&lt;br /&gt;&lt;br /&gt;
+&lt;div&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;Являются ли они самыми технически совершенными&lt;br /&gt;кроссовками&amp;nbsp;в карьере Леброна?&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Давайте разберемся вместе.&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+		<category term="Последние новости" />
+	</entry>
+	<entry>
+		<title>Reebok GL 6000 Mid</title>
+		<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai/novosti/1-material-1"/>
+		<published>2017-08-17T06:15:54+00:00</published>
+		<updated>2017-08-17T06:15:54+00:00</updated>
+		<id>http://xn--80awro.xn--p1ai/novosti/1-material-1</id>
+		<author>
+			<name>Иван Иванов</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://xn--80awro.xn--p1ai/images/news/Reebok-GL-6000-Mid-1.jpg&quot; /&gt;&lt;/p&gt;&lt;div&gt;Высокие кроссовки от Reebok,&amp;nbsp;в основе которых лежит сочетание&lt;br /&gt;классической беговой модели&amp;nbsp;и туристических ботинок.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;strong&gt;В качестве основных материалов используется&lt;br /&gt;износостойкая ткань&amp;nbsp;&lt;/strong&gt;и натуральная&amp;nbsp;&lt;strong&gt;замша с&lt;br /&gt;водоотталкивающей пропиткой.&lt;/strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://xn--80awro.xn--p1ai/images/news/Reebok-GL-6000-Mid-1.jpg&quot; /&gt;&lt;/p&gt;&lt;div&gt;Высокие кроссовки от Reebok,&amp;nbsp;в основе которых лежит сочетание&lt;br /&gt;классической беговой модели&amp;nbsp;и туристических ботинок.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;strong&gt;В качестве основных материалов используется&lt;br /&gt;износостойкая ткань&amp;nbsp;&lt;/strong&gt;и натуральная&amp;nbsp;&lt;strong&gt;замша с&lt;br /&gt;водоотталкивающей пропиткой.&lt;/strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+</content>
+		<category term="Последние новости" />
+	</entry>
+</feed>

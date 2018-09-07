@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Отзывы покупателей</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai"/>
+	<id>http://xn--80awro.xn--p1ai/testimonials</id>
+	<updated>2018-09-07T00:36:47+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://xn--80awro.xn--p1ai/testimonials?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Арина</title>
+		<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai/testimonials#gbentry_72"/>
+		<published>2018-09-06T10:32:34+00:00</published>
+		<updated>2018-09-06T10:32:34+00:00</updated>
+		<id>http://xn--80awro.xn--p1ai/testimonials#gbentry_72</id>
+		<summary type="html">Заказывала здесь первый раз и была приятно удивлена как ценой, так и очень хорошим качеством. Буду заказывать ещё)</summary>
+		<content type="html">Заказывала здесь первый раз и была приятно удивлена как ценой, так и очень хорошим качеством. Буду заказывать ещё)</content>
+		<category term="Guestbook" />
+	</entry>
+	<entry>
+		<title>Даниил</title>
+		<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai/testimonials#gbentry_71"/>
+		<published>2018-09-06T09:50:47+00:00</published>
+		<updated>2018-09-06T09:50:47+00:00</updated>
+		<id>http://xn--80awro.xn--p1ai/testimonials#gbentry_71</id>
+		<summary type="html">Очень понравились кроссовки BALENCIAGA TRIPLE S.
+Они очень стильные, эстетичные, а самое главное удобные!
+Очень радует качество товара и цена, не отличить от оригинала!</summary>
+		<content type="html">Очень понравились кроссовки BALENCIAGA TRIPLE S.
+Они очень стильные, эстетичные, а самое главное удобные!
+Очень радует качество товара и цена, не отличить от оригинала!</content>
+		<category term="Guestbook" />
+	</entry>
+	<entry>
+		<title>Юля</title>
+		<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai/testimonials#gbentry_69"/>
+		<published>2018-09-03T09:39:04+00:00</published>
+		<updated>2018-09-03T09:39:04+00:00</updated>
+		<id>http://xn--80awro.xn--p1ai/testimonials#gbentry_69</id>
+		<summary type="html">Извините, что так долго не могла оставить отзыв =) уже давно получили кроссовочки, качество отличное, всё как на фото =)
+Муж очень доволен! Спасибо вам. Будем брать еще.</summary>
+		<content type="html">Извините, что так долго не могла оставить отзыв =) уже давно получили кроссовочки, качество отличное, всё как на фото =)
+Муж очень доволен! Спасибо вам. Будем брать еще.</content>
+		<category term="Guestbook" />
+	</entry>
+	<entry>
+		<title>Михаил</title>
+		<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai/testimonials#gbentry_68"/>
+		<published>2018-08-29T05:08:51+00:00</published>
+		<updated>2018-08-29T05:08:51+00:00</updated>
+		<id>http://xn--80awro.xn--p1ai/testimonials#gbentry_68</id>
+		<summary type="html">Хасл! Вы реально ХАСЛ! 
+Нашел ваш сайт вчера на просторах :)
+в 11 часов дня заказал кроссовки, в 14:15 мне уже в дверь постучался курьер :)
+Сервис на высоте, вежливый курьер, который позвонил за час до приезда.
+Товар очень качественный, я не могу отличить от оригинала, просто 5+
+Буду советовать вас друзьям, ну и конечно покупать у вас дальше! 
+Успехов вам! </summary>
+		<content type="html">Хасл! Вы реально ХАСЛ! 
+Нашел ваш сайт вчера на просторах :)
+в 11 часов дня заказал кроссовки, в 14:15 мне уже в дверь постучался курьер :)
+Сервис на высоте, вежливый курьер, который позвонил за час до приезда.
+Товар очень качественный, я не могу отличить от оригинала, просто 5+
+Буду советовать вас друзьям, ну и конечно покупать у вас дальше! 
+Успехов вам! </content>
+		<category term="Guestbook" />
+	</entry>
+	<entry>
+		<title>Иван</title>
+		<link rel="alternate" type="text/html" href="http://xn--80awro.xn--p1ai/testimonials#gbentry_67"/>
+		<published>2018-08-09T04:06:53+00:00</published>
+		<updated>2018-08-09T04:06:53+00:00</updated>
+		<id>http://xn--80awro.xn--p1ai/testimonials#gbentry_67</id>
+		<summary type="html">Спасиб, за Adidas Yeezy 350 Boost v2
+Качество на высоте!
+Брал арт 6925</summary>
+		<content type="html">Спасиб, за Adidas Yeezy 350 Boost v2
+Качество на высоте!
+Брал арт 6925</content>
+		<category term="Guestbook" />
+	</entry>
+</feed>

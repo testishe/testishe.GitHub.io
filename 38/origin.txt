@@ -1,0 +1,3216 @@
+Uri: http://xn--80awro.xn--p1ai/
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\index.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/sale-40_2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\sale-40_2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/slider_main/Bootls.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\slider_main\Bootls.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/slider_main/Nike-Air-Jordan-1-x-Off-White.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\slider_main\Nike-Air-Jordan-1-x-Off-White.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/slider_main/ADIDAS-PROPHERE.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\slider_main\ADIDAS-PROPHERE.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/slider_main/NIKE-AIR-MORE-UPTEMPO.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\slider_main\NIKE-AIR-MORE-UPTEMPO.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/favicon/48x48.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\favicon\48x48.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/favicon/32x32.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\favicon\32x32.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/favicon/16x16.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\favicon\16x16.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/favicon.ico
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/masterslider/style.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\masterslider\style.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/lightgallery/lightgallery.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\lightgallery\lightgallery.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/select2/select2.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\select2\select2.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/css/bootstrap.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/css/normalize.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\css\normalize.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/slick/slick.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\slick\slick.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/css/nouislider.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\css\nouislider.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/swiper/idangerous.swiper.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\swiper\idangerous.swiper.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/slick/slick-theme.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\slick\slick-theme.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/simplebar/simplebar.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\simplebar\simplebar.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/css/mCustomScrollbar.min.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\css\mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/css/style.css?22
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\css\style.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/modules/mod_djimageslider/themes/default/css/djimageslider.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\modules\mod_djimageslider\themes\default\css\djimageslider.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/js/jquery-3.2.1.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/js/TweenMax.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\js\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/js/bootstrap.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/simplebar/simplebar.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\simplebar\simplebar.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/js/mCustomScrollbar.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\js\mCustomScrollbar.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/js/isotope.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\js\isotope.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/masterslider/script.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\masterslider\script.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/lightgallery/lightgallery.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\lightgallery\lightgallery.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/media/djextensions/jquery-easing/jquery.easing.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\media\djextensions\jquery-easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/modules/mod_djimageslider/assets/js/slider.js?v=3.2.3
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\modules\mod_djimageslider\assets\js\slider.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/profile
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\profile.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/registratsiya
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\registratsiya.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/cart
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\cart.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/logo_black.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\logo_black.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/detskie
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\detskie.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/odezhda/muzhskaya
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\odezhda\muzhskaya.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/odezhda/zhenskaya
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\odezhda\zhenskaya.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/odezhda
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\odezhda.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/aksessuary
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\aksessuary.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/novinki
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\novinki.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/skidki/krossovki-skidki
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\skidki\krossovki-skidki.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/skidki/odezda-skidki
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\skidki\odezda-skidki.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/skidki
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\skidki.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/novosti
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\novosti.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-jordan-1-x-off-white-11090
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-jordan-1-x-off-white-11090.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/poisk/result?setsearchdata=1&category_id=0&search_type=any&search=Prophere
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\poisk\result.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/poisk/result?setsearchdata=1&category_id=0&search_type=any&search=Uptempo
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\poisk\result-1.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-nmd-x-pharrell-williams-11199
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-nmd-x-pharrell-williams-11199.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-max-270-10845
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-max-270-10845.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-presto-x-off-white-11027
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-presto-x-off-white-11027.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-deerupt-10996
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-deerupt-10996.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-p-o-d-11197
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-p-o-d-11197.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-yeezy-500-11042
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-yeezy-500-11042.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/balenciaga-triple-s-11018
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\balenciaga-triple-s-11018.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-vapormax-plus-11067
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-vapormax-plus-11067.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/novosti/12-testovaya-novost-1
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\novosti\12-testovaya-novost-1.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/news/Nike-Air-Max-2017-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\news\Nike-Air-Max-2017-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/novosti/2-material-2
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\novosti\2-material-2.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/news/Nike-Lebron-XV-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\news\Nike-Lebron-XV-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/novosti/1-material-1
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\novosti\1-material-1.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/news/Reebok-GL-6000-Mid-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\news\Reebok-GL-6000-Mid-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/privacy
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\privacy.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/social/tm.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\social\tm.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/social/in.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\social\in.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/social/vk.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\social\vk.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/raschet-stoimosti-dostavki
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\raschet-stoimosti-dostavki.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/obmen-i-vozvrat
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\obmen-i-vozvrat.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/oplata
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\oplata.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/garantii
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\garantii.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/svyazatsya-s-nami
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\svyazatsya-s-nami.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/testimonials
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\testimonials.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/karta-sajta
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\karta-sajta.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/aktsii
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\aktsii.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/kontakty
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\kontakty.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/skoro-v-nalichii
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\skoro-v-nalichii.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/rabota-s-outmax
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\rabota-s-outmax.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/rekvizity
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\rekvizity.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/select2/select2.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/slick/slick.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/js/nouislider.min.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\js\nouislider.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/swiper/idangerous.swiper.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\swiper\idangerous.swiper.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/js/script.min.js?22
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\js\script.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/arrow-prev.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\arrow-prev.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/arrow-next.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\arrow-next.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/arrow--select.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\arrow--select.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/vendors/slick/ajax-loader.gif
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\vendors\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/close--white.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\close--white.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/close.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\close.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/search.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\search.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/menu.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\menu.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/download.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\download.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/sdek.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\sdek.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/post.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\post.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/cart.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\cart.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/remove.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\remove.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/remove--white.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\remove--white.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/arrow-white.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\arrow-white.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/filter--half.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\filter--half.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/filter--full.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\filter--full.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/arrow--down.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\arrow--down.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/user.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\user.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/vk.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\vk.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/ok.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\ok.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/star--gray.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\star--gray.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/star--green.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\star--green.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/eye.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\eye.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/vk--black.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\vk--black.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/ok--black.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\ok--black.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/minus.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\minus.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/minus--white.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\minus--white.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/plus.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\plus.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/plus--white.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\plus--white.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/auth-bg.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\auth-bg.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/drop-opt.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\drop-opt.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/pay.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\pay.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/modules/mod_djimageslider/themes/default/images/loader.gif
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\modules\mod_djimageslider\themes\default\images\loader.gif
+Content Type: image/gif
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/js/addons/jshopping_social_login/script.js
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\js\addons\jshopping_social_login\script.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/vosstanovlenie-parolya
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\vosstanovlenie-parolya.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/skidki/products/label?label_id=2,5
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\skidki\products\label.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/news_top.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\news_top.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/novosti?format=feed&type=rss
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\novosti-1
+Content Type: application/rss+xml
+
+Uri: http://xn--80awro.xn--p1ai/novosti?format=feed&type=atom
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\novosti-2
+Content Type: application/atom+xml
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11090/nike-air-jordan-1-x-off-white-11090-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11090\nike-air-jordan-1-x-off-white-11090-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11090/nike-air-jordan-1-x-off-white-11090-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11090\nike-air-jordan-1-x-off-white-11090-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11090/nike-air-jordan-1-x-off-white-11090-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11090\nike-air-jordan-1-x-off-white-11090-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11090/nike-air-jordan-1-x-off-white-11090-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11090\nike-air-jordan-1-x-off-white-11090-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11090/nike-air-jordan-1-x-off-white-11090-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11090\nike-air-jordan-1-x-off-white-11090-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11090/nike-air-jordan-1-x-off-white-11090-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11090\nike-air-jordan-1-x-off-white-11090-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//1514/nike-air-jordan-1-1514-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1514\nike-air-jordan-1-1514-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//1515/nike-air-jordan-1-1515-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1515\nike-air-jordan-1-1515-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//1874/nike-air-jordan-1-1874-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1874\nike-air-jordan-1-1874-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//2155/nike-air-jordan-1-2155-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2155\nike-air-jordan-1-2155-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//2926/nike-air-jordan-1-2926-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2926\nike-air-jordan-1-2926-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie?manufacturer_id=46
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie-1.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/nike-manufacturer
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\nike-manufacturer.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/FootSizeM.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\FootSizeM.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-jordan-1-1514
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-jordan-1-1514.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-jordan-1-1515
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-jordan-1-1515.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-jordan-1-1874
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-jordan-1-1874.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-jordan-1-2155
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-jordan-1-2155.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie/nike-air-jordan-1-2926
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie\nike-air-jordan-1-2926.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11199/adidas-nmd-x-pharrell-williams-11199-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11199\adidas-nmd-x-pharrell-williams-11199-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11199/adidas-nmd-x-pharrell-williams-11199-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11199\adidas-nmd-x-pharrell-williams-11199-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11199/adidas-nmd-x-pharrell-williams-11199-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11199\adidas-nmd-x-pharrell-williams-11199-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11199/adidas-nmd-x-pharrell-williams-11199-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11199\adidas-nmd-x-pharrell-williams-11199-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11199/adidas-nmd-x-pharrell-williams-11199-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11199\adidas-nmd-x-pharrell-williams-11199-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//5959/adidas-nmd-x-pharrell-williams-5959-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5959\adidas-nmd-x-pharrell-williams-5959-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//6433/adidas-nmd-x-pharrell-williams-6433-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\6433\adidas-nmd-x-pharrell-williams-6433-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//7957/adidas-nmd-x-pharrell-williams-7957-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7957\adidas-nmd-x-pharrell-williams-7957-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10171/adidas-nmd-x-pharrell-williams-10171-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10171\adidas-nmd-x-pharrell-williams-10171-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10751/adidas-nmd-x-pharrell-williams-10751-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10751\adidas-nmd-x-pharrell-williams-10751-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie?manufacturer_id=2
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie-2.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/adidas
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\adidas.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-nmd-x-pharrell-williams-5959
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-nmd-x-pharrell-williams-5959.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-nmd-x-pharrell-williams-6433
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-nmd-x-pharrell-williams-6433.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-nmd-x-pharrell-williams-7957
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-nmd-x-pharrell-williams-7957.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-nmd-x-pharrell-williams-10171
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-nmd-x-pharrell-williams-10171.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-nmd-x-pharrell-williams-10751
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-nmd-x-pharrell-williams-10751.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10845/nike-air-max-270-10845-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10845\nike-air-max-270-10845-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10845/nike-air-max-270-10845-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10845\nike-air-max-270-10845-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10845/nike-air-max-270-10845-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10845\nike-air-max-270-10845-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10845/nike-air-max-270-10845-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10845\nike-air-max-270-10845-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10845/nike-air-max-270-10845-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10845\nike-air-max-270-10845-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//9897/nike-air-max-270-9897-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9897\nike-air-max-270-9897-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10161/nike-air-max-270-10161-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10161\nike-air-max-270-10161-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10162/nike-air-max-270-flyknit-10162-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10162\nike-air-max-270-flyknit-10162-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10164/nike-air-max-270-10164-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10164\nike-air-max-270-10164-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10165/nike-air-max-270-10165-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10165\nike-air-max-270-10165-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-max-270-9897
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-max-270-9897.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-max-270-10161
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-max-270-10161.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-max-270-flyknit-10162
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-max-270-flyknit-10162.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-max-270-10164
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-max-270-10164.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-max-270-10165
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-max-270-10165.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11027/nike-air-presto-x-off-white-11027-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11027\nike-air-presto-x-off-white-11027-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11027/nike-air-presto-x-off-white-11027-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11027\nike-air-presto-x-off-white-11027-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11027/nike-air-presto-x-off-white-11027-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11027\nike-air-presto-x-off-white-11027-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11027/nike-air-presto-x-off-white-11027-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11027\nike-air-presto-x-off-white-11027-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11027/nike-air-presto-x-off-white-11027-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11027\nike-air-presto-x-off-white-11027-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11027/nike-air-presto-x-off-white-11027-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11027\nike-air-presto-x-off-white-11027-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//435/nike-air-presto-435-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\435\nike-air-presto-435-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//437/nike-air-presto-437-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//1458/nike-air-presto-1458-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1458\nike-air-presto-1458-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//3316/nike-air-presto-3316-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\3316\nike-air-presto-3316-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//4102/nike-air-presto-4102-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4102\nike-air-presto-4102-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-presto-435
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-presto-435.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-presto-437
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-presto-437.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-presto-1458
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-presto-1458.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-presto-3316
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-presto-3316.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-presto-4102
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-presto-4102.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10996/adidas-deerupt-10996-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10996\adidas-deerupt-10996-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10996/adidas-deerupt-10996-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10996\adidas-deerupt-10996-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10996/adidas-deerupt-10996-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10996\adidas-deerupt-10996-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10996/adidas-deerupt-10996-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10996\adidas-deerupt-10996-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10996/adidas-deerupt-10996-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10996\adidas-deerupt-10996-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10732/adidas-deerupt-10732-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10732\adidas-deerupt-10732-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10779/adidas-deerupt-10779-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10779\adidas-deerupt-10779-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10998/adidas-deerupt-10998-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10998\adidas-deerupt-10998-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11050/adidas-deerupt-11050-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11050\adidas-deerupt-11050-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11051/adidas-deerupt-11051-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11051\adidas-deerupt-11051-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-deerupt-10732
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-deerupt-10732.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-deerupt-10779
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-deerupt-10779.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie/adidas-deerupt-10998
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie\adidas-deerupt-10998.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-deerupt-11050
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-deerupt-11050.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-deerupt-11051
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-deerupt-11051.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11197/adidas-p-o-d-11197-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11197\adidas-p-o-d-11197-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11197/adidas-p-o-d-11197-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11197\adidas-p-o-d-11197-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11197/adidas-p-o-d-11197-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11197\adidas-p-o-d-11197-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11197/adidas-p-o-d-11197-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11197\adidas-p-o-d-11197-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11197/adidas-p-o-d-11197-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11197\adidas-p-o-d-11197-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11195/adidas-p-o-d-11195-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11195\adidas-p-o-d-11195-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11574/adidas-p-o-d-11574-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11574\adidas-p-o-d-11574-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//525/adidas-zx-750-525-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\525\adidas-zx-750-525-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//530/adidas-zx-750-530-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\530\adidas-zx-750-530-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//537/adidas-zx-750-537-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\537\adidas-zx-750-537-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-p-o-d-11195
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-p-o-d-11195.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-p-o-d-11574
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-p-o-d-11574.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-zx-750-525
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-zx-750-525.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-zx-750-530
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-zx-750-530.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-zx-750-537
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-zx-750-537.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11042/adidas-yeezy-500-11042-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11042\adidas-yeezy-500-11042-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11042/adidas-yeezy-500-11042-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11042\adidas-yeezy-500-11042-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11042/adidas-yeezy-500-11042-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11042\adidas-yeezy-500-11042-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11042/adidas-yeezy-500-11042-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11042\adidas-yeezy-500-11042-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11042/adidas-yeezy-500-11042-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11042\adidas-yeezy-500-11042-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10641/adidas-yeezy-500-10641-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10641\adidas-yeezy-500-10641-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10642/adidas-yeezy-500-10642-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10642\adidas-yeezy-500-10642-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-yeezy-500-10641
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-yeezy-500-10641.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-yeezy-500-10642
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-yeezy-500-10642.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11018/balenciaga-triple-s-11018-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11018\balenciaga-triple-s-11018-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11018/balenciaga-triple-s-11018-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11018\balenciaga-triple-s-11018-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11018/balenciaga-triple-s-11018-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11018\balenciaga-triple-s-11018-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11018/balenciaga-triple-s-11018-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11018\balenciaga-triple-s-11018-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11018/balenciaga-triple-s-11018-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11018\balenciaga-triple-s-11018-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//9725/balenciaga-triple-s-9725-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9725\balenciaga-triple-s-9725-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//9730/balenciaga-triple-s-9730-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9730\balenciaga-triple-s-9730-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10193/balenciaga-triple-s-10193-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10193\balenciaga-triple-s-10193-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10455/balenciaga-triple-s-10455-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10455\balenciaga-triple-s-10455-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10463/balenciaga-triple-s-10463-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10463\balenciaga-triple-s-10463-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie?manufacturer_id=99
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie-3.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/balenciaga
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\balenciaga.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/balenciaga-triple-s-9725
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\balenciaga-triple-s-9725.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie/balenciaga-triple-s-9730
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie\balenciaga-triple-s-9730.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/balenciaga-triple-s-10193
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\balenciaga-triple-s-10193.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie/balenciaga-triple-s-10455
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie\balenciaga-triple-s-10455.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie/balenciaga-triple-s-10463
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie\balenciaga-triple-s-10463.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11067/nike-air-vapormax-plus-11067-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11067\nike-air-vapormax-plus-11067-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11067/nike-air-vapormax-plus-11067-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11067\nike-air-vapormax-plus-11067-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11067/nike-air-vapormax-plus-11067-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11067\nike-air-vapormax-plus-11067-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11067/nike-air-vapormax-plus-11067-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11067\nike-air-vapormax-plus-11067-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11067/nike-air-vapormax-plus-11067-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11067\nike-air-vapormax-plus-11067-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//5940/nike-air-vapormax-5940-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5940\nike-air-vapormax-5940-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//5941/nike-air-vapormax-5941-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5941\nike-air-vapormax-5941-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//5942/nike-air-vapormax-5942-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5942\nike-air-vapormax-5942-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//5943/nike-air-vapormax-5943-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5943\nike-air-vapormax-5943-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//7842/nike-air-vapormax-7842-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7842\nike-air-vapormax-7842-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-vapormax-5940
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-vapormax-5940.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-vapormax-5941
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-vapormax-5941.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-vapormax-5942
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-vapormax-5942.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-vapormax-5943
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-vapormax-5943.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-vapormax-7842
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-vapormax-7842.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/index.php
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\index-1.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/top-reviews.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\top-reviews.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/5f735380-b704-448b-9f34-202bc9e840a7_1536240754.jpeg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\5f735380-b704-448b-9f34-202bc9e840a7_1536240754.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/b9540982-2096-4a02-b35c-fa0b7c55d987_1536240754.jpeg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\b9540982-2096-4a02-b35c-fa0b7c55d987_1536240754.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/647e2067-9bd0-4476-acb8-ef65fdc27bc0_1536240754.jpeg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\647e2067-9bd0-4476-acb8-ef65fdc27bc0_1536240754.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/i6yp8dhlyg0_1536238247.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\i6yp8dhlyg0_1536238247.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/wraubps0usm_1536238247.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\wraubps0usm_1536238247.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/muon6hayhui_1536238247.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\muon6hayhui_1536238247.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/1_1535978344.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\1_1535978344.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/2_1535978344.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\2_1535978344.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/3_1535978344.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\3_1535978344.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/_1535530131.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\_1535530131.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/16310740085a8cc0546f042-original_1533798413.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\16310740085a8cc0546f042-original_1533798413.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/wgeewmx_1533798413.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\wgeewmx_1533798413.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/testimonials/adidas-yeezy-boost-350-v2-1_1533798413.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\testimonials\adidas-yeezy-boost-350-v2-1_1533798413.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/testimonials?format=feed&type=rss
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\testimonials
+Content Type: application/rss+xml
+
+Uri: http://xn--80awro.xn--p1ai/testimonials?format=feed&type=atom
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\testimonials-1
+Content Type: application/atom+xml
+
+Uri: http://xn--80awro.xn--p1ai/components/com_easybookreloaded/css/easybookreloaded.css
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_easybookreloaded\css\easybookreloaded.css
+Content Type: text/css
+
+Uri: http://xn--80awro.xn--p1ai/testimonials/entry/add
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\testimonials (1)\entry\add.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/addict
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\addict.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/armani
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\armani.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Armour
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Armour.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/asics
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\asics.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/bogner
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\bogner.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Bottega Veneta
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Bottega Veneta.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Burberry
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Burberry.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/carhartt
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\carhartt.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Cartier
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Cartier.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Casio
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Casio.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/CE
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\CE.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Chanel
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Chanel.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Colmar
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Colmar.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/columbia
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\columbia.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Danny way
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Danny way.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/dc
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\dc.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Dior
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Dior.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Dolce & Gabbana
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Dolce & Gabbana.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Dsquared
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Dsquared.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/ecco
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\ecco.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/emporio-armani
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\emporio-armani.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/FENTY TRAINER
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\FENTY TRAINER.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Fred Perry
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Fred Perry.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Givenchy
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Givenchy.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Gucci
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Gucci.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Hermes
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Hermes.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Hublot geneve
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Hublot geneve.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/iPhone
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\iPhone.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/isabel-marant
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\isabel-marant.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Italian Style
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Italian Style.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Jack & Jones
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Jack & Jones.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Jolleya
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Jolleya.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Kembergs bik
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Kembergs bik.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Kenzo
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Kenzo.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/lacoste
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\lacoste.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Louis Vuitton
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Louis Vuitton.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Many fo
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Many fo.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/McQueen
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\McQueen.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/MenBenSe
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\MenBenSe.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Moncler
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Moncler.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Montblanc
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Montblanc.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Nedece
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Nedece.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/new-balance
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\new-balance.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/NHIZ
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\NHIZ.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Omega
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Omega.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/philipp-plein
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\philipp-plein.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/PILOT
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\PILOT.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/porsche-design
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\porsche-design.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/prada
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\prada.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/puma
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\puma.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Ray Ban
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Ray Ban.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/reebok
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\reebok.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/remain
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\remain.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Salomon
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Salomon.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Salvatore Ferragamo
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Salvatore Ferragamo.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Samsung
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Samsung.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Saucony
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Saucony.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Stefano Ricci
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Stefano Ricci.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Sub ciety
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Sub ciety.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/supreme
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\supreme.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/the-north-face
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\the-north-face.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Thom Browne
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Thom Browne.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/timberland
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\timberland.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Tommy Helfager
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Tommy Helfager.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Tunuo
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Tunuo.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/under-armour
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\under-armour.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/vans
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\vans.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Vivo
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Vivo.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Ботильоны
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Ботильоны.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Китай
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Китай.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Jeep
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Jeep.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Poloxh
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Poloxh.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/aape
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\aape.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/champion
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\champion.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/palace
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\palace.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/stussy
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\stussy.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/The North Face x Supreme
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\The North Face x Supreme.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/thrasher
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\thrasher.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Adidas x Raf Simons
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Adidas x Raf Simons.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Monster Beats
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Monster Beats.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/azimuth
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\azimuth.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Kangertech
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Kangertech.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Patek Phillipp
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Patek Phillipp.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/TISSOT
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\TISSOT.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/BWS
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\BWS.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/forward
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\forward.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/ХК Сибирь
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\ХК Сибирь.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/huf
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\huf.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Polo
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Polo.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Alexandro
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Alexandro.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/tiger-force
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\tiger-force.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/vivacana
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\vivacana.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Bvlgari
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Bvlgari.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Everlast
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Everlast.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/anti-social-social-club
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\anti-social-social-club.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Pandora
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Pandora.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Matrix
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Matrix.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Converse
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Converse.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Versace
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Versace.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Celine
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Celine.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Kaidi
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Kaidi.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/vlone
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\vlone.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/gosha-rubchinskij
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\gosha-rubchinskij.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/rassvet
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\rassvet.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/IWC Schaffhausen
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\IWC Schaffhausen.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Michael Kors
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Michael Kors.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Mido
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Mido.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/hilfiger
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\hilfiger.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/Skechers
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\Skechers.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/113
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\113.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/114
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\114.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/115
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\115.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/116
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\116.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/117
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\117.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/118
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\118.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/119
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\119.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/120
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\120.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/121
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\121.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/122
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\122.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/123
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\123.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/124
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\124.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/125
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\125.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/126
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\126.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/127
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\127.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/128
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\128.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/129
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\129.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/130
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\130.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/131
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\131.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/132
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\132.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/133
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\133.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/134
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\134.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/135
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\135.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/136
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\136.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/137
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\137.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/138
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\138.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/139
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\139.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/140
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\140.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/141
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\141.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/142
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\142.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/143
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\143.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/144
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\144.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/145
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\145.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/146
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\146.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/147
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\147.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/148
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\148.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/149
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\149.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/150
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\150.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/151
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\151.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/152
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\152.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/153
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\153.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/154
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\154.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/155
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\155.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/156
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\156.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/157
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\157.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/158
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\158.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/159
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\159.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/160
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\160.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/161
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\161.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/162
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\162.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/163
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\163.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/164
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\164.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/165
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\165.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/166
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\166.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/167
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\167.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/168
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\168.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/169
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\169.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/170
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\170.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/171
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\171.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/172
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\172.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/173
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\173.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/proizvoditeli/manufacturer/view/174
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\proizvoditeli\manufacturer\view\174.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Aape-logo.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Aape-logo.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/addict_2.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\addict_2.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/adidas.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\adidas.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/anti_social_3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\anti_social_3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/armani_2.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\armani_2.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/asics1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\asics1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/azimuth_1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\azimuth_1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/balenciaga_3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\balenciaga_3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Bogner-Logo.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Bogner-Logo.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/carhartt_logo.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\carhartt_logo.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/champion.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\champion.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/columbia.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\columbia.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/dc_3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\dc_3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/ECCO_Logo.svg.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\ECCO_Logo.svg.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/emporio-armani-logo-vector.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\emporio-armani-logo-vector.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Layer_8_copy.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Layer_8_copy.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/hilfiger.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\hilfiger.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/HUF_logo_image_picture.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\HUF_logo_image_picture.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/isabel_marant_3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\isabel_marant_3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Lacoste_logo.svg.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Lacoste_logo.svg.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/New_Balance_logo.svg.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\New_Balance_logo.svg.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/nike_2.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\nike_2.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/palace_1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\palace_1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/philipp_plein_3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\philipp_plein_3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/porshe_3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\porshe_3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Prada_logo.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Prada_logo.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Puma-Logo-PNG.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Puma-Logo-PNG.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/reebok_1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\reebok_1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/R.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\R.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/stussy_3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\stussy_3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/supreme_1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\supreme_1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/North-Face-Logo.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\North-Face-Logo.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/thrasher_1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\thrasher_1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Layer_12.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Layer_12.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Timberland-vector-logo.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Timberland-vector-logo.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/under_armour_3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\under_armour_3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/vans_1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\vans_1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/vivacana_1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\vivacana_1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Layer_14.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Layer_14.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/_____________________________.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\_____________________________.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_manufs/Layer_15.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_manufs\Layer_15.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/aktsii?format=feed&type=rss
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\aktsii
+Content Type: application/rss+xml
+
+Uri: http://xn--80awro.xn--p1ai/aktsii?format=feed&type=atom
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\aktsii-1
+Content Type: application/atom+xml
+
+Uri: http://xn--80awro.xn--p1ai/images/action/3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\action\3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/action/4.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\action\4.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/images/action/2.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\action\2.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/index.php?option=com_jshopping&view=products&task=label&label_id=5
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\index-2.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/aktsii?start=5
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\aktsii-1.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/soon-layer.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\soon-layer.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/profit1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\profit1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/profit2.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\profit2.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/profit3.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\profit3.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/profit4.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\profit4.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/profit5.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\profit5.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/icon/profit6.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\icon\profit6.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/logo-business.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\logo-business.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/rabota-s-outmax/dropishipping
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\rabota-s-outmax\dropishipping.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/rabota-s-outmax/optovye-zakupki
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\rabota-s-outmax\optovye-zakupki.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/managers/0.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\managers\0.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/cart/view
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\cart\view.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1514/nike-air-jordan-1-1514-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1514\nike-air-jordan-1-1514-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1514/nike-air-jordan-1-1514-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1514\nike-air-jordan-1-1514-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1514/nike-air-jordan-1-1514-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1514\nike-air-jordan-1-1514-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1514/nike-air-jordan-1-1514-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1514\nike-air-jordan-1-1514-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1514/nike-air-jordan-1-1514-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1514\nike-air-jordan-1-1514-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//4150/nike-air-jordan-1-4150-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4150\nike-air-jordan-1-4150-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-jordan-1-4150
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-jordan-1-4150.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1515/nike-air-jordan-1-1515-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1515\nike-air-jordan-1-1515-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1515/nike-air-jordan-1-1515-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1515\nike-air-jordan-1-1515-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1515/nike-air-jordan-1-1515-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1515\nike-air-jordan-1-1515-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1515/nike-air-jordan-1-1515-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1515\nike-air-jordan-1-1515-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1515/nike-air-jordan-1-1515-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1515\nike-air-jordan-1-1515-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1874/nike-air-jordan-1-1874-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1874\nike-air-jordan-1-1874-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1874/nike-air-jordan-1-1874-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1874\nike-air-jordan-1-1874-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1874/nike-air-jordan-1-1874-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1874\nike-air-jordan-1-1874-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1874/nike-air-jordan-1-1874-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1874\nike-air-jordan-1-1874-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1874/nike-air-jordan-1-1874-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1874\nike-air-jordan-1-1874-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2155/nike-air-jordan-1-2155-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2155\nike-air-jordan-1-2155-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2155/nike-air-jordan-1-2155-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2155\nike-air-jordan-1-2155-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2155/nike-air-jordan-1-2155-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2155\nike-air-jordan-1-2155-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2155/nike-air-jordan-1-2155-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2155\nike-air-jordan-1-2155-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2155/nike-air-jordan-1-2155-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2155\nike-air-jordan-1-2155-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2926/nike-air-jordan-1-2926-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2926\nike-air-jordan-1-2926-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2926/nike-air-jordan-1-2926-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2926\nike-air-jordan-1-2926-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2926/nike-air-jordan-1-2926-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2926\nike-air-jordan-1-2926-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2926/nike-air-jordan-1-2926-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2926\nike-air-jordan-1-2926-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/2926/nike-air-jordan-1-2926-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\2926\nike-air-jordan-1-2926-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie?manufacturer_id=46
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie-1.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/images/FootSizeW.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\FootSizeW.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5959/adidas-nmd-x-pharrell-williams-5959-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5959\adidas-nmd-x-pharrell-williams-5959-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5959/adidas-nmd-x-pharrell-williams-5959-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5959\adidas-nmd-x-pharrell-williams-5959-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5959/adidas-nmd-x-pharrell-williams-5959-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5959\adidas-nmd-x-pharrell-williams-5959-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5959/adidas-nmd-x-pharrell-williams-5959-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5959\adidas-nmd-x-pharrell-williams-5959-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5959/adidas-nmd-x-pharrell-williams-5959-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5959\adidas-nmd-x-pharrell-williams-5959-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5959/adidas-nmd-x-pharrell-williams-5959-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5959\adidas-nmd-x-pharrell-williams-5959-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10983/adidas-nmd-x-pharrell-williams-10983-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10983\adidas-nmd-x-pharrell-williams-10983-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-nmd-x-pharrell-williams-10983
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-nmd-x-pharrell-williams-10983.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/6433/adidas-nmd-x-pharrell-williams-6433-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\6433\adidas-nmd-x-pharrell-williams-6433-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/6433/adidas-nmd-x-pharrell-williams-6433-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\6433\adidas-nmd-x-pharrell-williams-6433-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/6433/adidas-nmd-x-pharrell-williams-6433-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\6433\adidas-nmd-x-pharrell-williams-6433-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/6433/adidas-nmd-x-pharrell-williams-6433-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\6433\adidas-nmd-x-pharrell-williams-6433-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/6433/adidas-nmd-x-pharrell-williams-6433-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\6433\adidas-nmd-x-pharrell-williams-6433-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7957/adidas-nmd-x-pharrell-williams-7957-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7957\adidas-nmd-x-pharrell-williams-7957-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7957/adidas-nmd-x-pharrell-williams-7957-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7957\adidas-nmd-x-pharrell-williams-7957-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7957/adidas-nmd-x-pharrell-williams-7957-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7957\adidas-nmd-x-pharrell-williams-7957-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7957/adidas-nmd-x-pharrell-williams-7957-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7957\adidas-nmd-x-pharrell-williams-7957-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7957/adidas-nmd-x-pharrell-williams-7957-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7957\adidas-nmd-x-pharrell-williams-7957-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10171/adidas-nmd-x-pharrell-williams-10171-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10171\adidas-nmd-x-pharrell-williams-10171-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10171/adidas-nmd-x-pharrell-williams-10171-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10171\adidas-nmd-x-pharrell-williams-10171-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10171/adidas-nmd-x-pharrell-williams-10171-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10171\adidas-nmd-x-pharrell-williams-10171-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10171/adidas-nmd-x-pharrell-williams-10171-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10171\adidas-nmd-x-pharrell-williams-10171-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10171/adidas-nmd-x-pharrell-williams-10171-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10171\adidas-nmd-x-pharrell-williams-10171-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10751/adidas-nmd-x-pharrell-williams-10751-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10751\adidas-nmd-x-pharrell-williams-10751-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10751/adidas-nmd-x-pharrell-williams-10751-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10751\adidas-nmd-x-pharrell-williams-10751-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10751/adidas-nmd-x-pharrell-williams-10751-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10751\adidas-nmd-x-pharrell-williams-10751-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10751/adidas-nmd-x-pharrell-williams-10751-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10751\adidas-nmd-x-pharrell-williams-10751-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10751/adidas-nmd-x-pharrell-williams-10751-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10751\adidas-nmd-x-pharrell-williams-10751-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9897/nike-air-max-270-9897-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9897\nike-air-max-270-9897-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9897/nike-air-max-270-9897-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9897\nike-air-max-270-9897-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9897/nike-air-max-270-9897-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9897\nike-air-max-270-9897-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9897/nike-air-max-270-9897-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9897\nike-air-max-270-9897-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9897/nike-air-max-270-9897-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9897\nike-air-max-270-9897-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9897/nike-air-max-270-9897-7.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9897\nike-air-max-270-9897-7.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9897/nike-air-max-270-9897-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9897\nike-air-max-270-9897-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10166/nike-air-max-270-10166-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10166\nike-air-max-270-10166-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-max-270-10166
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-max-270-10166.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10161/nike-air-max-270-10161-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10161\nike-air-max-270-10161-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10161/nike-air-max-270-10161-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10161\nike-air-max-270-10161-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10161/nike-air-max-270-10161-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10161\nike-air-max-270-10161-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10161/nike-air-max-270-10161-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10161\nike-air-max-270-10161-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10161/nike-air-max-270-10161-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10161\nike-air-max-270-10161-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10161/nike-air-max-270-10161-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10161\nike-air-max-270-10161-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10162/nike-air-max-270-flyknit-10162-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10162\nike-air-max-270-flyknit-10162-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10162/nike-air-max-270-flyknit-10162-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10162\nike-air-max-270-flyknit-10162-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10162/nike-air-max-270-flyknit-10162-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10162\nike-air-max-270-flyknit-10162-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10162/nike-air-max-270-flyknit-10162-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10162\nike-air-max-270-flyknit-10162-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10162/nike-air-max-270-flyknit-10162-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10162\nike-air-max-270-flyknit-10162-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10164/nike-air-max-270-10164-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10164\nike-air-max-270-10164-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10164/nike-air-max-270-10164-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10164\nike-air-max-270-10164-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10164/nike-air-max-270-10164-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10164\nike-air-max-270-10164-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10164/nike-air-max-270-10164-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10164\nike-air-max-270-10164-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10164/nike-air-max-270-10164-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10164\nike-air-max-270-10164-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10165/nike-air-max-270-10165-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10165\nike-air-max-270-10165-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10165/nike-air-max-270-10165-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10165\nike-air-max-270-10165-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10165/nike-air-max-270-10165-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10165\nike-air-max-270-10165-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10165/nike-air-max-270-10165-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10165\nike-air-max-270-10165-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10165/nike-air-max-270-10165-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10165\nike-air-max-270-10165-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/435/nike-air-presto-435-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\435\nike-air-presto-435-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/435/nike-air-presto-435-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\435\nike-air-presto-435-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/435/nike-air-presto-435-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\435\nike-air-presto-435-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/435/nike-air-presto-435-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\435\nike-air-presto-435-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/435/nike-air-presto-435-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\435\nike-air-presto-435-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//4182/nike-air-presto-4182-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4182\nike-air-presto-4182-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-presto-4182
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-presto-4182.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/437/nike-air-presto-437-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/437/nike-air-presto-437-7.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-7.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/437/nike-air-presto-437-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/437/nike-air-presto-437-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/437/nike-air-presto-437-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/437/nike-air-presto-437-8.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-8.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/437/nike-air-presto-437-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/437/nike-air-presto-437-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\437\nike-air-presto-437-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/1458/nike-air-presto-1458-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\1458\nike-air-presto-1458-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/3316/nike-air-presto-3316-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\3316\nike-air-presto-3316-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/3316/nike-air-presto-3316-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\3316\nike-air-presto-3316-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/3316/nike-air-presto-3316-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\3316\nike-air-presto-3316-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/3316/nike-air-presto-3316-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\3316\nike-air-presto-3316-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/3316/nike-air-presto-3316-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\3316\nike-air-presto-3316-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4102/nike-air-presto-4102-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4102\nike-air-presto-4102-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4102/nike-air-presto-4102-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4102\nike-air-presto-4102-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4102/nike-air-presto-4102-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4102\nike-air-presto-4102-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4102/nike-air-presto-4102-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4102\nike-air-presto-4102-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4102/nike-air-presto-4102-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4102\nike-air-presto-4102-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10732/adidas-deerupt-10732-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10732\adidas-deerupt-10732-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10732/adidas-deerupt-10732-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10732\adidas-deerupt-10732-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10732/adidas-deerupt-10732-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10732\adidas-deerupt-10732-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10732/adidas-deerupt-10732-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10732\adidas-deerupt-10732-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10732/adidas-deerupt-10732-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10732\adidas-deerupt-10732-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10996/adidas-deerupt-10996-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10996\adidas-deerupt-10996-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10779/adidas-deerupt-10779-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10779\adidas-deerupt-10779-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10779/adidas-deerupt-10779-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10779\adidas-deerupt-10779-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10779/adidas-deerupt-10779-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10779\adidas-deerupt-10779-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10779/adidas-deerupt-10779-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10779\adidas-deerupt-10779-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10779/adidas-deerupt-10779-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10779\adidas-deerupt-10779-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10998/adidas-deerupt-10998-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10998\adidas-deerupt-10998-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10998/adidas-deerupt-10998-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10998\adidas-deerupt-10998-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10998/adidas-deerupt-10998-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10998\adidas-deerupt-10998-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10998/adidas-deerupt-10998-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10998\adidas-deerupt-10998-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10998/adidas-deerupt-10998-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10998\adidas-deerupt-10998-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie?manufacturer_id=2
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie-2.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11050/adidas-deerupt-11050-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11050\adidas-deerupt-11050-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11050/adidas-deerupt-11050-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11050\adidas-deerupt-11050-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11050/adidas-deerupt-11050-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11050\adidas-deerupt-11050-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11050/adidas-deerupt-11050-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11050\adidas-deerupt-11050-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11050/adidas-deerupt-11050-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11050\adidas-deerupt-11050-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11051/adidas-deerupt-11051-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11051\adidas-deerupt-11051-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11051/adidas-deerupt-11051-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11051\adidas-deerupt-11051-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11051/adidas-deerupt-11051-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11051\adidas-deerupt-11051-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11051/adidas-deerupt-11051-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11051\adidas-deerupt-11051-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11051/adidas-deerupt-11051-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11051\adidas-deerupt-11051-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11195/adidas-p-o-d-11195-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11195\adidas-p-o-d-11195-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11195/adidas-p-o-d-11195-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11195\adidas-p-o-d-11195-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11195/adidas-p-o-d-11195-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11195\adidas-p-o-d-11195-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11195/adidas-p-o-d-11195-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11195\adidas-p-o-d-11195-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11195/adidas-p-o-d-11195-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11195\adidas-p-o-d-11195-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11197/adidas-p-o-d-11197-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11197\adidas-p-o-d-11197-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/11574/adidas-p-o-d-11574-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11574\adidas-p-o-d-11574-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/525/adidas-zx-750-525-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\525\adidas-zx-750-525-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//539/adidas-zx-750-539-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\539\adidas-zx-750-539-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//543/adidas-zx-750-543-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\543\adidas-zx-750-543-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//548/adidas-zx-750-548-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\548\adidas-zx-750-548-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-zx-750-539
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-zx-750-539.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-zx-750-543
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-zx-750-543.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/adidas-zx-750-548
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\adidas-zx-750-548.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/530/adidas-zx-750-530-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\530\adidas-zx-750-530-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/530/adidas-zx-750-530-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\530\adidas-zx-750-530-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/530/adidas-zx-750-530-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\530\adidas-zx-750-530-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/530/adidas-zx-750-530-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\530\adidas-zx-750-530-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/530/adidas-zx-750-530-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\530\adidas-zx-750-530-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/537/adidas-zx-750-537-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\537\adidas-zx-750-537-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/537/adidas-zx-750-537-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\537\adidas-zx-750-537-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/537/adidas-zx-750-537-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\537\adidas-zx-750-537-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/537/adidas-zx-750-537-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\537\adidas-zx-750-537-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/537/adidas-zx-750-537-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\537\adidas-zx-750-537-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10641/adidas-yeezy-500-10641-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10641\adidas-yeezy-500-10641-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10641/adidas-yeezy-500-10641-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10641\adidas-yeezy-500-10641-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10641/adidas-yeezy-500-10641-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10641\adidas-yeezy-500-10641-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10641/adidas-yeezy-500-10641-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10641\adidas-yeezy-500-10641-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10641/adidas-yeezy-500-10641-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10641\adidas-yeezy-500-10641-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11042/adidas-yeezy-500-11042-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11042\adidas-yeezy-500-11042-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10642/adidas-yeezy-500-10642-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10642\adidas-yeezy-500-10642-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10642/adidas-yeezy-500-10642-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10642\adidas-yeezy-500-10642-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10642/adidas-yeezy-500-10642-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10642\adidas-yeezy-500-10642-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10642/adidas-yeezy-500-10642-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10642\adidas-yeezy-500-10642-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10642/adidas-yeezy-500-10642-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10642\adidas-yeezy-500-10642-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9725/balenciaga-triple-s-9725-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9725\balenciaga-triple-s-9725-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9725/balenciaga-triple-s-9725-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9725\balenciaga-triple-s-9725-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9725/balenciaga-triple-s-9725-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9725\balenciaga-triple-s-9725-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9725/balenciaga-triple-s-9725-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9725\balenciaga-triple-s-9725-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9725/balenciaga-triple-s-9725-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9725\balenciaga-triple-s-9725-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9725/balenciaga-triple-s-9725-7.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9725\balenciaga-triple-s-9725-7.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9725/balenciaga-triple-s-9725-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9725\balenciaga-triple-s-9725-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10464/balenciaga-triple-s-10464-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10464\balenciaga-triple-s-10464-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie/balenciaga-triple-s-10464
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie\balenciaga-triple-s-10464.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9730/balenciaga-triple-s-9730-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9730\balenciaga-triple-s-9730-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9730/balenciaga-triple-s-9730-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9730\balenciaga-triple-s-9730-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9730/balenciaga-triple-s-9730-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9730\balenciaga-triple-s-9730-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9730/balenciaga-triple-s-9730-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9730\balenciaga-triple-s-9730-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/9730/balenciaga-triple-s-9730-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\9730\balenciaga-triple-s-9730-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/zhenskie?manufacturer_id=99
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\zhenskie-3.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10193/balenciaga-triple-s-10193-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10193\balenciaga-triple-s-10193-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10193/balenciaga-triple-s-10193-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10193\balenciaga-triple-s-10193-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10193/balenciaga-triple-s-10193-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10193\balenciaga-triple-s-10193-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10193/balenciaga-triple-s-10193-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10193\balenciaga-triple-s-10193-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10193/balenciaga-triple-s-10193-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10193\balenciaga-triple-s-10193-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10455/balenciaga-triple-s-10455-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10455\balenciaga-triple-s-10455-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10455/balenciaga-triple-s-10455-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10455\balenciaga-triple-s-10455-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10455/balenciaga-triple-s-10455-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10455\balenciaga-triple-s-10455-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10455/balenciaga-triple-s-10455-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10455\balenciaga-triple-s-10455-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10455/balenciaga-triple-s-10455-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10455\balenciaga-triple-s-10455-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10463/balenciaga-triple-s-10463-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10463\balenciaga-triple-s-10463-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10463/balenciaga-triple-s-10463-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10463\balenciaga-triple-s-10463-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10463/balenciaga-triple-s-10463-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10463\balenciaga-triple-s-10463-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10463/balenciaga-triple-s-10463-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10463\balenciaga-triple-s-10463-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10463/balenciaga-triple-s-10463-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10463\balenciaga-triple-s-10463-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5940/nike-air-vapormax-5940-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5940\nike-air-vapormax-5940-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5940/nike-air-vapormax-5940-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5940\nike-air-vapormax-5940-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5940/nike-air-vapormax-5940-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5940\nike-air-vapormax-5940-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5940/nike-air-vapormax-5940-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5940\nike-air-vapormax-5940-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5940/nike-air-vapormax-5940-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5940\nike-air-vapormax-5940-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//7843/nike-air-vapormax-7843-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7843\nike-air-vapormax-7843-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/krossovki/muzhskie/nike-air-vapormax-7843
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\krossovki\muzhskie\nike-air-vapormax-7843.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5941/nike-air-vapormax-5941-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5941\nike-air-vapormax-5941-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5941/nike-air-vapormax-5941-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5941\nike-air-vapormax-5941-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5941/nike-air-vapormax-5941-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5941\nike-air-vapormax-5941-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5941/nike-air-vapormax-5941-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5941\nike-air-vapormax-5941-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5941/nike-air-vapormax-5941-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5941\nike-air-vapormax-5941-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5942/nike-air-vapormax-5942-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5942\nike-air-vapormax-5942-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5942/nike-air-vapormax-5942-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5942\nike-air-vapormax-5942-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5942/nike-air-vapormax-5942-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5942\nike-air-vapormax-5942-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5942/nike-air-vapormax-5942-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5942\nike-air-vapormax-5942-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5942/nike-air-vapormax-5942-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5942\nike-air-vapormax-5942-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5943/nike-air-vapormax-5943-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5943\nike-air-vapormax-5943-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5943/nike-air-vapormax-5943-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5943\nike-air-vapormax-5943-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5943/nike-air-vapormax-5943-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5943\nike-air-vapormax-5943-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5943/nike-air-vapormax-5943-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5943\nike-air-vapormax-5943-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/5943/nike-air-vapormax-5943-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\5943\nike-air-vapormax-5943-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7842/nike-air-vapormax-7842-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7842\nike-air-vapormax-7842-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7842/nike-air-vapormax-7842-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7842\nike-air-vapormax-7842-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7842/nike-air-vapormax-7842-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7842\nike-air-vapormax-7842-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7842/nike-air-vapormax-7842-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7842\nike-air-vapormax-7842-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7842/nike-air-vapormax-7842-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7842\nike-air-vapormax-7842-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10996/thumb_adidas-deerupt-10996-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10996\thumb_adidas-deerupt-10996-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11197/thumb_adidas-p-o-d-11197-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11197\thumb_adidas-p-o-d-11197-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11027/thumb_nike-air-presto-x-off-white-11027-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11027\thumb_nike-air-presto-x-off-white-11027-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//10845/thumb_nike-air-max-270-10845-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10845\thumb_nike-air-max-270-10845-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11067/thumb_nike-air-vapormax-plus-11067-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11067\thumb_nike-air-vapormax-plus-11067-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11042/thumb_adidas-yeezy-500-11042-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11042\thumb_adidas-yeezy-500-11042-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11199/thumb_adidas-nmd-x-pharrell-williams-11199-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11199\thumb_adidas-nmd-x-pharrell-williams-11199-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products//11018/thumb_balenciaga-triple-s-11018-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\11018\thumb_balenciaga-triple-s-11018-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_easybookreloaded/images/entry_bg.gif
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_easybookreloaded\images\entry_bg.gif
+Content Type: image/gif
+
+Uri: http://xn--80awro.xn--p1ai/media/plg_captcha_recaptcha/js/recaptcha.min.js?d17686dd8a4bb2627374421782eab202
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\media\plg_captcha_recaptcha\js\recaptcha.min.js
+Content Type: application/javascript
+
+Uri: http://xn--80awro.xn--p1ai/images/action/1.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\images\action\1.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/index.php?option=com_jshopping&view=products&task=label&label_id=6
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\index-3.htm
+Content Type: text/html
+
+Uri: http://xn--80awro.xn--p1ai/templates/neos/img/opt.png
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\templates\neos\img\opt.png
+Content Type: image/png
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4150/nike-air-jordan-1-4150-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4150\nike-air-jordan-1-4150-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4150/nike-air-jordan-1-4150-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4150\nike-air-jordan-1-4150-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4150/nike-air-jordan-1-4150-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4150\nike-air-jordan-1-4150-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4150/nike-air-jordan-1-4150-7.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4150\nike-air-jordan-1-4150-7.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4150/nike-air-jordan-1-4150-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4150\nike-air-jordan-1-4150-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4150/nike-air-jordan-1-4150-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4150\nike-air-jordan-1-4150-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4150/nike-air-jordan-1-4150-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4150\nike-air-jordan-1-4150-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10983/adidas-nmd-x-pharrell-williams-10983-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10983\adidas-nmd-x-pharrell-williams-10983-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10983/adidas-nmd-x-pharrell-williams-10983-6.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10983\adidas-nmd-x-pharrell-williams-10983-6.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10983/adidas-nmd-x-pharrell-williams-10983-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10983\adidas-nmd-x-pharrell-williams-10983-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10983/adidas-nmd-x-pharrell-williams-10983-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10983\adidas-nmd-x-pharrell-williams-10983-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10983/adidas-nmd-x-pharrell-williams-10983-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10983\adidas-nmd-x-pharrell-williams-10983-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10983/adidas-nmd-x-pharrell-williams-10983-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10983\adidas-nmd-x-pharrell-williams-10983-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10166/nike-air-max-270-10166-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10166\nike-air-max-270-10166-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10166/nike-air-max-270-10166-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10166\nike-air-max-270-10166-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10166/nike-air-max-270-10166-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10166\nike-air-max-270-10166-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10166/nike-air-max-270-10166-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10166\nike-air-max-270-10166-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10166/nike-air-max-270-10166-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10166\nike-air-max-270-10166-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4182/nike-air-presto-4182-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4182\nike-air-presto-4182-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4182/nike-air-presto-4182-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4182\nike-air-presto-4182-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4182/nike-air-presto-4182-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4182\nike-air-presto-4182-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4182/nike-air-presto-4182-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4182\nike-air-presto-4182-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/4182/nike-air-presto-4182-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\4182\nike-air-presto-4182-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/539/adidas-zx-750-539-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\539\adidas-zx-750-539-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/539/adidas-zx-750-539-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\539\adidas-zx-750-539-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/543/adidas-zx-750-543-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\543\adidas-zx-750-543-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/543/adidas-zx-750-543-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\543\adidas-zx-750-543-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/548/adidas-zx-750-548-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\548\adidas-zx-750-548-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/548/adidas-zx-750-548-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\548\adidas-zx-750-548-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/548/adidas-zx-750-548-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\548\adidas-zx-750-548-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/548/adidas-zx-750-548-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\548\adidas-zx-750-548-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/548/adidas-zx-750-548-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\548\adidas-zx-750-548-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10464/balenciaga-triple-s-10464-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10464\balenciaga-triple-s-10464-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10464/balenciaga-triple-s-10464-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10464\balenciaga-triple-s-10464-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10464/balenciaga-triple-s-10464-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10464\balenciaga-triple-s-10464-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10464/balenciaga-triple-s-10464-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10464\balenciaga-triple-s-10464-2.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/10464/balenciaga-triple-s-10464-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\10464\balenciaga-triple-s-10464-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7843/nike-air-vapormax-7843-1.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7843\nike-air-vapormax-7843-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7843/nike-air-vapormax-7843-4.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7843\nike-air-vapormax-7843-4.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7843/nike-air-vapormax-7843-3.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7843\nike-air-vapormax-7843-3.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7843/nike-air-vapormax-7843-5.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7843\nike-air-vapormax-7843-5.jpg
+Content Type: image/jpeg
+
+Uri: http://xn--80awro.xn--p1ai/components/com_jshopping/files/img_products/7843/nike-air-vapormax-7843-2.jpg
+File Name: C:\Users\1234\Desktop\ca\xn--80awro.xn--p1ai\components\com_jshopping\files\img_products\7843\nike-air-vapormax-7843-2.jpg
+Content Type: image/jpeg
+

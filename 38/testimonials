@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Отзывы покупателей</title>
+		<description><![CDATA[]]></description>
+		<link>http://xn--80awro.xn--p1ai/testimonials</link>
+		<lastBuildDate>Fri, 07 Sep 2018 00:36:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://xn--80awro.xn--p1ai/testimonials?format=feed&amp;type=rss"/>
+		<language>ru-ru</language>
+		<item>
+			<title>Арина</title>
+			<link>http://xn--80awro.xn--p1ai/testimonials#gbentry_72</link>
+			<guid isPermaLink="true">http://xn--80awro.xn--p1ai/testimonials#gbentry_72</guid>
+			<description><![CDATA[Заказывала здесь первый раз и была приятно удивлена как ценой, так и очень хорошим качеством. Буду заказывать ещё)]]></description>
+			<category>Guestbook</category>
+			<pubDate>Thu, 06 Sep 2018 10:32:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Даниил</title>
+			<link>http://xn--80awro.xn--p1ai/testimonials#gbentry_71</link>
+			<guid isPermaLink="true">http://xn--80awro.xn--p1ai/testimonials#gbentry_71</guid>
+			<description><![CDATA[Очень понравились кроссовки BALENCIAGA TRIPLE S.
+Они очень стильные, эстетичные, а самое главное удобные!
+Очень радует качество товара и цена, не отличить от оригинала!]]></description>
+			<category>Guestbook</category>
+			<pubDate>Thu, 06 Sep 2018 09:50:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>Юля</title>
+			<link>http://xn--80awro.xn--p1ai/testimonials#gbentry_69</link>
+			<guid isPermaLink="true">http://xn--80awro.xn--p1ai/testimonials#gbentry_69</guid>
+			<description><![CDATA[Извините, что так долго не могла оставить отзыв =) уже давно получили кроссовочки, качество отличное, всё как на фото =)
+Муж очень доволен! Спасибо вам. Будем брать еще.]]></description>
+			<category>Guestbook</category>
+			<pubDate>Mon, 03 Sep 2018 09:39:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>Михаил</title>
+			<link>http://xn--80awro.xn--p1ai/testimonials#gbentry_68</link>
+			<guid isPermaLink="true">http://xn--80awro.xn--p1ai/testimonials#gbentry_68</guid>
+			<description><![CDATA[Хасл! Вы реально ХАСЛ! 
+Нашел ваш сайт вчера на просторах :)
+в 11 часов дня заказал кроссовки, в 14:15 мне уже в дверь постучался курьер :)
+Сервис на высоте, вежливый курьер, который позвонил за час до приезда.
+Товар очень качественный, я не могу отличить от оригинала, просто 5+
+Буду советовать вас друзьям, ну и конечно покупать у вас дальше! 
+Успехов вам! ]]></description>
+			<category>Guestbook</category>
+			<pubDate>Wed, 29 Aug 2018 05:08:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Иван</title>
+			<link>http://xn--80awro.xn--p1ai/testimonials#gbentry_67</link>
+			<guid isPermaLink="true">http://xn--80awro.xn--p1ai/testimonials#gbentry_67</guid>
+			<description><![CDATA[Спасиб, за Adidas Yeezy 350 Boost v2
+Качество на высоте!
+Брал арт 6925]]></description>
+			<category>Guestbook</category>
+			<pubDate>Thu, 09 Aug 2018 04:06:53 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
