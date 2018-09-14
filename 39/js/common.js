@@ -8,4 +8,8 @@ $(function() {
 		nextArrow: '<div type="button" class="next-ar"></div>'
 	});
 
+	$(".mobile-menu").click(function(){
+		$(".mobile-nav").toggleClass("show");
+	});
+
 });
