@@ -2,6 +2,10 @@
     content: "";
     background: url(../images/md/hero-image.png) no-repeat top center;
 }
+.benefits-img{
+	max-height: 200px;
+	/*height: auto;*/
+}
 
 
 
@@ -54,8 +58,18 @@
 		right: 0px;
 		left: auto;
 		background: #627e9c;
+		font-size: 20px;
 	}
 		/*end header*/
+	h3, p{
+		text-align: center;
+	}
+	.catalog-brand-img .img-responsive{
+		margin: 0 auto;
+	}
+	.catalog-brand-img .text{
+		text-align: center;
+	}
 
 }
 
