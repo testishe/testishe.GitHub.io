@@ -1,0 +1,83 @@
+.hero-img:before {
+    content: "";
+    background: url(../images/md/hero-image.png) no-repeat top center;
+}
+
+
+
+/*==========  Desktop First  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px){
+	/**/
+}
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px){
+	#menu-padding-block {
+		padding-top: 120px;
+	}
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px){
+	.navbar-brand>img{
+		width: 150px;
+		height: auto;
+	}
+	body{
+		font-size: 18px;
+	}
+	.navbar .container{
+		display: flex;
+		justify-content: space-between;
+	}
+	.navbar-header{
+		display: flex;
+		align-items: center;
+	}
+	nav .navbar-brand{
+		display: flex;
+		align-items: center;
+		height: auto;
+	}
+	.navbar-nav{
+		max-width: 400px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+	}
+	.navbar-nav .open .dropdown-menu{
+		position: absolute;
+		right: 0px;
+		left: auto;
+		background: #627e9c;
+	}
+		/*end header*/
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px){
+	.navbar-brand>img{
+		width: 120px;
+		height: auto;
+	}
+	.navbar-nav{
+		font-size: 12px;
+	}
+	/*header end*/
+	#menu-padding-block {
+		padding-top: 100px;
+	}
+}
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px){
+	/**/
+}
+
+
